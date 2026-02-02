@@ -198,33 +198,37 @@
 
 **[⬆️ 返回目录](#table-of-contents)**
 
-## Cloud management solutions
+<a id="cloud-management-solutions"></a>
 
-  * [Brainboard](https://www.brainboard.co) - Collaborative solution to visually build and manage cloud infrastructures from end-to-end.
-  * [Cloud 66](https://www.cloud66.com/) - Free for personal projects (includes one deployment server, one static site), Cloud 66 gives you everything you need to build, deploy, and grow your applications on any cloud without the headache of the “server stuff.”.
-  * [deployment.io](https://deployment.io) - Deployment.io helps developers automate deployments on AWS. On our free tier, a developer (single user) can deploy unlimited static sites, web services, and environments. We provide 10 job executions free per month with previews and auto-deploys included in the free tier.
-  * [Pulumi](https://www.pulumi.com/) — Modern infrastructure as a code platform that allows you to use familiar programming languages and tools to build, deploy, and manage cloud infrastructure.
-  * [scalr.com](https://scalr.com/) - Scalr is a Terraform Automation and COllaboration (TACO) product used to better collaboration and automation on infrastructure and configurations managed by Terraform. Full Terraform CLI support, OPA integration, and a hierarchical configuration model. No SSO tax. All features are included. Use up to 50 runs/month for free.
+## 云管理解决方案
 
-**[⬆️ Back to Top](#table-of-contents)**
+  * [Brainboard](https://www.brainboard.co) - 协作式解决方案，可视化构建并端到端管理云基础设施。
+  * [Cloud 66](https://www.cloud66.com/) - 个人项目免费（含 1 台部署服务器、1 个静态站点）。Cloud 66 让你在任意云上构建、部署并扩展应用，无需操心“服务器杂事”。
+  * [deployment.io](https://deployment.io) - Deployment.io 帮助开发者自动化 AWS 部署。免费层中，开发者（单用户）可部署不限数量的静态站点、Web 服务与环境。免费层每月提供 10 次作业执行，并包含预览与自动部署。
+  * [Pulumi](https://www.pulumi.com/) — 现代基础设施即代码平台，允许使用熟悉的编程语言和工具来构建、部署和管理云基础设施。
+  * [scalr.com](https://scalr.com/) - Scalr 是 Terraform 自动化与协作（TACO）产品，用于提升 Terraform 管理的基础设施与配置的协作和自动化。支持完整 Terraform CLI、OPA 集成与分层配置模型。无 SSO 额外费用，所有功能均包含在内。每月可免费运行至多 50 次。
 
-## Source Code Repos
+**[⬆️ 返回目录](#table-of-contents)**
 
-  * [Bitbucket](https://bitbucket.org/) — Unlimited public and private Git repos for up to 5 users with Pipelines for CI/CD
-  * [Codeberg](https://codeberg.org/) — Unlimited public and private Git repos for free and open-source projects (with unlimited collaborators). Powered by [Forgejo](https://forgejo.org/). Static website hosting with [Codeberg Pages](https://codeberg.page/). CI/CD hosting with [Codeberg's CI](https://docs.codeberg.org/ci/). Translating hosting with [Codeberg Translate](https://translate.codeberg.org/). Includes Package and Container hosting, Project management, and Issue Tracking
-  * [framagit.org](https://framagit.org/) — Framagit is the software forge of Framasoft based on the Gitlab software includes CI, Static Pages, Project pages and Issue tracking.
-  * [GitGud](https://gitgud.io) — Unlimited private and public repositories. Free forever. Powered by GitLab & Sapphire. CI/CD not provided.
-  * [GitHub](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Includes CI/CD, Development Environment, Static Hosting, Package and Container hosting, Project management and AI Copilot
-  * [gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with up to 5 collaborators. Includes CI/CD, Static Hosting, Container Registry, Project Management and Issue Tracking
-  * [heptapod.net](https://foss.heptapod.net/) — Heptapod is a friendly fork of GitLab Community Edition providing support for Mercurial
-  * [Pagure.io](https://pagure.io) — Pagure.io is a free and open source software code collaboration platform for FOSS-licensed projects, Git-based
-  * [pijul.com](https://pijul.com/) - Unlimited free and open source distributed version control system. Its distinctive feature is based on a sound theory of patches, which makes it easy to learn, use, and distribute. Solves many problems of git/hg/svn/darcs.
-  * [projectlocker.com](https://projectlocker.com) — One free private project (Git and Subversion) with 50 MB of space
-  * [RocketGit](https://rocketgit.com) — Repository Hosting based on Git. Unlimited Public and private repositories.
-  * [savannah.gnu.org](https://savannah.gnu.org/) - Serves as a collaborative software development management system for free Software projects (for GNU Projects)
-  * [savannah.nongnu.org](https://savannah.nongnu.org/) - Serves as a collaborative software development management system for free Software projects (for non-GNU projects)
+<a id="source-code-repos"></a>
 
-**[⬆️ Back to Top](#table-of-contents)**
+## 源代码仓库
+
+  * [Bitbucket](https://bitbucket.org/) — 最多 5 名用户的无限公共/私有 Git 仓库，含 Pipelines 用于 CI/CD
+  * [Codeberg](https://codeberg.org/) — 面向自由与开源项目的无限公共与私有 Git 仓库（协作者不限）。基于 [Forgejo](https://forgejo.org/)。提供 [Codeberg Pages](https://codeberg.page/) 静态网站托管、[Codeberg's CI](https://docs.codeberg.org/ci/) 的 CI/CD 托管、[Codeberg Translate](https://translate.codeberg.org/) 的翻译托管。包含包与容器托管、项目管理与问题跟踪
+  * [framagit.org](https://framagit.org/) — Framasoft 的软件协作平台，基于 GitLab，包含 CI、静态页面、项目页面与问题跟踪。
+  * [GitGud](https://gitgud.io) — 无限私有与公开仓库，永久免费。基于 GitLab 与 Sapphire。未提供 CI/CD。
+  * [GitHub](https://github.com/) — 无限公共仓库与无限私有仓库（协作者不限）。包含 CI/CD、开发环境、静态托管、包与容器托管、项目管理与 AI Copilot
+  * [gitlab.com](https://about.gitlab.com/) — 无限公共与私有 Git 仓库（最多 5 名协作者）。包含 CI/CD、静态托管、容器注册表、项目管理与问题跟踪
+  * [heptapod.net](https://foss.heptapod.net/) — Heptapod 是 GitLab Community Edition 的友好分支，支持 Mercurial
+  * [Pagure.io](https://pagure.io) — 面向 FOSS 许可项目的免费开源协作平台，基于 Git
+  * [pijul.com](https://pijul.com/) - 无限免费的开源分布式版本控制系统。其独特之处是基于补丁理论，易于学习、使用和分发，可解决 git/hg/svn/darcs 的许多问题。
+  * [projectlocker.com](https://projectlocker.com) — 提供 1 个免费的私有项目（Git 与 Subversion），50 MB 空间
+  * [RocketGit](https://rocketgit.com) — 基于 Git 的仓库托管。公共与私有仓库不限量。
+  * [savannah.gnu.org](https://savannah.gnu.org/) - GNU 项目的免费协作式软件开发管理系统
+  * [savannah.nongnu.org](https://savannah.nongnu.org/) - 非 GNU 项目的免费协作式软件开发管理系统
+
+**[⬆️ 返回目录](#table-of-contents)**
 
 ## APIs, Data, and ML
 
