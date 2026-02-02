@@ -230,39 +230,41 @@
 
 **[⬆️ 返回目录](#table-of-contents)**
 
-## APIs, Data, and ML
+<a id="apis-data-and-ml"></a>
 
-  * [Abstract API](https://www.abstractapi.com) — API suite for various use cases, including IP geolocation, gender detection, or email validation.
-  * [Apify](https://www.apify.com/) — Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month.
-  * [APITemplate.io](https://apitemplate.io) - Auto-generate images and PDF documents with a simple API or automation tools like Zapier & Airtable. No CSS/HTML is required. The free plan comes with 50 images/month and three templates.
-  * [APIVerve](https://apiverve.com) - Get instant access to over 120+ APIs for free, built with quality, consistency, and reliability in mind. The free plan covers up to 50 API Tokens per month. (Possibly taken down, 2025-06-25)
-  * [Arize AI](https://arize.com/) - Machine learning observability for model monitoring and root-causing issues such as data quality and performance drift. Free up to two models.
-  * [Beeceptor](https://beeceptor.com) - No-code, cloud-based platform for mocking and debugging multi-protocol APIs (REST, SOAP, gRPC & GraphQL), providing instant servers with rules-based logic, CRUD & stateful mocking, proxying, and CORS management for faster integration and testing. The free plan includes 50 requests per day and provides a public dashboard/endpoint where anyone with the dashboard URL can view submitted requests and responses.
-  * [BigDataCloud](https://www.bigdatacloud.com/) - Provides fast, accurate, and free (Unlimited or up to 10K-50K/month) APIs for modern web like IP Geolocation, Reverse Geocoding, Networking Insights, Email and Phone Validation, Client Info and more.
-  * [Browse AI](https://www.browse.ai) — Extracting and monitoring data on the web. 1k credits per month for free, equals 1k concurrent requests.
-  * [BrowserCat](https://www.browsercat.com) - Headless browser API for automation, scraping, AI agent web access, image/pdf generation, and more. Free plan with 1k requests per month.
-  * [Calendarific](https://calendarific.com) - Enterprise-grade Public holiday API service for over 200 countries. The free plan includes 500 calls per month.
-  * [Canopy](https://www.canopyapi.co/) - GraphQL API for Amazon.com product, search, and category data. The free plan includes 100 calls per month.
-  * [CarAPI.dev](https://carapi.dev) — Comprehensive automotive data API with VIN decoding, stolen vehicle checks, vehicle valuation, inspection data, and more. Free tier includes 100 requests/month across all 9 endpoints.
-  * [Cloudmersive](https://cloudmersive.com/) — Utility API platform with full access to expansive API Library including Document Conversion, Virus Scanning, and more with 600 calls/month, North America AZ only, 2.5MB maximum file size.
-  * [Colaboratory](https://colab.research.google.com) — Free web-based Python notebook environment with Nvidia Tesla K80 GPU.
-  * [CometML](https://www.comet.com/site/) - The MLOps platform for experiment tracking, model production management, model registry, and complete data lineage, covering your workflow from training to production. Free for individuals and academics.
-  * [Commerce Layer](https://commercelayer.io) - Composable commerce API that can build, place, and manage orders from any front end. The developer plan allows 100 orders per month and up to 1,000 SKUs for free.
-  * [Composio](https://composio.dev/) - Integration platform for AI Agents and LLMs. Integrate over 200+ tools across the agentic internet.
-  * [Conversion Tools](https://conversiontools.io/) - Online File Converter for documents, images, video, audio, and eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). The free tier is limited by file size (20MB) and number of conversions (30/Day, 300/Month).
-  * [Country-State-City Microservice API](https://country-state-city.rebuscando.info/) - API and Microservice to provides a wide range of information including countries, regions, provinces, cities, postal codes, and much more. The free tier includes up to 100 requests per day.
-  * [Coupler](https://www.coupler.io/) - Data integration tool that syncs between apps. It can create live dashboards and reports, transform and manipulate values, and collect and back up insights. The free plan is limited to one user, data connection, data source, and data destination. Also requires manual data refresh.
-  * [CraftMyPDF](https://craftmypdf.com) - Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. The free plan comes with 100 PDFs/month and three templates.
-  * [Cube](https://cube.dev/) - Cube helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application. The fastest way to use Cube is with Cube Cloud, which has a free tier limited to 1,000 queries per day.
-  * [CurlHub](https://curlhub.io) — Proxy service for inspecting and debugging API calls. The free plan includes 10,000 requests per month.
-  * [CurrencyScoop](https://currencyscoop.com) - Realtime currency data API for fintech apps. The free plan includes 5,000 calls per month.
-  * [CustomJS](https://www.customjs.io) - HTML to PDF or PDF to PNG/Text & PDF merging/extraction/merging APIs. Free tier has 600 calls a month.
-  * [Data Fetcher](https://datafetcher.com) - Connect Airtable to any application or API with no code. Postman-like interface for running API requests in Airtable. Pre-built integrations with dozens of apps. The free plan includes 100 runs per month.
-  * [Data Miner](https://dataminer.io/) - A browser extension (Google Chrome, MS Edge) for data extraction from web pages CSV or Excel. The free plan gives you 500 pages/month.
-  * [Dataimporter.io](https://www.dataimporter.io) - Tool for connecting, cleaning, and importing data into Salesforce. Free Plan includes up to 20,000 records per month.
-  * [Datalore](https://datalore.jetbrains.com) - Python notebooks by Jetbrains. Includes 10 GB of storage and 120 hours of runtime each month.
-  * [DB Designer](https://www.dbdesigner.net/) — Cloud-based Database schema design and modeling tool with a free starter plan of 2 Database models and ten tables per model.
-  * [DB-IP](https://db-ip.com/api/free) - Free IP geolocation API with 1k request per IP per day.lite database under the CC-BY 4.0 License is free too.
+## API、数据与机器学习
+
+  * [Abstract API](https://www.abstractapi.com) — 适用于多种场景的 API 套件，包括 IP 地理定位、性别检测或邮箱验证等。
+  * [Apify](https://www.apify.com/) — Web 抓取与自动化平台，可为任意网站创建 API 并提取数据。提供现成爬虫、集成代理和定制方案。免费计划每月含 5 美元平台额度。
+  * [APITemplate.io](https://apitemplate.io) - 通过简单 API 或 Zapier、Airtable 等自动化工具自动生成图片与 PDF。无需 CSS/HTML。免费计划每月 50 张图片与 3 个模板。
+  * [APIVerve](https://apiverve.com) - 免费即时访问 120+ API，强调质量、一致性与可靠性。免费计划每月最多 50 个 API Token。（可能已下线，2025-06-25）
+  * [Arize AI](https://arize.com/) - 机器学习可观测性，用于模型监控并定位数据质量、性能漂移等问题。最多免费支持 2 个模型。
+  * [Beeceptor](https://beeceptor.com) - 无代码云平台，用于模拟与调试多协议 API（REST、SOAP、gRPC 与 GraphQL），提供基于规则的逻辑、CRUD 与有状态模拟、代理与 CORS 管理，加速集成与测试。免费计划每天 50 次请求，并提供公开仪表盘/端点，拥有仪表盘 URL 的任何人都可查看提交的请求与响应。
+  * [BigDataCloud](https://www.bigdatacloud.com/) - 提供快速、准确、免费的 API（不限量或每月 10K-50K），涵盖 IP 定位、逆地理编码、网络洞察、邮箱与电话验证、客户端信息等。
+  * [Browse AI](https://www.browse.ai) — 用于网页数据提取与监控。免费每月 1k 积分，相当于 1k 并发请求。
+  * [BrowserCat](https://www.browsercat.com) - 无头浏览器 API，用于自动化、抓取、AI 代理访问、图片/PDF 生成等。免费计划每月 1k 次请求。
+  * [Calendarific](https://calendarific.com) - 企业级公共假期 API，覆盖 200+ 国家。免费计划每月 500 次调用。
+  * [Canopy](https://www.canopyapi.co/) - 面向 Amazon.com 商品、搜索与分类数据的 GraphQL API。免费计划每月 100 次调用。
+  * [CarAPI.dev](https://carapi.dev) — 综合汽车数据 API，包含 VIN 解码、被盗车辆检查、估值、检验数据等。免费层覆盖 9 个端点合计每月 100 次请求。
+  * [Cloudmersive](https://cloudmersive.com/) — 通用工具 API 平台，提供文档转换、病毒扫描等庞大 API 库。每月 600 次调用，仅北美可用，文件最大 2.5MB。
+  * [Colaboratory](https://colab.research.google.com) — 免费的 Web 版 Python Notebook 环境，提供 Nvidia Tesla K80 GPU。
+  * [CometML](https://www.comet.com/site/) - MLOps 平台用于实验追踪、模型生产管理、模型注册与完整数据谱系，覆盖从训练到生产的流程。个人与学术用户免费。
+  * [Commerce Layer](https://commercelayer.io) - 可组合电商 API，可从任意前端构建、下单与管理订单。开发者计划每月免费 100 笔订单，最多 1,000 个 SKU。
+  * [Composio](https://composio.dev/) - AI 代理与 LLM 的集成平台，可接入 200+ 工具。
+  * [Conversion Tools](https://conversiontools.io/) - 在线文件转换器（文档、图片、视频、音频、电子书）。提供 REST API 与 Node.js、PHP、Python 库。付费计划支持最大 50 GB 文件。免费层限制文件大小 20MB，转换次数 30/天、300/月。
+  * [Country-State-City Microservice API](https://country-state-city.rebuscando.info/) - 提供国家、地区、省份、城市、邮编等信息的 API/微服务。免费层每天最多 100 次请求。
+  * [Coupler](https://www.coupler.io/) - 应用间数据同步工具，可创建仪表盘与报表、转换处理数据并备份洞察。免费计划限制为 1 名用户、1 个数据连接、1 个数据源和 1 个数据目的地，并需手动刷新。
+  * [CraftMyPDF](https://craftmypdf.com) - 基于可复用模板自动生成 PDF，提供拖拽编辑器与简单 API。免费计划每月 100 份 PDF，3 个模板。
+  * [Cube](https://cube.dev/) - 帮助数据工程师与应用开发者访问现代数据存储、统一定义并分发到应用。使用 Cube Cloud 的免费层每天最多 1,000 次查询。
+  * [CurlHub](https://curlhub.io) — 用于检查与调试 API 调用的代理服务。免费计划每月 10,000 次请求。
+  * [CurrencyScoop](https://currencyscoop.com) - 面向金融科技应用的实时汇率数据 API。免费计划每月 5,000 次调用。
+  * [CustomJS](https://www.customjs.io) - 提供 HTML 转 PDF、PDF 转 PNG/文本、PDF 合并/提取等 API。免费层每月 600 次调用。
+  * [Data Fetcher](https://datafetcher.com) - 无代码将 Airtable 连接到任意应用或 API。提供类似 Postman 的 Airtable 请求界面，内置几十种集成。免费计划每月 100 次运行。
+  * [Data Miner](https://dataminer.io/) - 浏览器扩展（Chrome、Edge）用于从网页提取数据到 CSV 或 Excel。免费计划每月 500 页。
+  * [Dataimporter.io](https://www.dataimporter.io) - 用于连接、清洗并导入数据到 Salesforce 的工具。免费计划每月最多 20,000 条记录。
+  * [Datalore](https://datalore.jetbrains.com) - JetBrains 的 Python Notebook。每月含 10 GB 存储与 120 小时运行时长。
+  * [DB Designer](https://www.dbdesigner.net/) — 云端数据库架构设计与建模工具，免费入门计划含 2 个数据库模型，每个模型 10 张表。
+  * [DB-IP](https://db-ip.com/api/free) - 免费 IP 地理定位 API，每个 IP 每天 1k 次请求。CC-BY 4.0 许可的 Lite 数据库也可免费使用。
   * [DeepAR](https://developer.deepar.ai) — Augmented reality face filters for any platform with one SDK. The free plan provides up to 10 monthly active users (MAU) and tracks up to 4 faces
   * [Deepnote](https://deepnote.com) - A new data science notebook. Jupyter is compatible with real-time collaboration and running in the cloud. The free tier includes unlimited personal projects, unlimited basic machines with 5GB RAM and 2vCPU, and teams with up to 3 editors.
   * [DiffJSON](https://diffjson.com) - An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.
