@@ -364,7 +364,7 @@
   * [Zipcodestack](https://zipcodestack.com) - 免费邮编 API 与邮编校验。每月 10,000 次免费请求。
   * [Zuplo](https://zuplo.com/) - 免费 API 管理平台，可在边缘设计、构建与部署 API。支持 API Key 认证、限流、开发者文档与变现。OpenAPI 原生、可用 Web 标准 API 与 TypeScript 完全编程。免费计划最多 10 个项目、无限生产边缘环境、每月 1M 请求与 10GB 出站流量。
 
-**[⬆️ Back to Top](#table-of-contents)**
+**[⬆️ 返回目录](#table-of-contents)**
 
 <a id="artifact-repos"></a>
 
@@ -379,81 +379,83 @@
 
 **[⬆️ 返回目录](#table-of-contents)**
 
-## Tools for Teams and Collaboration
+<a id="tools-for-teams-and-collaboration"></a>
 
-  * [3Cols](https://3cols.com/) - A free cloud-based code snippet manager for personal and collaborative code.
-  * [BookmarkOS.com](https://bookmarkos.com) - Free all-on-one bookmark manager, tab manager, and task manager in a customizable online desktop with folder collaboration.
-  * [Braid](https://www.braidchat.com/) — Chat app designed for teams. Free for public access group, unlimited users, history, and integrations. also, it provides a self-hostable open-source version.
-  * [Calendly](https://calendly.com) — Calendly is the tool for connecting and scheduling meetings. The free plan provides 1 Calendar connection per user and Unlimited sessions. Desktop and Mobile apps are also offered.
-  * [cally.com](https://cally.com/) — Find the perfect time and date for a meeting. Simple to use, works great for small and large groups.
-  * [Chanty.com](https://chanty.com/) — Chanty is another alternative to Slack. It has a free forever plan for small teams (up to 10) with unlimited public and private conversations, searchable history, unlimited 1:1 audio calls, unlimited voice messages, ten integrations, and 20 GB storage per team.
-  * [DevToolLab](https://devtoollab.com) — Online developer tools offering free access to all basic tools, with the ability to auto save one entry per tool, standard processing speed, and community support.
-  * [Discord](https://discord.com/) — Chat with public/private rooms. Markdown text, voice, video, and screen sharing capabilities. Free for unlimited users.
-  * [Dubble](https://dubble.so/) — Free Step-by-Step Guide creator. Take screenshots, document processes and colloborate with your team. Also supports async screen recording.
-  * [Duckly](https://duckly.com/) — Talk and collaborate in real time with your team. Pair programming with IDE, terminal sharing, voice, video, and screen sharing. Free for small teams.
-  * [element.io](https://element.io/) — A decentralized and open-source communication tool built on Matrix. Group chats, direct messaging, encrypted file transfers, voice and video chats, and easy integration with other services.
-  * [evernote.com](https://evernote.com/) — Tool for organizing information. Share your notes and work together with others
-  * [Fibery](https://fibery.io/) — Connected workspace platform. Free for single users, up to 2 GB disk space.
-  * [Fibo](https://fibo.dev) - A free online realtime scrum poker tool for agile teams that lets unlimited members estimate story points for faster planning.
-  * [Fizzy](https://www.fizzy.do/) - Kanban-based platform for project management and issue tracking. Create public boards, set up webhooks, use card stamping, and track unlimited users — free for up to 1000 items.
-  * [flat.social](https://flat.social) - Interactive customizable spaces for team meetings & happy hours socials. Unlimited meetings, free up to 8 concurrent users.
-  * [flock.com](https://flock.com) — A faster way for your team to communicate. Free Unlimited Messages, Channels, Users, Apps & Integrations
-  * [GitBook](https://www.gitbook.com/) — Platform for capturing and documenting technical knowledge — from product docs to internal knowledge bases and APIs. Free plan for individual developers.
-  * [GitDailies](https://gitdailies.com) - Daily reports of your team's Commit and Pull Request activity on GitHub. Includes Push visualizer, peer recognition system, and custom alert builder. The free tier has unlimited users, three repos, and 3 alert configs.
-  * [gitter.im](https://gitter.im/) — Chat, for GitHub. Unlimited public and private rooms, free for teams of up to 25
-  * [gokanban.io](https://gokanban.io) - Syntax-based, no registration Kanban Board for fast use. Free with no limitations.
-  * [Hackmd.io](https://hackmd.io/) - Real time collaboration & writing tool for markdown format docs/files. Like Google Docs but for markdown files. Free unlimited number of "notes", but the number of collaborators (invitee) for private notes & template [will be limited](https://hackmd.io/pricing).
-  * [HeySpace](https://hey.space) - Task management tool with chat, calendar, timeline and video calls. Free for up to 5 users.
-  * [Huly](https://huly.io/) - All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) - unlimited users, 10GB storage per workspace, 10GB video(audio) traffic.
-  * [Keybase](https://keybase.io/) — Keybase is a FOSS alternative to Slack; it keeps everyone's chats and files safe, from families to communities to companies.
-  * [Linkinize](https://linkinize.com) — Bookmark manager for teams with tagging, multi-workspaces, and collaboration. Free plan includes 4 workspaces and 10 team members.
-  * [Lockitbot](https://www.lockitbot.com/) — Reserve and lock shared resources within Slack like Rooms, Dev environments , servers etc. Free for upto 2 resources
-  * [meet.jit.si](https://meet.jit.si/) — One-click video conversations, and screen sharing, for free
-  * [Miro](https://miro.com/) - Scalable, secure, cross-device, and enterprise-ready collaboration whiteboard for distributed teams. With a freemium plan.
-  * [Notion](https://www.notion.so/) - Notion is a note-taking and collaboration application with markdown support that integrates tasks, wikis, and databases. The company describes the app as an all-in-one workspace for note-taking, project management and task management. In addition to cross-platform apps, it can be accessed via most web browsers.
-  * [Nuclino](https://www.nuclino.com) - A lightweight and collaborative wiki for all your team's knowledge, docs, and notes. Free plan with all essential features, up to 50 items, and 5GB storage.
-  * [OnlineInterview.io](https://onlineinterview.io/) - Free code interview platform with embedded video chat, drawing board, and online code editor where you can compile and run your code on the browser. You can create a remote interview room with just one click.
-  * [paste.sh](https://paste.sh/) — This is a JavaScript and the Crypto based simple paste site.
-  * [Pastefy](https://pastefy.app/) - Beautiful and simple Pastebin with optional Client-Encryption, Multitab-Pastes, an API, a highlighted Editor and more.
-  * [Pendulums](https://pendulums.io/) - Pendulums is a free time tracking tool that helps you manage your time in a better manner with an easy-to-use interface and valuable statistics.
-  * [Proton Pass](https://proton.me/pass) — Password manager with built-in email aliases, 2FA authenticator, sharing and passkeys. Available on web, browser extension, and mobile app and desktop.
-  * [Pullflow](https://pullflow.com) — Pullflow offers an AI-enhanced platform for code review collaboration across GitHub, Slack, and VS Code.
-  * [Pumble](https://pumble.com) - Free team chat app. Unlimited users and message history, free forever.
-  * [Quidlo Timesheets](https://www.quidlo.com/timesheets) - A simple timesheet and time tracking app for teams. The free plan has time tracking and generating reports features for up to 10 users.
-  * [Raindrop.io](https://raindrop.io) - Private and secure bookmarking app for macOS, Windows, Android, iOS, and Web. Free Unlimited Bookmarks and Collaboration.
-  * [Revolt.chat](https://revolt.chat/) — An OpenSource alternative for[Discord](https://discord.com/), that respects your privacy. It also have most proprietary features from discord for free. Revolt is a all in one application that is secure and fast, while being 100% free. every features are free. They also have (official & unofficial) plugins support unlike most main-stream chatting applications.
-  * [Rocket.Chat](https://rocket.chat/) - Open-source communication platform with Omnichannel features, Matrix Federation, Bridge with others apps, Unlimited messaging, and Full messaging history.
-  * [ruttl.com](https://ruttl.com/) — The best all-in-one feedback tool to collect digital feedback and review websites, PDFs, and images.
-  * [Screen Sharing via Browser](https://screensharing.net) - Free screen sharing tool, share your screen with collabrators right from your browser, no download or registration needed. For free.
-  * [seafile.com](https://www.seafile.com/) — Private or cloud storage, file sharing, sync, discussions. The cloud version has just 1 GB
-  * [SiteDots](https://sitedots.com/) - Share feedback for website projects directly on your website, no emulation, canvas or workarounds. Completely functional free tier.
-  * [Slab](https://slab.com/) — A modern knowledge management service for teams. Free for up to 10 users.
-  * [slack.com](https://slack.com/) — Free for unlimited users with some feature limitations
-  * [StatusPile](https://www.statuspile.com/) - A status page of status pages. Could you track the status pages of your upstream providers?
-  * [Stickies](https://stickies.app/) - Visual collaboration app used for brainstorming, content curation, and notes. Free for up to 3 Walls, unlimited users, and 1 GB storage.
-  * [StreamBackdrops](https://streambackdrops.com) — Free HD virtual backgrounds for video calls and team meetings. Professional backgrounds for Zoom, Teams, and Google Meet. No signup required, free for personal use.
-  * [talky.io](https://talky.io/) — Free group video chat. Anonymous. Peer‑to‑peer. No plugins, signup, or payment required
-  * [Teamcamp](https://www.teamcamp.app) - All-in-one project management application for software development companies.
-  * [Teamhood](https://teamhood.com/) - Free Project, Task, and Issue-tracking software. Supports Kanban with Swimlanes and full Scrum implementation. Has integrated time tracking. Free for five users and three project portfolios.
-  * [Teamplify](https://teamplify.com) - improve team development processes with Team Analytics and Smart Daily Standup. Includes full-featured Time Off management for remote-first teams. Free for small groups of up to 5 users.
-  * [Telegram](https://telegram.org/) — Telegram is for everyone who wants fast, reliable messaging and calls. Business users and small teams may like the large groups, usernames, desktop apps, and powerful file-sharing options.
-  * [Tencent RTC](https://trtc.io/) — Tencent Real-Time Communication (TRTC) offers solutions for group audio/video calls.10,000 free minutes/month for the first year.
-  * [TimeCamp](https://www.timecamp.com/) - Free time tracking software for unlimited users. Easily integrates with PM tools like Jira, Trello, Asana, etc.
-  * [tldraw.com](https://tldraw.com) —  Free open-source white-boarding and diagramming tool with intelligent arrows, snapping, sticky notes, and SVG export features. Multiplayer mode for collaborative editing. Free official VS Code extension available as well.
-  * [transfernow](https://www.transfernow.net/) — simplest, fastest and safest interface to transfer and share files. Send photos, videos and other large files without a manditory subscription.
-  * [Tugboat](https://tugboat.qa) - Preview every pull request, automated and on-demand. Free for all, complimentary Nano tier for non-profits.
-  * [twist.com](https://twist.com) — An asynchronous-friendly team communication app where conversations stay organized and on-topic. Free and Unlimited plans are available. Discounts are provided for eligible teams.
-  * [userforge.com](https://userforge.com/) - Interconnected online personas, user stories and context mapping.  Helps keep design and dev in sync free for up to 3 personas and two collaborators.
-  * [Visual Debug](https://visualdebug.com) - A Visual feedback tool for better client-dev communication
-  * [Webex](https://www.webex.com/) — Video meetings with a free plan offering 40 minutes per meeting with 100 attendees.
-  * [Webvizio](https://webvizio.com) — Website feedback tool, website review software, and bug reporting tool for streamlining web development collaboration on tasks directly on live websites and web apps, images, PDFs, and design files.
-  * [whereby.com](https://whereby.com/) — One-click video conversations, for free (formerly known as appear.in)
-  * [windmill.dev](https://windmill.dev/) - Windmill is an open-source developer platform to quickly build production-grade multi-step automation and internal apps from minimal Python and Typescript scripts. As a free user, you can create and be a member of at most three non-premium workspaces.
-  * [wistia.com](https://wistia.com/) — Video hosting with viewer analytics, HD video delivery, and marketing tools to help understand your visitors, 25 videos, and Wistia branded player
-  * [wormhol.org](https://www.wormhol.org/) — Straightforward file sharing service. Share unlimited files up to 5GB with as many peers as you want.
-  * [Wormhole](https://wormhole.app/) - Share files up to 5GB with end-to-end encryption for up to 24hours. For files larger than 5 GB, it uses peer-to-peer transfer to send your files directly.
-  * [zoom.us](https://zoom.us/) — Secure Video and Web conferencing add-ons available. The free plan is limited to 40 minutes.
-  * [Zulip](https://zulip.com/) — Real-time chat with a unique email-like threading model. The free plan includes 10,000 messages of search history and File storage up to 5 GB. also, it provides a self-hostable open-source version.
+## 团队协作工具
+
+  * [3Cols](https://3cols.com/) - 免费的云端代码片段管理器，用于个人与协作代码。
+  * [BookmarkOS.com](https://bookmarkos.com) - 免费的全能书签管理器、标签管理器与任务管理器，提供可自定义的在线桌面与文件夹协作。
+  * [Braid](https://www.braidchat.com/) — 面向团队的聊天应用。公开访问群免费、用户不限、含历史记录与集成，并提供可自托管的开源版本。
+  * [Calendly](https://calendly.com) — 用于连接并安排会议的工具。免费计划每用户 1 个日历连接，会议次数不限，并提供桌面与移动应用。
+  * [cally.com](https://cally.com/) — 查找会议最佳时间与日期的工具，简单易用，适合小型与大型群体。
+  * [Chanty.com](https://chanty.com/) — Slack 的替代方案之一。小团队永久免费（最多 10 人），含无限公开/私密会话、可搜索历史、无限 1:1 语音通话、无限语音消息、10 个集成与每团队 20 GB 存储。
+  * [DevToolLab](https://devtoollab.com) — 在线开发者工具，免费访问所有基础工具，并支持为每个工具自动保存 1 条记录，提供标准处理速度与社区支持。
+  * [Discord](https://discord.com/) — 公共/私密房间聊天，支持 Markdown 文本、语音、视频与屏幕共享。用户不限，免费使用。
+  * [Dubble](https://dubble.so/) — 免费的分步指南生成器，支持截图、记录流程并与团队协作，也支持异步屏幕录制。
+  * [Duckly](https://duckly.com/) — 实时沟通协作，支持 IDE 配对编程、终端共享、语音/视频/屏幕共享。小团队免费。
+  * [element.io](https://element.io/) — 基于 Matrix 的去中心化开源通信工具，支持群聊、私聊、加密文件传输、语音/视频聊天与服务集成。
+  * [evernote.com](https://evernote.com/) — 信息整理工具，可分享笔记并与他人协作。
+  * [Fibery](https://fibery.io/) — 互联工作区平台，单人免费，最多 2 GB 磁盘空间。
+  * [Fibo](https://fibo.dev) - 面向敏捷团队的在线实时估点（Scrum Poker）工具，成员不限，便于快速规划。
+  * [Fizzy](https://www.fizzy.do/) - 基于看板的项目管理与问题跟踪平台。可创建公开看板、设置 Webhook、使用卡片标记并跟踪不限用户，免费最多 1000 项。
+  * [flat.social](https://flat.social) - 互动可定制空间，用于团队会议与社交。会议不限，最多 8 个并发用户免费。
+  * [flock.com](https://flock.com) — 更快的团队沟通方式：免费无限消息、频道、用户、应用与集成。
+  * [GitBook](https://www.gitbook.com/) — 技术知识记录与文档平台，从产品文档到内部知识库与 API 文档。个人开发者免费。
+  * [GitDailies](https://gitdailies.com) - 团队 GitHub 提交与 PR 活动日报，包含 Push 可视化、同行认可系统与自定义告警生成器。免费层用户不限、3 个仓库、3 个告警配置。
+  * [gitter.im](https://gitter.im/) — 面向 GitHub 的聊天工具。公共/私密房间不限，团队最多 25 人免费。
+  * [gokanban.io](https://gokanban.io) - 语法驱动、无需注册的看板，快速上手，免费且不限量。
+  * [Hackmd.io](https://hackmd.io/) - Markdown 文档的实时协作写作工具，类似 Google Docs。免费“笔记”数量不限，但私有笔记与模板的协作者人数将受限（见 [pricing](https://hackmd.io/pricing)）。
+  * [HeySpace](https://hey.space) - 含聊天、日历、时间线与视频通话的任务管理工具，最多 5 名用户免费。
+  * [Huly](https://huly.io/) - 一体化项目管理平台（Linear、Jira、Slack、Notion、Motion 的替代），用户不限，每工作区 10GB 存储与 10GB 视频/音频流量。
+  * [Keybase](https://keybase.io/) — Slack 的 FOSS 替代品，保障聊天与文件安全，适用于家庭、社区与公司。
+  * [Linkinize](https://linkinize.com) — 团队书签管理器，支持标签、多工作区与协作。免费计划含 4 个工作区与 10 名团队成员。
+  * [Lockitbot](https://www.lockitbot.com/) — 在 Slack 中预订并锁定共享资源（会议室、开发环境、服务器等）。最多 2 个资源免费。
+  * [meet.jit.si](https://meet.jit.si/) — 一键视频通话与屏幕共享，免费使用。
+  * [Miro](https://miro.com/) - 面向分布式团队的可扩展、安全、跨设备协作白板，提供免费计划。
+  * [Notion](https://www.notion.so/) - Notion 是支持 Markdown 的笔记与协作应用，整合任务、Wiki 与数据库。官方将其描述为集笔记、项目管理与任务管理于一体的工作区。除跨平台应用外，也可通过多数浏览器访问。
+  * [Nuclino](https://www.nuclino.com) - 轻量协作式 Wiki，用于团队知识、文档与笔记。免费计划包含全部核心功能，最多 50 项，5GB 存储。
+  * [OnlineInterview.io](https://onlineinterview.io/) - 免费代码面试平台，内置视频聊天、画板与在线代码编辑器，可在浏览器内编译运行代码。一键创建远程面试房间。
+  * [paste.sh](https://paste.sh/) — 基于 JavaScript 与加密的简易粘贴站点。
+  * [Pastefy](https://pastefy.app/) - 美观简洁的 Pastebin，支持可选客户端加密、多标签粘贴、API 与高亮编辑器等。
+  * [Pendulums](https://pendulums.io/) - 免费时间跟踪工具，界面易用，提供有价值的统计数据。
+  * [Proton Pass](https://proton.me/pass) — 密码管理器，内置邮箱别名、2FA 验证器、共享与 passkeys。支持 Web、浏览器扩展、移动与桌面应用。
+  * [Pullflow](https://pullflow.com) — AI 增强的代码评审协作平台，覆盖 GitHub、Slack 与 VS Code。
+  * [Pumble](https://pumble.com) - 免费团队聊天应用，用户与消息历史不限，永久免费。
+  * [Quidlo Timesheets](https://www.quidlo.com/timesheets) - 简单的团队工时表与时间跟踪应用。免费计划提供时间跟踪与报表功能，最多 10 名用户。
+  * [Raindrop.io](https://raindrop.io) - 私密安全的书签应用，支持 macOS、Windows、Android、iOS 与 Web。免费无限书签与协作。
+  * [Revolt.chat](https://revolt.chat/) — 开源的 [Discord](https://discord.com/) 替代品，尊重隐私，并免费提供大多数 Discord 专有功能。Revolt 是安全且高速的一体化应用，所有功能均免费，同时支持官方与非官方插件（区别于多数主流聊天应用）。
+  * [Rocket.Chat](https://rocket.chat/) - 开源通信平台，具备全渠道功能、Matrix 联邦、与其他应用的桥接、无限消息与完整历史记录。
+  * [ruttl.com](https://ruttl.com/) — 一体化反馈工具，用于收集数字反馈并评审网站、PDF 与图片。
+  * [Screen Sharing via Browser](https://screensharing.net) - 浏览器端屏幕共享工具，无需下载或注册，免费使用。
+  * [seafile.com](https://www.seafile.com/) — 私有或云存储、文件共享、同步与讨论。云端版本仅 1 GB。
+  * [SiteDots](https://sitedots.com/) - 在网站上直接收集反馈，无需仿真、画布或绕路。免费层功能完整。
+  * [Slab](https://slab.com/) — 现代团队知识管理服务，最多 10 名用户免费。
+  * [slack.com](https://slack.com/) — 免费计划用户不限，但部分功能受限。
+  * [StatusPile](https://www.statuspile.com/) - 状态页的状态页，可跟踪上游服务的状态页。
+  * [Stickies](https://stickies.app/) - 用于头脑风暴、内容整理与笔记的可视化协作应用。免费最多 3 面板、用户不限，1 GB 存储。
+  * [StreamBackdrops](https://streambackdrops.com) — 视频通话与团队会议的免费高清虚拟背景。提供适用于 Zoom、Teams 与 Google Meet 的专业背景。无需注册，个人免费使用。
+  * [talky.io](https://talky.io/) — 免费群组视频聊天，匿名、点对点，无需插件、注册或付费。
+  * [Teamcamp](https://www.teamcamp.app) - 面向软件开发公司的全能项目管理应用。
+  * [Teamhood](https://teamhood.com/) - 免费项目、任务与问题跟踪软件，支持带泳道看板与完整 Scrum，内置时间跟踪。免费支持 5 名用户与 3 个项目组合。
+  * [Teamplify](https://teamplify.com) - 通过 Team Analytics 与 Smart Daily Standup 改进团队开发流程，包含面向远程团队的请假管理。小团队免费，最多 5 名用户。
+  * [Telegram](https://telegram.org/) — Telegram 面向需要快速可靠消息与通话的用户。商业用户与小团队可受益于大群、用户名、桌面应用与强大的文件分享选项。
+  * [Tencent RTC](https://trtc.io/) — Tencent Real-Time Communication（TRTC）提供群组音视频通话方案。第一年每月 10,000 分钟免费。
+  * [TimeCamp](https://www.timecamp.com/) - 免费时间跟踪软件，用户不限。可轻松集成 Jira、Trello、Asana 等项目管理工具。
+  * [tldraw.com](https://tldraw.com) — 免费开源白板与图示工具，具备智能箭头、吸附、便签与 SVG 导出功能，支持多人协作编辑，并提供官方 VS Code 扩展。
+  * [transfernow](https://www.transfernow.net/) — 最简单、最快且安全的文件传输与分享界面。无需强制订阅即可发送照片、视频等大文件。
+  * [Tugboat](https://tugboat.qa) - 为每个 Pull Request 生成预览，自动且按需。对所有人免费，非营利组织可获赠 Nano 档位。
+  * [twist.com](https://twist.com) — 异步友好的团队沟通应用，让对话保持组织与主题。提供免费与不限计划，符合条件的团队可享折扣。
+  * [userforge.com](https://userforge.com/) - 在线 Persona、用户故事与上下文映射工具，帮助设计与开发保持同步。免费最多 3 个 Persona 与 2 名协作者。
+  * [Visual Debug](https://visualdebug.com) - 用于提升客户与开发沟通的可视化反馈工具。
+  * [Webex](https://www.webex.com/) — 视频会议，免费计划每场 40 分钟、最多 100 与会者。
+  * [Webvizio](https://webvizio.com) — 网站反馈、评审与缺陷报告工具，可在实时网站/应用、图片、PDF 与设计文件上协作，简化 Web 开发协作。
+  * [whereby.com](https://whereby.com/) — 一键视频通话，免费使用（原 appear.in）。
+  * [windmill.dev](https://windmill.dev/) - 开源开发者平台，用最少的 Python 与 TypeScript 脚本构建生产级多步自动化与内部应用。免费用户最多可创建并加入 3 个非高级工作区。
+  * [wistia.com](https://wistia.com/) — 视频托管服务，含观看分析、高清视频交付与营销工具，提供 25 个视频与 Wistia 品牌播放器。
+  * [wormhol.org](https://www.wormhol.org/) — 简洁的文件共享服务。单文件最多 5GB，可与任意多的对等方共享。
+  * [Wormhole](https://wormhole.app/) - 端到端加密分享文件，最多 5GB，最长 24 小时。大于 5GB 时使用点对点传输。
+  * [zoom.us](https://zoom.us/) — 提供安全的视频与 Web 会议附加功能，免费计划限 40 分钟。
+  * [Zulip](https://zulip.com/) — 具有独特邮件式线程模型的实时聊天。免费计划包含 10,000 条可搜索消息历史与最多 5 GB 文件存储，也提供可自托管的开源版本。
 
 **[⬆️ Back to Top](#table-of-contents)**
 
