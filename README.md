@@ -77,124 +77,126 @@
   * [游戏开发](#game-development)
   * [其他免费资源](#other-free-resources)
 
-## Major Cloud Providers
+<a id="major-cloud-providers"></a>
+
+## 主要云服务商的永久免费额度
 
   * [Google Cloud Platform](https://cloud.google.com)
-    * App Engine - 28 frontend instance hours per day, nine backend instance hours per day
-    * Cloud Firestore - 1GB storage, 50,000 reads, 20,000 writes, 20,000 deletes per day
-    * Compute Engine - 1 non-preemptible e2-micro, 30GB HDD, 5GB snapshot storage (restricted to certain regions), 1 GB network egress from North America to all region destinations (excluding China and Australia) per month
-    * Cloud Storage - 5GB, 1GB network egress
-    * Cloud Shell - Web-based Linux shell/primary IDE with 5GB of persistent storage. 60 hours limit per week
-    * Cloud Pub/Sub - 10GB of messages per month
-    * Cloud Functions - 2 million invocations per month (includes both background and HTTP invocations)
-    * Cloud Run - 2 million requests per month, 360,000 GB-seconds memory, 180,000 vCPU-seconds of compute time, 1 GB network egress from North America per month
-    * Google Kubernetes Engine - No cluster management fee for one zonal cluster. Each user node is charged at standard Compute Engine pricing
-    * BigQuery - 1 TB of querying per month, 10 GB of storage each month
-    * Cloud Build - 120 build-minutes per day
-    * Cloud Source Repositories - Up to 5 Users, 50 GB Storage, 50 GB Egress
-    * [Google Colab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
-    * [Firebase Studio](https://firebase.studio) Google Firebase Studio (formerly Project IDX). Online VSCode running on Google Cloud.
-    * Full, detailed list - https://cloud.google.com/free
+    * App Engine - 每天 28 个前端实例小时，9 个后端实例小时
+    * Cloud Firestore - 1GB 存储，每天 50,000 次读取、20,000 次写入、20,000 次删除
+    * Compute Engine - 1 台非抢占式 e2-micro，30GB HDD，5GB 快照存储（限制在部分地区），每月 1 GB 从北美到各地区（不含中国和澳大利亚）的网络出站流量
+    * Cloud Storage - 5GB 存储，1GB 出站流量
+    * Cloud Shell - 基于 Web 的 Linux Shell/主 IDE，含 5GB 持久存储；每周限 60 小时
+    * Cloud Pub/Sub - 每月 10GB 消息
+    * Cloud Functions - 每月 200 万次调用（包含后台与 HTTP 调用）
+    * Cloud Run - 每月 200 万次请求、360,000 GB-秒内存、180,000 vCPU-秒计算时间、每月 1 GB 从北美出站流量
+    * Google Kubernetes Engine - 一个区域集群免管理费；每个用户节点按 Compute Engine 标准定价计费
+    * BigQuery - 每月 1 TB 查询量，每月 10 GB 存储
+    * Cloud Build - 每天 120 构建分钟
+    * Cloud Source Repositories - 最多 5 个用户、50 GB 存储、50 GB 出站流量
+    * [Google Colab](https://colab.research.google.com/) - 免费的 Jupyter Notebooks 开发环境。
+    * [Firebase Studio](https://firebase.studio) - Google Firebase Studio（原 Project IDX），在 Google Cloud 上运行的在线 VSCode。
+    * 完整、详细列表 - https://cloud.google.com/free
 
   * [Amazon Web Services](https://aws.amazon.com)
-    * [CloudFront](https://aws.amazon.com/cloudfront/) - 1TB egress per month and 2M Function invocations per month
-    * [CloudWatch](https://aws.amazon.com/cloudwatch/) - 10 custom metrics and ten alarms
-    * [CodeBuild](https://aws.amazon.com/codebuild/) - 100min of build time per month
-    * [CodeCommit](https://aws.amazon.com/codecommit/) - 5 active users,50GB storage, and 10000 requests per month
-    * [CodePipeline](https://aws.amazon.com/codepipeline/) - 1 active pipeline per month
-    * [DynamoDB](https://aws.amazon.com/dynamodb/) - 25GB NoSQL DB
-    * [EC2](https://aws.amazon.com/ec2/) - 750 hours per month of t2.micro or t3.micro(12mo). 100GB egress per month
-    * [EBS](https://aws.amazon.com/ebs/) - 30GB per month of General Purpose (SSD) or Magnetic(12mo)
-    * [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) - 750 hours per month(12mo)
-    * [RDS](https://aws.amazon.com/rds/) - 750 hours per month of db.t2.micro, db.t3.micro, or db.t4g.micro, 20GB of General Purpose (SSD) storage, 20GB of storage backups(12 mo)
-    * [S3](https://aws.amazon.com/s3/) - 5GB Standard object storage, 20K Get requests and 2K Put requests(12 mo)
-    * [Glacier](https://aws.amazon.com/glacier/) - 10GB long-term object storage
-    * [Lambda](https://aws.amazon.com/lambda/) - 1 million requests per month
-    * [SNS](https://aws.amazon.com/sns/) - 1 million publishes per month
-    * [SES](https://aws.amazon.com/ses/) - 3.000 messages per month (12mo)
-    * [SQS](https://aws.amazon.com/sqs/) - 1 million messaging queue requests
-    * Full, detailed list - https://aws.amazon.com/free/
+    * [CloudFront](https://aws.amazon.com/cloudfront/) - 每月 1TB 出站流量与 200 万次 Function 调用
+    * [CloudWatch](https://aws.amazon.com/cloudwatch/) - 10 个自定义指标与 10 个告警
+    * [CodeBuild](https://aws.amazon.com/codebuild/) - 每月 100 分钟构建时长
+    * [CodeCommit](https://aws.amazon.com/codecommit/) - 5 名活跃用户、50GB 存储、每月 10000 次请求
+    * [CodePipeline](https://aws.amazon.com/codepipeline/) - 每月 1 条活动流水线
+    * [DynamoDB](https://aws.amazon.com/dynamodb/) - 25GB NoSQL 数据库
+    * [EC2](https://aws.amazon.com/ec2/) - 每月 750 小时 t2.micro 或 t3.micro（12 个月）；每月 100GB 出站流量
+    * [EBS](https://aws.amazon.com/ebs/) - 每月 30GB 通用型（SSD）或磁盘（12 个月）
+    * [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) - 每月 750 小时（12 个月）
+    * [RDS](https://aws.amazon.com/rds/) - 每月 750 小时 db.t2.micro、db.t3.micro 或 db.t4g.micro，20GB 通用型（SSD）存储，20GB 备份存储（12 个月）
+    * [S3](https://aws.amazon.com/s3/) - 5GB 标准对象存储、20K 次 Get 请求、2K 次 Put 请求（12 个月）
+    * [Glacier](https://aws.amazon.com/glacier/) - 10GB 长期对象存储
+    * [Lambda](https://aws.amazon.com/lambda/) - 每月 100 万次请求
+    * [SNS](https://aws.amazon.com/sns/) - 每月 100 万次发布
+    * [SES](https://aws.amazon.com/ses/) - 每月 3,000 封邮件（12 个月）
+    * [SQS](https://aws.amazon.com/sqs/) - 每月 100 万次队列请求
+    * 完整、详细列表 - https://aws.amazon.com/free/
 
   * [Microsoft Azure](https://azure.microsoft.com)
-    * [Virtual Machines](https://azure.microsoft.com/services/virtual-machines/) - 1 B1S Linux VM, 1 B1S Windows VM (12mo)
-    * [App Service](https://azure.microsoft.com/services/app-service/) - 10 web, mobile, or API apps (60 CPU minutes/day)
-    * [Functions](https://azure.microsoft.com/services/functions/) - 1 million requests per month
-    * [DevTest Labs](https://azure.microsoft.com/services/devtest-lab/) - Enable fast, easy, and lean dev-test environments
-    * [Active Directory](https://azure.microsoft.com/services/active-directory/) - 500,000 objects
-    * [Active Directory B2C](https://azure.microsoft.com/services/active-directory/external-identities/b2c/) - 50,000 monthly stored users
-    * [Azure DevOps](https://azure.microsoft.com/services/devops/) - 5 active users, unlimited private Git repos
-    * [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) — 10 free parallel jobs with unlimited minutes for open source for Linux, macOS, and Windows
-    * [Microsoft IoT Hub](https://azure.microsoft.com/services/iot-hub/) - 8,000 messages per day
-    * [Load Balancer](https://azure.microsoft.com/services/load-balancer/) - 1 free public load-balanced IP (VIP)
-    * [Notification Hubs](https://azure.microsoft.com/services/notification-hubs/) - 1 million push notifications
-    * [Bandwidth](https://azure.microsoft.com/pricing/details/bandwidth/) - 15GB Inbound(12mo) & 5GB egress per month
-    * [Cosmos DB](https://azure.microsoft.com/services/cosmos-db/) - 25GB storage and 1000 RUs of provisioned throughput
-    * [Static Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/) — Build, deploy, and host static apps and serverless functions with free SSL, Authentication/Authorization, and custom domains
-    * [Storage](https://azure.microsoft.com/services/storage/) - 5GB LRS File or Blob storage (12mo)
-    * [Cognitive Services](https://azure.microsoft.com/services/cognitive-services/) - AI/ML APIs (Computer Vision, Translator, Face detection, Bots, etc) with free tier including limited transactions
-    * [Cognitive Search](https://azure.microsoft.com/services/search/#features) - AI-based search and indexation service, free for 10,000 documents
-    * [Azure Kubernetes Service](https://azure.microsoft.com/services/kubernetes-service/) - Managed Kubernetes service, free cluster management
-    * [Event Grid](https://azure.microsoft.com/services/event-grid/) - 100K ops/month
-    * Full, detailed list - https://azure.microsoft.com/free/
+    * [Virtual Machines](https://azure.microsoft.com/services/virtual-machines/) - 1 台 B1S Linux VM，1 台 B1S Windows VM（12 个月）
+    * [App Service](https://azure.microsoft.com/services/app-service/) - 10 个 Web、移动或 API 应用（每天 60 CPU 分钟）
+    * [Functions](https://azure.microsoft.com/services/functions/) - 每月 100 万次请求
+    * [DevTest Labs](https://azure.microsoft.com/services/devtest-lab/) - 快速、易用且轻量的开发测试环境
+    * [Active Directory](https://azure.microsoft.com/services/active-directory/) - 500,000 个对象
+    * [Active Directory B2C](https://azure.microsoft.com/services/active-directory/external-identities/b2c/) - 每月 50,000 个存储用户
+    * [Azure DevOps](https://azure.microsoft.com/services/devops/) - 5 名活跃用户，无限私有 Git 仓库
+    * [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) — 针对开源项目的 Linux、macOS、Windows 提供 10 个免费并行作业且不限分钟数
+    * [Microsoft IoT Hub](https://azure.microsoft.com/services/iot-hub/) - 每天 8,000 条消息
+    * [Load Balancer](https://azure.microsoft.com/services/load-balancer/) - 1 个免费的公共负载均衡 IP（VIP）
+    * [Notification Hubs](https://azure.microsoft.com/services/notification-hubs/) - 100 万次推送通知
+    * [Bandwidth](https://azure.microsoft.com/pricing/details/bandwidth/) - 15GB 入站（12 个月）与每月 5GB 出站
+    * [Cosmos DB](https://azure.microsoft.com/services/cosmos-db/) - 25GB 存储与 1000 RU 预置吞吐量
+    * [Static Web Apps](https://azure.microsoft.com/pricing/details/app-service/static/) — 构建、部署、托管静态应用与无服务器函数，包含免费 SSL、认证/授权与自定义域名
+    * [Storage](https://azure.microsoft.com/services/storage/) - 5GB LRS 文件或 Blob 存储（12 个月）
+    * [Cognitive Services](https://azure.microsoft.com/services/cognitive-services/) - AI/ML API（计算机视觉、翻译、人脸检测、机器人等），含有限额度的免费层
+    * [Cognitive Search](https://azure.microsoft.com/services/search/#features) - AI 搜索与索引服务，免费 10,000 文档
+    * [Azure Kubernetes Service](https://azure.microsoft.com/services/kubernetes-service/) - 托管 Kubernetes 服务，集群管理免费
+    * [Event Grid](https://azure.microsoft.com/services/event-grid/) - 每月 100K 次操作
+    * 完整、详细列表 - https://azure.microsoft.com/free/
 
   * [Oracle Cloud](https://www.oracle.com/cloud/)
-    * Compute
-       - 2 AMD-based Compute VMs with 1/8 OCPU and 1 GB memory each
-       - 4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
-       - Instances will be reclaimed when [deemed idle](https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm#compute__idleinstances)
-    * Block Volume - 2 volumes, 200 GB total (used for compute)
+    * 计算
+       - 2 台 AMD 计算型 VM，每台 1/8 OCPU 与 1 GB 内存
+       - 4 个基于 Arm 的 Ampere A1 核心与 24 GB 内存，可作为 1 台 VM 或最多 4 台 VM 使用
+       - 实例在被 [判定为空闲](https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm#compute__idleinstances) 时会被回收
+    * Block Volume - 2 个卷，总计 200 GB（用于计算实例）
     * Object Storage - 10 GB
-    * Load balancer - 1 instance with 10 Mbps
-    * Databases - 2 DBs, 20 GB each
-    * Monitoring - 500 million ingestion data points, 1 billion retrieval datapoints
-    * Bandwidth - 10 TB egress per month, speed limited to 50 Mbps on x64-based VM, 500 Mbps * core count on ARM-based VM
-    * Public IP - 2 IPv4 for VMs, 1 IPv4 for load balancer
-    * Notifications - 1 million delivery options per month, 1000 emails sent per month
-    * Full, detailed list - https://www.oracle.com/cloud/free/
+    * Load balancer - 1 个实例，10 Mbps
+    * Databases - 2 个数据库，每个 20 GB
+    * Monitoring - 5 亿条摄取数据点，10 亿条检索数据点
+    * Bandwidth - 每月 10 TB 出站，x64 VM 速度限制 50 Mbps，ARM VM 速度限制为 500 Mbps * 核心数
+    * Public IP - VM 2 个 IPv4，负载均衡 1 个 IPv4
+    * Notifications - 每月 100 万次投递选项，1000 封邮件
+    * 完整、详细列表 - https://www.oracle.com/cloud/free/
 
   * [IBM Cloud](https://www.ibm.com/cloud/free/)
-    * Cloudant database - 1 GB of data storage
-    * Db2 database - 100MB of data storage
-    * API Connect - 50,000 API calls per month
-    * Availability Monitoring - 3 million data points per month
-    * Log Analysis - 500MB of daily log
-    * Full, detailed list - https://www.ibm.com/cloud/free/
+    * Cloudant 数据库 - 1 GB 数据存储
+    * Db2 数据库 - 100MB 数据存储
+    * API Connect - 每月 50,000 次 API 调用
+    * Availability Monitoring - 每月 300 万个数据点
+    * Log Analysis - 每日 500MB 日志
+    * 完整、详细列表 - https://www.ibm.com/cloud/free/
 
   * [Cloudflare](https://www.cloudflare.com/)
-    * [Application Services](https://www.cloudflare.com/plans/) - Free DNS for an unlimited number of domains, DDoS Protection, CDN along with free SSL, Firewall rules and page rules,  WAF, Bot Mitigation, Free Unmetered Rate Limiting - 1 rule per domain, Analytics, Email forwarding
-    * [Zero Trust & SASE](https://www.cloudflare.com/plans/zero-trust-services/) - Up to 50 Users, 24 hours of activity logging, three network locations
-    * [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/) -  You can expose locally running HTTP port over a tunnel to a random subdomain on trycloudflare.com use [Quick Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/), No account required. More features (TCP tunnel, Load balancing, VPN) in [Zero Trust](https://www.cloudflare.com/products/zero-trust/) Free Plan.
-    * [Workers](https://developers.cloudflare.com/workers/) - Deploy serverless code for free on Cloudflare's global network—100k daily requests.
-    * [Workers KV](https://developers.cloudflare.com/kv) - 100k read requests per day, 1000 write requests per day, 1000 delete requests per day, 1000 list requests per day, 1 GB stored data
-    * [R2](https://developers.cloudflare.com/r2/) - 10 GB per month, 1 million Class A operations per month, 10 million Class B operations per month
-    * [D1](https://developers.cloudflare.com/d1/) - 5 million rows read per day, 100k rows written per day, 1 GB storage
-    * [Pages](https://developers.cloudflare.com/pages/) - Develop and deploy your web apps on Cloudflare's fast, secure global network. Five hundred monthly builds, 100 custom domains, Integrated SSL, unlimited accessible seats, unlimited preview deployments, and full-stack capability via Cloudflare Workers integration.
-    * [Queues](https://developers.cloudflare.com/queues/) - 1 million operations per month
-    * [TURN](https://developers.cloudflare.com/calls/turn/) – 1TB of free (outgoing) traffic per month.
+    * [Application Services](https://www.cloudflare.com/plans/) - 提供无限域名的免费 DNS、DDoS 防护、CDN 以及免费 SSL、防火墙规则与页面规则、WAF、Bot 防护、免费不限量速率限制（每域名 1 条规则）、分析与邮件转发
+    * [Zero Trust & SASE](https://www.cloudflare.com/plans/zero-trust-services/) - 最多 50 位用户、24 小时活动日志、三个网络位置
+    * [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/) - 可通过隧道将本地 HTTP 端口暴露到 trycloudflare.com 的随机子域名，使用 [Quick Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/)，无需账号。更多功能（TCP 隧道、负载均衡、VPN）见 [Zero Trust](https://www.cloudflare.com/products/zero-trust/) 免费计划。
+    * [Workers](https://developers.cloudflare.com/workers/) - 在 Cloudflare 全球网络免费部署无服务器代码——每天 100k 次请求。
+    * [Workers KV](https://developers.cloudflare.com/kv) - 每天 100k 次读取、1000 次写入、1000 次删除、1000 次列表请求，1 GB 存储数据
+    * [R2](https://developers.cloudflare.com/r2/) - 每月 10 GB，100 万次 Class A 操作/月，1000 万次 Class B 操作/月
+    * [D1](https://developers.cloudflare.com/d1/) - 每天读取 500 万行、写入 100k 行，1 GB 存储
+    * [Pages](https://developers.cloudflare.com/pages/) - 在 Cloudflare 快速安全的全球网络上开发并部署 Web 应用。每月 500 次构建、100 个自定义域名、集成 SSL、无限可访问席位、无限预览部署，并通过 Cloudflare Workers 集成实现全栈能力。
+    * [Queues](https://developers.cloudflare.com/queues/) - 每月 100 万次操作
+    * [TURN](https://developers.cloudflare.com/calls/turn/) – 每月 1TB 免费出站流量。
 
-  * [Zoho](https://www.zoho.com) — Started as an e-mail provider but now provides a suite of services, some of which have free plans. List of services having free plans :
-    * [Email](https://zoho.com/mail) Free for 5 users. 5GB/user & 25 MB attachment limit, one domain.
-    * [Zoho Assist](https://www.zoho.com/assist) — Zoho Assist's forever free plan includes one concurrent remote support license and Access to 5 unattended computer licenses for unlimited duration available for both professional and personnel use.
-    * [Sprints](https://zoho.com/sprints) Free for 5 users,5 Projects & 500MB storage.
-    * [Docs](https://zoho.com/docs) — Free for 5 users with 1 GB upload limit & 5GB storage. Zoho Office Suite (Writer, Sheets & Show) comes bundled.
-    * [Projects](https://zoho.com/projects) — Free for 3 users, 2 projects & 10 MB attachment limit. The same plan applies to [Bugtracker](https://zoho.com/bugtracker).
-    * [Connect](https://zoho.com/connect) — Team Collaboration free for 25 users with three groups, three custom apps, 3 Boards, 3 Manuals, and 10 Integrations along with channels, events & forums.
-    * [Meeting](https://zoho.com/meeting) — Meetings with upto 3 meeting participants & 10 Webinar attendees.
-    * [Vault](https://zoho.com/vault) — Password Management is accessible for Individuals.
-    * [Showtime](https://zoho.com/showtime) — Yet another Meeting software for training for a remote session of up to 5 attendees.
-    * [Notebook](https://zoho.com/notebook) — A free alternative to Evernote.
-    * [Wiki](https://zoho.com/wiki) — Free for three users with 50 MB storage, unlimited pages, zip backups, RSS & Atom feed, access controls & customizable CSS.
-    * [Subscriptions](https://zoho.com/subscriptions) — Recurring Billing management free for 20 customers/subscriptions & 1 user with all the payment hosting done by Zoho. The last 40 subscription metrics are stored
-    * [Checkout](https://zoho.com/checkout) — Product Billing management with 3 pages & up to 50 payments.
-    * [Desk](https://zoho.com/desk) — Customer Support management with three agents, private knowledge base, and email tickets. Integrates with [Assist](https://zoho.com/assist) for one remote technician & 5 unattended computers.
-    * [Cliq](https://zoho.com/cliq) — Team chat software with 100 GB storage, unlimited users, 100 users per channel & SSO.
-    * [Campaigns](https://zoho.com/campaigns) - Email Marketing
-    * [Forms](https://zoho.com/forms) - Form Creator
-    * [Sign](https://zoho.com/sign) - Paperless Signatures
-    * [Surveys](https://zoho.com/surveys) - Online Surveys
-     * [Bookings](https://zoho.com/bookings) - Appointment Scheduling
+  * [Zoho](https://www.zoho.com) — 起初是电子邮件提供商，如今提供一系列服务，其中部分提供免费计划。提供免费计划的服务列表：
+    * [Email](https://zoho.com/mail) - 5 名用户免费。5GB/用户，25 MB 附件上限，1 个域名。
+    * [Zoho Assist](https://www.zoho.com/assist) — Zoho Assist 的永久免费计划包含 1 个并发远程支持许可，并提供 5 台无人值守计算机许可，适用于专业与个人使用。
+    * [Sprints](https://zoho.com/sprints) - 5 名用户免费，5 个项目，500MB 存储。
+    * [Docs](https://zoho.com/docs) — 5 名用户免费，1 GB 上传限制与 5GB 存储。包含 Zoho Office Suite（Writer、Sheets 与 Show）。
+    * [Projects](https://zoho.com/projects) — 3 名用户免费，2 个项目，10 MB 附件上限。同一计划适用于 [Bugtracker](https://zoho.com/bugtracker)。
+    * [Connect](https://zoho.com/connect) — 团队协作版免费 25 名用户，包含 3 个群组、3 个自定义应用、3 个看板、3 个手册、10 个集成，以及频道、事件和论坛。
+    * [Meeting](https://zoho.com/meeting) — 会议最多 3 名参会者，网络研讨会最多 10 名参会者。
+    * [Vault](https://zoho.com/vault) — 个人可用的密码管理。
+    * [Showtime](https://zoho.com/showtime) — 另一个培训会议工具，远程培训最多 5 名参与者。
+    * [Notebook](https://zoho.com/notebook) — Evernote 的免费替代品。
+    * [Wiki](https://zoho.com/wiki) — 3 名用户免费，50 MB 存储，无限页面，ZIP 备份，RSS 与 Atom 订阅，访问控制与可定制 CSS。
+    * [Subscriptions](https://zoho.com/subscriptions) — 订阅/周期计费管理，20 位客户/订阅、1 名用户免费，支付托管由 Zoho 完成，保留最近 40 条订阅指标。
+    * [Checkout](https://zoho.com/checkout) — 产品计费管理，3 个页面，最多 50 笔付款。
+    * [Desk](https://zoho.com/desk) — 客户支持管理，包含 3 名坐席、私有知识库与邮件工单。与 [Assist](https://zoho.com/assist) 集成，含 1 名远程技术人员与 5 台无人值守电脑。
+    * [Cliq](https://zoho.com/cliq) — 团队聊天软件，100 GB 存储、无限用户、每频道 100 用户与 SSO。
+    * [Campaigns](https://zoho.com/campaigns) - 邮件营销
+    * [Forms](https://zoho.com/forms) - 表单创建
+    * [Sign](https://zoho.com/sign) - 无纸化签名
+    * [Surveys](https://zoho.com/surveys) - 在线调查
+     * [Bookings](https://zoho.com/bookings) - 预约排程
 
-**[⬆️ Back to Top](#table-of-contents)**
+**[⬆️ 返回目录](#table-of-contents)**
 
 ## Cloud management solutions
 
