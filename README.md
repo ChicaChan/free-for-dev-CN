@@ -366,16 +366,18 @@
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Artifact Repos
+<a id="artifact-repos"></a>
 
-  * [Gemfury](https://gemfury.com) — Private and public artifact repos for Maven, PyPi, NPM, Go Module, Nuget, APT, and RPM repositories. Free for public projects.
-  * [jitpack.io](https://jitpack.io/) — Maven repository for JVM and Android projects on GitHub, free for public projects.
-  * [paperspace](https://www.paperspace.com/) — Build & scale AI models, Develop, train, and deploy AI applications, free plan: public projects, 5Gb storage, basic instances.
-  * [RepoFlow](https://repoflow.io) - RepoFlow Simplifies package management with support for npm, PyPI, Docker, Go, Helm, and more. Try it for free with 10GB storage, 10GB bandwidth, 100 packages, and unlimited users in the cloud, or self-hosted for personal use only.
-  * [RepoForge](https://repoforge.io) - Private cloud-hosted repository for Python, Debian, NPM packages and Docker registries. Free plan for open source/public projects.
-  * [repsy.io](https://repsy.io) — 1 GB Free private/public Maven Repository.
+## 制品仓库
 
-**[⬆️ Back to Top](#table-of-contents)**
+  * [Gemfury](https://gemfury.com) — 面向 Maven、PyPI、NPM、Go Module、NuGet、APT 与 RPM 的私有/公开制品仓库。公开项目免费。
+  * [jitpack.io](https://jitpack.io/) — 面向 GitHub 上 JVM 与 Android 项目的 Maven 仓库，公开项目免费。
+  * [paperspace](https://www.paperspace.com/) — 构建与扩展 AI 模型、开发/训练/部署 AI 应用。免费计划：公开项目、5GB 存储、基础实例。
+  * [RepoFlow](https://repoflow.io) - RepoFlow 简化包管理，支持 npm、PyPI、Docker、Go、Helm 等。可免费试用 10GB 存储、10GB 带宽、100 个包与无限用户（云端），或仅限个人使用的自托管。
+  * [RepoForge](https://repoforge.io) - 私有云托管仓库，支持 Python、Debian、NPM 包与 Docker Registry。开源/公开项目免费。
+  * [repsy.io](https://repsy.io) — 免费 1 GB 私有/公开 Maven 仓库。
+
+**[⬆️ 返回目录](#table-of-contents)**
 
 ## Tools for Teams and Collaboration
 
