@@ -461,128 +461,128 @@
 
 ## CMS
 
-  * [Contentful](https://www.contentful.com/) — Headless CMS. Content management and delivery APIs in the cloud. Comes with one free Community space that includes five users, 25K records, 48 Content Types, 2 locales.
-  * [Cosmic](https://www.cosmicjs.com/) — Headless CMS and API toolkit. Free personal plans for developers.
-  * [Crystallize](https://crystallize.com) — Headless PIM with ecommerce support. Built-in GraphQL API. The free version includes unlimited users, 1000 catalog items, 5 GB/month bandwidth, and 25k/month API calls.
-  * [DatoCMS](https://www.datocms.com/) - Offers free tier for small projects. DatoCMS is a GraphQL-based CMS. On the lower tier, you have 100k/month calls.
-  * [Hygraph](https://hygraph.com/) - Offers free tier for small projects. GraphQL first API. Move away from legacy solutions to the GraphQL native Headless CMS - and deliver omnichannel content API first.
-  * [Prismic](https://www.prismic.io/) — Headless CMS. Content management interface with fully hosted and scalable API. The Community Plan provides unlimited API calls, documents, custom types, assets, and locales to one user. Everything that you need for your next project. Bigger free plans are available for Open Content/Open Source projects.
-  * [Sanity.io](https://www.sanity.io/) - Platform for structured content with an open-source editing environment and a real-time hosted data store. Unlimited projects. Unlimited admin users, three non-admin users, two datasets, 500K API CDN requests, 10GB bandwidth, and 5GB assets included for free per project.
-  * [Solo](https://soloist.ai) - Free AI website creator from Mozilla, create a beautiful website for your business from a few simple inputs. Free custom domain, no credit card needed.
-  * [Squidex](https://squidex.io/) - Offers free tier for small projects. API / GraphQL first. Open source and based on event sourcing (versing every change automatically).
-  * [Storyblok](https://www.storyblok.com) - A Headless CMS for developers and marketers that works with all modern frameworks. The Community (free) tier offers Management API, Visual Editor, ten sources, Custom Field Types, Internationalization (unlimited languages/locales), Asset Manager (up to 2500 assets), Image Optimizing Service, Search Query, Webhook + 250GB Traffic/month included.
-  * [TinaCMS](https://tina.io/) — Replacing Forestry.io. Open source Git-backed headless CMS that supports Markdown, MDX, and JSON. The basic offer is free with two users available.
-  * [WPJack](https://wpjack.com) - Set up WordPress on any cloud in less than 5 minutes! The free tier includes 1 server, 2 sites, free SSL certificates, and unlimited cron jobs. No time limits or expirations—your website, your way.
+  * [Contentful](https://www.contentful.com/) — Headless CMS。云端内容管理和交付 API。免费社区空间包含 5 名用户、25K 条记录、48 种内容类型、2 种语言环境。
+  * [Cosmic](https://www.cosmicjs.com/) — Headless CMS 和 API 工具包。为开发者提供免费个人计划。
+  * [Crystallize](https://crystallize.com) — 支持电商的 Headless PIM。内置 GraphQL API。免费版本包含无限用户、1000 个目录项、5 GB/月带宽和 25k/月 API 调用。
+  * [DatoCMS](https://www.datocms.com/) - 为小型项目提供免费层级。DatoCMS 是基于 GraphQL 的 CMS。在低层级，您有 100k/月调用次数。
+  * [Hygraph](https://hygraph.com/) - 为小型项目提供免费层级。GraphQL 优先 API。从传统解决方案迁移到 GraphQL 原生 Headless CMS - 并优先提供全渠道内容 API。
+  * [Prismic](https://www.prismic.io/) — Headless CMS。具有完全托管和可扩展 API 的内容管理界面。社区计划为单个用户提供无限的 API 调用、文档、自定义类型、资产和语言环境。您下一个项目所需的一切。开源内容/开源项目有更大的免费计划。
+  * [Sanity.io](https://www.sanity.io/) - 结构化内容平台，具有开源编辑环境和实时托管数据存储。无限项目。每个项目免费包含无限管理员用户、3 个非管理员用户、2 个数据集、500K API CDN 请求、10GB 带宽和 5GB 资产。
+  * [Solo](https://soloist.ai) - 来自 Mozilla 的免费 AI 网站创建器，通过几个简单的输入为您的业务创建美丽的网站。免费自定义域名，无需信用卡。
+  * [Squidex](https://squidex.io/) - 为小型项目提供免费层级。API / GraphQL 优先。开源并基于事件溯源（自动记录每个更改）。
+  * [Storyblok](https://www.storyblok.com) - 适用于开发者和营销人员的 Headless CMS，适用于所有现代框架。社区（免费）层级提供管理 API、可视化编辑器、10 个来源、自定义字段类型、国际化（无限语言/语言环境）、资产管理器（最多 2500 个资产）、图像优化服务、搜索查询、Webhook + 包含 250GB 流量/月。
+  * [TinaCMS](https://tina.io/) — 替代 Forestry.io。开源 Git 支持的 Headless CMS，支持 Markdown、MDX 和 JSON。基本免费，可使用 2 个用户。
+  * [WPJack](https://wpjack.com) - 在不到 5 分钟内在任何云上设置 WordPress！免费层级包括 1 台服务器、2 个站点、免费 SSL 证书和无限的 cron 作业。没有时间限制或过期——您的网站，您的方式。
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Code Generation
 
-* [Appinvento](https://appinvento.io/) — A free no-code app builder. It provides complete access to the automatically generated backend source code and allows for unlimited APIs and routes. The free plan includes three projects and five tables.
-* [DhiWise](https://www.dhiwise.com/) — Converts Figma designs into dynamic Flutter and React applications. Its code generation technology is designed to optimize workflows for building production-ready mobile and web experiences.
-* [Karbon Sites](https://www.karbonsites.space) — An AI-powered site builder and editor that generates production-ready frontend code from text prompts, sketches, or resumes. Features include native Android (APK) export and a free tier with 5 generations per month (unlimited via custom Gemini API key).
-* [Metalama](https://www.postsharp.net/metalama) — A C#-specific tool that generates boilerplate code on the fly during compilation to keep source code clean. It is free for open-source projects; its commercial-friendly free tier includes up to three aspects.
-* [Supermaven](https://www.supermaven.com/) — A high-speed AI code completion plugin for VS Code, JetBrains, and Neovim. The free tier provides unlimited inline completions with a focus on ultra-low latency.
-* [v0.dev](https://v0.dev/) — Created by Vercel, v0 generates copy-and-paste friendly React code using shadcn/ui and Tailwind CSS. It uses a credit system, providing 1,200 starting credits and 200 free credits monthly.
+* [Appinvento](https://appinvento.io/) — 免费的无代码应用构建器。它提供对自动生成的后端源代码的完全访问权限，并允许使用无限的 API 和路由。免费计划包括 3 个项目和 5 个表。
+* [DhiWise](https://www.dhiwise.com/) — 将 Figma 设计转换为动态 Flutter 和 React 应用程序。其代码生成技术专为优化构建生产就绪的移动和 Web 体验的工作流程而设计。
+* [Karbon Sites](https://www.karbonsites.space) — AI 驱动的网站构建器和编辑器，可从文本提示、草图或简历生成生产就绪的前端代码。功能包括原生 Android (APK) 导出和每月 5 次生成的免费层级（通过自定义 Gemini API 密钥无限使用）。
+* [Metalama](https://www.postsharp.net/metalama) — C# 专用工具，可在编译期间动态生成样板代码以保持源代码整洁。开源项目免费；商业友好的免费层级包括最多 3 个切面。
+* [Supermaven](https://www.supermaven.com/) — 适用于 VS Code、JetBrains 和 Neovim 的高速 AI 代码完成插件。免费层级提供无限的内联完成，专注于超低延迟。
+* [v0.dev](https://v0.dev/) — 由 Vercel 创建，v0 使用 shadcn/ui 和 Tailwind CSS 生成可复制粘贴的 React 代码。它使用积分系统，提供 1,200 个起始积分和每月 200 个免费积分。
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Code Quality
 
-  * [beanstalkapp.com](https://beanstalkapp.com/) — A complete workflow to write, review, and deploy code), a free account for one user, and one repository with 100 MB of storage
-  * [codacy.com](https://www.codacy.com/) — Automated code reviews for PHP, Python, Ruby, Java, JavaScript, Scala, CSS, and CoffeeScript, free for unlimited public and private repositories
-  * [Codeac.io](https://www.codeac.io/infrastructure-as-code.html?ref=free-for-dev) - Automated Infrastructure as Code review tool for DevOps integrates with GitHub, Bitbucket, and GitLab (even self-hosted). In addition to standard languages, it also analyzes Ansible, Terraform, CloudFormation, Kubernetes, and more. (open-source free)
-  * [codecov.io](https://codecov.io/) — Code coverage tool (SaaS), free for Open Source and one free private repo
-  * [CodeFactor](https://www.codefactor.io) — Automated Code Review for Git. The free version includes unlimited users, public repositories, and one private repo.
-  * [coderabbit.ai](https://coderabbit.ai) — AI-powered code review tool that integrates with GitHub/GitLab. Free tier includes 200 files/hour, 3 reviews per hour, and 50 conversations/hour. Free forever for open source projects.
-  * [CodSpeed](https://codspeed.io) - Automate performance tracking in your CI pipelines. Catch performance regressions before deployment, thanks to precise and consistent metrics. Free forever for Open Source projects.
-  * [coveralls.io](https://coveralls.io/) — Display test coverage reports, free for Open Source
-  * [deepscan.io](https://deepscan.io) — Advanced static analysis for automatically finding runtime errors in JavaScript code, free for Open Source
-  * [DeepSource](https://deepsource.io/) - DeepSource continuously analyzes source code changes, finding and fixing issues categorized under security, performance, anti-patterns, bug-risks, documentation, and style. Native integration with GitHub, GitLab, and Bitbucket.
-  * [DiffText](https://difftext.com) - Instantly find the differences between two blocks of code. Completely free to use.
-  * [eversql.com](https://www.eversql.com/) — EverSQL - The #1 platform for database optimization. Gain critical insights into your database and SQL queries automatically.
-  * [gerrithub.io](https://review.gerrithub.io/) — Gerrit code review for GitHub repositories for free
-  * [goreportcard.com](https://goreportcard.com/) — Code Quality for Go projects, free for Open Source
-  * [gtmetrix.com](https://gtmetrix.com/) — Reports and thorough recommendations to optimize websites
-  * [holistic.dev](https://holistic.dev/) - The #1 static code analyzer for Postgresql optimization. Performance, security, and architect database issues automatic detection service
-  * [houndci.com](https://houndci.com/) — Comments on GitHub commits about code quality, free for Open Source
-  * [reviewable.io](https://reviewable.io/) — Code review for GitHub repositories, free for public or personal repos.
-  * [scan.coverity.com](https://scan.coverity.com/) — Static code analysis for Java, C/C++, C# and JavaScript, free for Open Source
-  * [scrutinizer-ci.com](https://scrutinizer-ci.com/) — Continuous inspection platform, free for Open Source
-  * [semanticdiff.com](https://app.semanticdiff.com/) — Programming language aware diff for GitHub pull requests and commits, free for public repositories
-  * [shields.io](https://shields.io) — Quality metadata badges for open source projects
-  * [sonarcloud.io](https://sonarcloud.io) — Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
+  * [beanstalkapp.com](https://beanstalkapp.com/) — 编写、审查和部署代码的完整工作流程），一个免费账户，一个包含 100 MB 存储空间的仓库
+  * [codacy.com](https://www.codacy.com/) — 针对 PHP、Python、Ruby、Java、JavaScript、Scala、CSS 和 CoffeeScript 的自动化代码审查，无限公共和私有仓库免费
+  * [Codeac.io](https://www.codeac.io/infrastructure-as-code.html?ref=free-for-dev) - 用于 DevOps 的自动化基础设施即代码审查工具，与 GitHub、Bitbucket 和 GitLab（包括自托管）集成。除了标准语言外，它还分析 Ansible、Terraform、CloudFormation、Kubernetes 等。（开源免费）
+  * [codecov.io](https://codecov.io/) — 代码覆盖率工具 (SaaS)，开源免费，一个免费私有仓库
+  * [CodeFactor](https://www.codefactor.io) — Git 的自动化代码审查。免费版本包括无限用户、公共仓库和一个私有仓库。
+  * [coderabbit.ai](https://coderabbit.ai) — 与 GitHub/GitLab 集成的 AI 驱动代码审查工具。免费层级包括每小时 200 个文件、每小时 3 次审查和每小时 50 次对话。开源项目永久免费。
+  * [CodSpeed](https://codspeed.io) - 在 CI 流水线中自动化性能跟踪。通过精确和一致的指标在部署前捕获性能回归。开源项目永久免费。
+  * [coveralls.io](https://coveralls.io/) — 显示测试覆盖率报告，开源免费
+  * [deepscan.io](https://deepscan.io) — 高级静态分析，自动查找 JavaScript 代码中的运行时错误，开源免费
+  * [DeepSource](https://deepsource.io/) - DeepSource 持续分析源代码更改，发现和修复分类为安全、性能、反模式、bug 风险、文档和样式的问题。与 GitHub、GitLab 和 Bitbucket 原生集成。
+  * [DiffText](https://difftext.com) - 即时找到两个代码块之间的差异。完全免费使用。
+  * [eversql.com](https://www.eversql.com/) — EverSQL - 数据库优化排名第一的平台。自动获得对数据库和 SQL 查询的关键洞察。
+  * [gerrithub.io](https://review.gerrithub.io/) — GitHub 仓库的 Gerrit 代码审查，免费
+  * [goreportcard.com](https://goreportcard.com/) — Go 项目的代码质量，开源免费
+  * [gtmetrix.com](https://gtmetrix.com/) — 优化网站的报告和全面建议
+  * [holistic.dev](https://holistic.dev/) - PostgreSQL 优化排名第一的静态代码分析器。性能、安全和架构数据库问题自动检测服务
+  * [houndci.com](https://houndci.com/) — 在 GitHub 提交上评论代码质量，开源免费
+  * [reviewable.io](https://reviewable.io/) — GitHub 仓库的代码审查，公共或个人仓库免费。
+  * [scan.coverity.com](https://scan.coverity.com/) — Java、C/C++、C# 和 JavaScript 的静态代码分析，开源免费
+  * [scrutinizer-ci.com](https://scrutinizer-ci.com/) — 持续检查平台，开源免费
+  * [semanticdiff.com](https://app.semanticdiff.com/) — GitHub 拉取请求和提交的编程语言感知差异，公共仓库免费
+  * [shields.io](https://shields.io) — 开源项目的质量元数据徽章
+  * [sonarcloud.io](https://sonarcloud.io) — 针对 Java、JavaScript、C/C++、C#、VB.NET、PHP、Objective-C、Swift、Python、Groovy 等更多语言的自动化源代码分析，开源免费
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Code Search and Browsing
 
-  * [CodeKeep](https://codekeep.io) - Google Keep for Code Snippets. Organize, Discover, and share code snippets, featuring a powerful code screenshot tool with preset templates and a linking feature.
-  * [libraries.io](https://libraries.io/) — Search and dependency update notifications for 32 different package managers, free for open source
-  * [Namae](https://namae.dev/) - Search various websites like GitHub, Gitlab, Heroku, Netlify, and many more for the availability of your project name.
-  * [tickgit.com](https://www.tickgit.com/) — Surfaces `TODO` comments (and other markers) to identify areas of code worth returning to for improvement.
+  * [CodeKeep](https://codekeep.io) - 代码片段的 Google Keep。组织、发现和分享代码片段，具有强大的代码截图工具，具有预设模板和链接功能。
+  * [libraries.io](https://libraries.io/) — 针对 32 个不同包管理器的搜索和依赖更新通知，开源免费
+  * [Namae](https://namae.dev/) - 搜索各种网站（如 GitHub、Gitlab、Heroku、Netlify 等）以查找您的项目名称是否可用。
+  * [tickgit.com](https://www.tickgit.com/) — 显示 `TODO` 注释（和其他标记）以识别值得返回改进的代码区域。
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## CI and CD
 
-  * [appcircle.io](https://appcircle.io) — An enterprise-grade mobile DevOps platform that automates the build, test, and publish store of mobile apps for faster, efficient release cycle. Free for 30 minutes max build time per build, 20 monthly builds and 1 concurrent build.
-  * [appveyor.com](https://www.appveyor.com/) — CD service for Windows, free for Open Source
-  * [bitrise.io](https://www.bitrise.io/) — A CI/CD for mobile apps, native or hybrid. With 200 free builds/month 10 min build time and two team members. OSS projects get 45 min build time, +1 concurrency and unlimited team size.
-  * [buddy.works](https://buddy.works/) — A CI/CD with five free projects and one concurrent run (120 executions/month)
-  * [Buildkite](https://buildkite.com) CI Pipelines free for 3 users and 5k job minutes/month. Test Analytics free developer tier includes 100k test executions/month, with more free inclusions for open-source projects.
-  * [bytebase.com](https://www.bytebase.com/) — Database CI/CD and DevOps. Free under 20 users and ten database instances
-  * [CircleCI](https://circleci.com/) — Comprehensive free plan with all features included in a hosted CI/CD service for GitHub, GitLab, and BitBucket repositories. Multiple resource classes, Docker, Windows, Mac OS, ARM executors, local runners, test splitting, Docker Layer Caching, and other advanced CI/CD features. Free for up to 6000 minutes/month execution time, unlimited collaborators, 30 parallel jobs in private projects, and up to 80,000 free build minutes for Open Source projects.
-  * [cirrus-ci.org](https://cirrus-ci.org) - Free for public GitHub repositories
-  * [cirun.io](https://cirun.io) - Free for public GitHub repositories
-  * [codemagic.io](https://codemagic.io/) - Free 500 build minutes/month
-  * [deployhq.com](https://www.deployhq.com/) — 1 project with ten daily deployments (30 build minutes/month)
-  * [LocalOps](https://localops.co/) - Deploy your app on AWS/GCP/Azure in under 30 minutes. Setup standardised app environments on any cloud, which come with in-built continuous deployment automation and advanced observability. The free plan allows 1 user and 1 app environment.
-  * [Make](https://www.make.com/en) — The workflow automation tool lets you connect apps and automate workflows using UI. It supports many apps and the most popular APIs. Free for public GitHub repositories, and free tier with 100 Mb, 1000 Operations, and 15 minutes of minimum interval.
-  * [Mergify](https://mergify.com) — workflow automation and merge queue for GitHub — Free for public GitHub repositories
-  * [Nx Cloud](https://nx.dev/ci) - Nx Cloud speeds up your monorepos on CI with features such as remote caching, distribution of tasks across machines and even automated splitting of your e2e test runs. It comes with a free plan for up to 30 contributors with generous 150k credits included.
-  * [RunMyJob](https://runmyjob.io) - Run GitHub Actions and GitLab CI pipelines smarter with real-time scaling Spike Instances. Free tier includes 400 vCPU-minutes, 800 GB-minutes, and 10 concurrent jobs with high-performance runners (12 vCPU and 32 GB RAM per job).
-  * [Shipfox](https://www.shipfox.io/) - Run your GitHub actions 2x faster, 3.000 build minutes free each month.
-  * [Spacelift](https://spacelift.io/) - Management platform for Infrastructure as Code. Free plan features: IaC collaboration, Terraform module registry, ChatOps integration, Continuous resource compliance with Open Policy Agent, SSO with SAML 2.0, and access to public worker pools: up to 200 minutes/month
-  * [Squash Labs](https://www.squash.io/) — creates a VM for each branch and makes your app available from a unique URL, Unlimited public & private repos, Up to 2 GB VM Sizes.
-  * [Terramate](https://terramate.io/) - Terramate is an orchestration and management platform for Infrastructure as Code (IaC) tools such as Terraform, OpenTofu, and Terragrunt. Free up to 2 users including all features.
-  * [Terrateam](https://terrateam.io) - GitOps-first Terraform automation with pull request-driven workflows, project isolation via self-hosted runners, and layered runs for ordered operations. Free for up to 3 users.
+  * [appcircle.io](https://appcircle.io) — 企业级移动 DevOps 平台，自动化移动应用的构建、测试和发布商店，以实现更快速、高效的发布周期。免费：每次构建最多 30 分钟构建时间，每月 20 次构建和 1 个并发构建。
+  * [appveyor.com](https://www.appveyor.com/) — Windows 的 CD 服务，开源免费
+  * [bitrise.io](https://www.bitrise.io/) — 移动应用的 CI/CD，原生或混合。每月 200 次免费构建，10 分钟构建时间和两名团队成员。OSS 项目获得 45 分钟构建时间，+1 并发和无限团队规模。
+  * [buddy.works](https://buddy.works/) — CI/CD，五个免费项目和一次并发运行（每月 120 次执行）
+  * [Buildkite](https://buildkite.com) CI 流水线，3 名用户和每月 5k 任务分钟免费。测试分析免费开发者层级包括每月 100k 次测试执行，开源项目有更多免费包含。
+  * [bytebase.com](https://www.bytebase.com/) — 数据库 CI/CD 和 DevOps。20 名用户和十个数据库实例以下免费
+  * [CircleCI](https://circleci.com/) — 综合免费计划，包含托管的 CI/CD 服务针对 GitHub、GitLab 和 BitBucket 仓库的所有功能。多种资源类、Docker、Windows、Mac OS、ARM 执行器、本地运行器、测试拆分、Docker 层缓存和其他高级 CI/CD 功能。每月最多 6000 分钟执行时间、无限协作者、私有项目中 30 个并行作业以及开源项目最多 80,000 分钟免费构建时间免费。
+  * [cirrus-ci.org](https://cirrus-ci.org) - 公共 GitHub 仓库免费
+  * [cirun.io](https://cirun.io) - 公共 GitHub 仓库免费
+  * [codemagic.io](https://codemagic.io/) - 每月免费 500 构建分钟
+  * [deployhq.com](https://www.deployhq.com/) — 1 个项目，每天 10 次部署（每月 30 构建分钟）
+  * [LocalOps](https://localops.co/) - 在 30 分钟内在 AWS/GCP/Azure 上部署您的应用程序。在任何云上设置标准化的应用程序环境，这些环境具有内置的持续部署自动化和高级可观察性。免费计划允许 1 个用户和 1 个应用程序环境。
+  * [Make](https://www.make.com/en) — 工作流自动化工具让您使用 UI 连接应用程序并自动化工作流程。它支持许多应用程序和最流行的 API。公共 GitHub 仓库免费，免费层级包括 100 Mb、1000 次操作和 15 分钟的最小间隔。
+  * [Mergify](https://mergify.com) — GitHub 的工作流自动化和合并队列——公共 GitHub 仓库免费
+  * [Nx Cloud](https://nx.dev/ci) - Nx Cloud 通过远程缓存、跨机器分发任务甚至自动拆分 e2e 测试运行等功能，加速 CI 上的 monorepos。它包含一个最多 30 名贡献者的免费计划，包含慷慨的 150k 积分。
+  * [RunMyJob](https://runmyjob.io) - 使用实时扩展 Spike Instances 更智能地运行 GitHub Actions 和 GitLab CI 流水线。免费层级包括 400 vCPU-分钟、800 GB-分钟和 10 个并发作业，具有高性能运行器（每个作业 12 vCPU 和 32 GB RAM）。
+  * [Shipfox](https://www.shipfox.io/) - 将您的 GitHub actions 运行速度提高 2 倍，每月免费 3.000 构建分钟。
+  * [Spacelift](https://spacelift.io/) - 基础设施即代码管理平台。免费计划功能：IaC 协作、Terraform 模块注册表、ChatOps 集成、使用 Open Policy Agent 的持续资源合规性、SAML 2.0 的 SSO，以及访问公共工作池：最多 200 分钟/月
+  * [Squash Labs](https://www.squash.io/) — 为每个分支创建一个 VM 并使您的应用程序从唯一的 URL 可用，无限公共和私有仓库，最多 2 GB VM 大小。
+  * [Terramate](https://terramate.io/) - Terramate 是基础设施即代码 (IaC) 工具（如 Terraform、OpenTofu 和 Terragrunt）的编排和管理平台。最多 2 名用户免费，包括所有功能。
+  * [Terrateam](https://terrateam.io) - GitOps 优先的 Terraform 自动化，具有拉取请求驱动的工作流程、通过自托管运行器的项目隔离以及用于有序操作的分层运行。最多 3 名用户免费。
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Testing
 
-  * [Appetize](https://appetize.io) — Test your Android & iOS apps on this Cloud Based Android Phone / Tablets emulator and iPhone/iPad simulators directly in your browser. The free tier includes two concurrent session with 30 minutes of usage per month. No limit on app size.
-  * [Argos](https://argos-ci.com) - Open Source visual testing for developers. Unlimitedprojects, with 5,000 screenshots per month. Free for open-source projects.
-  * [Bencher](https://bencher.dev/) - A continuous benchmarking tool suite to catch CI performance regressions. Free for all public projects.
-  * [BugBug](https://bugbug.io/) - Lightweight test automation tool for web applications. It is easy to learn and doesn't require coding. You can run unlimited tests on your own computer for free. You also get cloud monitoring and CI/CD integration for an additional monthly fee.
-  * [checkbot.io](https://www.checkbot.io/) — Browser extension that tests if your website follows 50+ SEO, speed and security best practices. Free tier for smaller websites.
-  * [Checkly](https://checklyhq.com) - Code-first synthetic monitoring for modern DevOps. Monitor your APIs and apps at a fraction of the price of legacy providers. Powered by a Monitoring as Code workflow and Playwright. Generous free tier for devs.
-  * [CORS-Tester](https://cors-error.dev/cors-tester/) - A free tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps. Get actionable insights.
-  * [cypress.io](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser. Cypress Test Runner is always free and open-source with no restrictions and limitations. Cypress Dashboard is free for open-source projects for up to 5 users.
-  * [everystep-automation.com](https://www.everystep-automation.com/) — Records and replays all steps made in a web browser and creates scripts, free with fewer options
-  * [gridlastic.com](https://www.gridlastic.com/) — Selenium Grid testing with a free plan of up to 4 simultaneous selenium nodes/10 grid starts/4,000 test minutes/month
-  * [katalon.com](https://katalon.com) - Provides a testing platform that can help teams of all sizes at different levels of testing maturity, including  Katalon Studio, TestOps (+ Visual Testing free), TestCloud, and Katalon Recorder.
-  * [Keploy](https://keploy.io/) - Keploy is a functional testing toolkit for developers. Recording API calls generates E2E tests for APIs (KTests) and mocks or stubs(KMocks). It is free for Open Source projects.
-  * [loadmill.com](https://www.loadmill.com/) - Automatically create API and load tests by analyzing network traffic. Simulate up to 50 concurrent users for up to 60 minutes for free monthly.
-  * [lost-pixel.com](https://lost-pixel.com) - holistic visual regression testing for your Storybook, Ladle, Histoire stories and Web Apps. Unlimited team members, totally free for open-source, 7,000 snapshots/month.
-  * [pagegym.com](https://pagegym.com) - Load behvariour and page speed analysis and optimization tool. The free plan provides 10 tests per day, 5 experiments per week, and 15 GB of maximum ingested data per month.
-  * [percy.io](https://percy.io) - Add visual testing to any web app, static site, style guide, or component library.  Unlimited team members, Demo app, and unlimited projects, 5,000 snapshots/month.
-  * [qase.io](https://qase.io) - Test management system for Dev and QA teams. Manage test cases, compose test runs, perform tests, track defects, and measure impact. The free tier includes all core features, with 500MB available for attachments and up to 3 users.
-  * [Repeato](https://repeato.app/) No-code mobile app test automation tool built on top of computer vision and AI. Works for native apps, flutter, react-native, web, ionic, and many more app frameworks. The free plan is limited to 10 tests for iOS and 10 for Android, but includes most of the features of the paid plans, including unlimited test runs.
-  * [Requestly](https://requestly.com/) Open-source Chrome Extension to Intercept, Redirect and Mock HTTP Requests. Featuring [Debugger](https://requestly.com/products/web-debugger/), [Mock Server](https://requestly.com/products/mock-server/), [API Client](https://requestly.com/products/api-client/) and [Session Recording](https://requestly.com/products/session-book/).  Redirect URLs, Modify HTTP Headers, Mock APIs, Inject custom JS, Modify GraphQL Requests, Generate Mock API Endpoints, Record session with Network & Console Logs. Create upto 10 rules in Free Tier. Free for open-source.
-  * [seotest.me](https://seotest.me/) — Free on-page SEO website tester. 10 free website crawls per day. Useful SEO learning resources and recommendations on how to improve the on-page SEO results for any website regardless of technology.
-  * [snippets.uilicious.com](https://snippets.uilicious.com) - It's like CodePen but for cross-browser testing. UI-licious lets you write tests like user stories and offers a free platform - UI-licious Snippets - that allows you to run unlimited tests on Chrome with no sign-up required for up to 3 minutes per test run. Found a bug? You can copy the unique URL to your test to show your devs exactly how to reproduce the bug.
-  * [SSR (Server-side Rendering) Checker](https://www.crawlably.com/ssr-checker/) - Check SSR (server-side rendering) for any URL by visually comparing the server rendered version of the page with the regular version.
-  * [testingbot.com](https://testingbot.com/) — Selenium Browser and Device Testing, [free for Open Source](https://testingbot.com/open-source)
-  * [Testspace.com](https://testspace.com/) - A Dashboard for publishing automated test results and a Framework for implementing manual tests as code using GitHub. The service is [free for Open Source](https://github.com/marketplace/testspace-com) and accounts for 450 monthly results.
-  * [tesults.com](https://www.tesults.com) — Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free projects.
-  * [UseWebhook.com](https://usewebhook.com) - Capture and inspect webhooks from your browser. Forward to localhost, or replay from history. Free to use.
-  * [Vaadin](https://vaadin.com) — Build scalable UIs in Java or TypeScript, and use the integrated tooling, components, and design system to iterate faster, design better, and simplify the development process. Unlimited Projects with five years of free maintenance.
-  * [webhook-test.com](https://webhook-test.com) - Debug and inspect webhooks and HTTP requests with a unique URL during integration. Completely free, you can create unlimited URLs and receive recommendations.
-  * [webhook.site](https://webhook.site) - Verify webhooks, outbound HTTP requests, or emails with a custom URL. A temporary URL and email address are always free.
-  * [websitepulse.com](https://www.websitepulse.com/tools/) — Various free network and server tools.
-  * [kogiQA](https://kogiqa.com) — A web UI automation tool that functions without the need for selectors. Every developer gets 500 actions per month for free.
+  * [Appetize](https://appetize.io) — 直接在浏览器中在此基于云的 Android 手机/平板电脑模拟器和 iPhone/iPad 模拟器上测试您的 Android 和 iOS 应用程序。免费层级包括两个并发会话，每月 30 分钟使用时间。应用程序大小无限制。
+  * [Argos](https://argos-ci.com) - 面向开发者的开源视觉测试。无限项目，每月 5,000 个截图。开源项目免费。
+  * [Bencher](https://bencher.dev/) - 连续基准测试工具套件，用于捕获 CI 性能回归。所有公共项目免费。
+  * [BugBug](https://bugbug.io/) - Web 应用程序的轻量级测试自动化工具。易于学习，无需编码。您可以在自己的计算机上免费运行无限测试。您还可以通过每月额外费用获得云监控和 CI/CD 集成。
+  * [checkbot.io](https://www.checkbot.io/) — 浏览器扩展，测试您的网站是否遵循 50 多项 SEO、速度和安全最佳实践。较小网站的免费层级。
+  * [Checkly](https://checklyhq.com) - 面向现代 DevOps 的代码优先综合监控。以传统提供商价格的一小部分监控您的 API 和应用程序。由监控即代码工作流程和 Playwright 驱动。为开发者提供慷慨的免费层级。
+  * [CORS-Tester](https://cors-error.dev/cors-tester/) - 供开发者和 API 测试人员免费使用的工具，用于检查 API 是否为给定域启用了 CORS 并识别差距。获得可操作的见解。
+  * [cypress.io](https://www.cypress.io/) - 针对任何在浏览器中运行的内容进行快速、简单和可靠的测试。Cypress 测试运行器始终免费和开源，没有限制和约束。Cypress 仪表板最多 5 名用户的开源项目免费。
+  * [everystep-automation.com](https://www.everystep-automation.com/) — 记录和回放 Web 浏览器中完成的所有步骤并创建脚本，选项较少时免费
+  * [gridlastic.com](https://www.gridlastic.com/) — Selenium Grid 测试，免费计划最多 4 个并发 selenium 节点/10 次网格启动/4,000 测试分钟/月
+  * [katalon.com](https://katalon.com) - 提供一个测试平台，可以帮助不同测试成熟度级别的各种规模的团队，包括 Katalon Studio、TestOps（+ 视觉测试免费）、TestCloud 和 Katalon Recorder。
+  * [Keploy](https://keploy.io/) - Keploy 是面向开发者的功能测试工具包。记录 API 调用可为 API 生成 E2E 测试（KTests）和模拟或存根（KMocks）。开源项目免费。
+  * [loadmill.com](https://www.loadmill.com/) — 通过分析网络流量自动创建 API 和负载测试。每月免费模拟最多 50 个并发用户，最多 60 分钟。
+  * [lost-pixel.com](https://lost-pixel.com) - 针对 Storybook、Ladle、Histoire 故事和 Web 应用程序的整体视觉回归测试。无限团队成员，开源项目完全免费，7,000 个快照/月。
+  * [pagegym.com](https://pagegym.com) - 负载行为和页面速度分析与优化工具。免费计划每天提供 10 次测试，每周 5 次实验，每月最多 15 GB 摄入数据。
+  * [percy.io](https://percy.io) - 将视觉测试添加到任何 Web 应用程序、静态站点、样式指南或组件库。无限团队成员、演示应用程序和无限项目，5,000 个快照/月。
+  * [qase.io](https://qase.io) - 面向 Dev 和 QA 团队的测试管理系统。管理测试用例、组合测试运行、执行测试、跟踪缺陷并衡量影响。免费层级包括所有核心功能，500MB 附件空间和最多 3 名用户。
+  * [Repeato](https://repeato.app/) 基于计算机视觉和 AI 构建的无代码移动应用程序测试自动化工具。适用于原生应用程序、flutter、react-native、web、ionic 和许多其他应用程序框架。免费计划限制 iOS 10 次测试和 Android 10 次测试，但包括付费计划的大部分功能，包括无限测试运行。
+  * [Requestly](https://requestly.com/) 拦截、重定向和模拟 HTTP 请求的开源 Chrome 扩展。功能包括[调试器](https://requestly.com/products/web-debugger/)、[模拟服务器](https://requestly.com/products/mock-server/)、[API 客户端](https://requestly.com/products/api-client/)和[会话录制](https://requestly.com/products/session-book/)。重定向 URL、修改 HTTP 标头、模拟 API、注入自定义 JS、修改 GraphQL 请求、生成模拟 API 端点、使用网络和控制台日志记录会话。免费层级最多创建 10 条规则。开源免费。
+  * [seotest.me](https://seotest.me/) — 免费的页面 SEO 网站测试器。每天 10 次免费网站爬取。有用的 SEO 学习资源以及有关如何改进任何网站（无论技术如何）的页面 SEO 结果的建议。
+  * [snippets.uilicious.com](https://snippets.uilicious.com) - 就像 CodePen，但用于跨浏览器测试。UI-licious 让您像编写用户故事一样编写测试，并提供一个免费平台——UI-licious Snippets——允许您在 Chrome 上运行无限测试，无需注册，每次测试运行最多 3 分钟。发现错误？您可以复制测试的唯一 URL，向您的开发人员展示确切如何重现错误。
+  * [SSR (Server-side Rendering) Checker](https://www.crawlably.com/ssr-checker/) - 通过视觉比较页面的服务器渲染版本和常规版本，检查任何 URL 的 SSR（服务器端渲染）。
+  * [testingbot.com](https://testingbot.com/) — Selenium 浏览器和设备测试，[开源免费](https://testingbot.com/open-source)
+  * [Testspace.com](https://testspace.com/) - 用于发布自动化测试结果的仪表板和使用 GitHub 实现手动测试作为代码的框架。该服务[对开源项目免费](https://github.com/marketplace/testspace-com)，占每月 450 个结果。
+  * [tesults.com](https://www.tesults.com) — 测试结果报告和测试用例管理。与流行的测试框架集成。开源软件开发人员、个人、教育者和开始使用的小团队可以请求超出基本免费项目的折扣和免费优惠。
+  * [UseWebhook.com](https://usewebhook.com) - 从浏览器捕获和检查 webhook。转发到 localhost，或从历史记录重放。免费使用。
+  * [Vaadin](https://vaadin.com) — 使用 Java 或 TypeScript 构建可扩展的 UI，并使用集成工具、组件和设计系统更快地迭代、更好地设计并简化开发过程。无限项目，五年免费维护。
+  * [webhook-test.com](https://webhook-test.com) - 在集成期间使用唯一的 URL 调试和检查 webhook 和 HTTP 请求。完全免费，您可以创建无限的 URL 并接收建议。
+  * [webhook.site](https://webhook.site) - 使用自定义 URL 验证 webhook、出站 HTTP 请求或电子邮件。临时 URL 和电子邮件地址始终免费。
+  * [websitepulse.com](https://www.websitepulse.com/tools/) — 各种免费网络和服务器工具。
+  * [kogiQA](https://kogiqa.com) — 无需选择器即可运行的 Web UI 自动化工具。每位开发者每月免费获得 500 次操作。
 
 **[⬆️ Back to Top](#table-of-contents)**
 
