@@ -317,52 +317,52 @@
   * [Mockerito](https://mockerito.com/) — 免费 mock REST API 服务，提供覆盖 9 个领域（电商、金融、医疗、教育、招聘、社交媒体、股市、天气、航空）的逼真数据。无需注册、无需 API Key、请求不限。适合前端原型、API 测试、学习与教学。
   * [Mockfly](https://www.mockfly.dev/) — 值得信赖的 API 模拟与功能开关管理工具，可用直观界面快速生成与控制 mock API。免费层每天 500 次请求。
   * [Mocko.dev](https://mocko.dev/) — 代理你的 API，在云端选择要模拟的端点并检查流量，免费使用。加速开发与集成测试。
-  * [Multi-Exit IP Address Checker](https://ip.alstra.ca/) —  A free and simple tool to check your exit IP address across multiple nodes and understand how your IP appears to different global regions and services. Useful for testing rule-based DNS splitting tools such as Control D.
-  * [News API](https://newsapi.org) — Search news on the web with code, and get JSON results. Developers get 100 queries free each day. Articles have a 24 hour delay.
-  * [numlookupapi.com](https://numlookupapi.com) - Free phone number validation API - 100 free requests / month.
-  * [OCR.Space](https://ocr.space/) — An OCR API parses image and pdf files that return the text results in JSON format. 25,000 requests per month are free and a 1MB file size limit.
-  * [OpenAPI3 Designer](https://openapidesigner.com/) — Visually create Open API 3 definitions for free.
-  * [Parseur](https://parseur.com) — 20 free pages/month: Extract data from PDFs, emails. AI powered. Full API access.
-  * [PDF-API.io](https://pdf-api.io) - PDF Automation API, visual template editor or HTML to PDF, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.
-  * [PDFBolt](https://pdfbolt.com) - Developer-focused PDF generation API designed with privacy in mind. It offers Stripe-inspired documentation and includes 500 free PDF conversions per month.
-  * [pdfEndpoint.com](https://pdfendpoint.com) - Effortlessly convert HTML or URLs to PDF with a simple API. One hundred conversions per month for free.
-  * [Pixela](https://pixe.la/) - Free daystream database service. All operations are performed by API. Visualization with heat maps and line graphs is also possible.
-  * [Postman](https://postman.com) — Simplify workflows and create better APIs – faster – with Postman, a collaboration platform for API development. Use the Postman App for free forever. Postman cloud features are also free forever with certain limits.
-  * [PrefectCloud](https://www.prefect.io/cloud/) — A complete platform for dataflow automation. Free plan includes 5 deployed workflows and 500 minutes of serverless compute credits per month.
-  * [Preset Cloud](https://preset.io/) - A hosted Apache Superset service. Forever free for teams of up to 5 users, featuring unlimited dashboards and charts, a no-code chart builder, and a collaborative SQL editor.
-  * [ProxySentry](https://proxysentry.io/) - IP API that detects residential proxies and VPNs. ProxySentry.io offers a free tier with 10k requests per month on rapidapi.com.
-  * [Reducto](https://reducto.ai) - Turn any unstructured documents (PDF, XLSX, JPG, PPTX, etc.) into structured JSON data. Parse, extract data, and edit PDF forms. Free tier with 15k free credits and pay-as-you-go.
-  * [Rendi](https://rendi.dev) - FFmpeg API - A REST API for FFmpeg, run FFmpeg online without handling the infrastructure. Free tier with monthly processing quota and 4 vCPUs available.
-  * [RequestBin.com](https://requestbin.com) — Create a free endpoint to which you can send HTTP requests. Any HTTP requests sent to that endpoint will be recorded with the associated payload and headers so you can observe recommendations from webhooks and other services.
-  * [ROBOHASH](https://robohash.org/) - Web service to generate unique and cool images from any text.
-  * [Scraper's Proxy](https://scrapersproxy.com) — Simple HTTP proxy API for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including javascript rendering (more available if you contact support).
-  * [ScrapingAnt](https://scrapingant.com/) — Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free 10,000 API credits.
-  * [SerpApi](https://serpapi.com/) - Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart, and many other machines. The free plan includes 100 successful API calls per month.
-  * [Sheetson](https://sheetson.com) - Instantly turn any Google Sheets into a RESTful API. Free plan available, including 1,000 free rows per sheet.
-  * [Simplescraper](https://simplescraper.io) — Trigger your webhook after each operation. The free plan includes 100 cloud scrape credits.
-  * [Siterelic](https://siterelic.com/) - Siterelic API lets you take screenshots, audit websites, TLS scan, DNS lookup, test TTFB, and more. The free plan offers 100 API requests per month.
-  * [SmartParse](https://smartparse.io) - SmartParse is a data migration and CSV to API platform that offers time- and cost-saving developer tools. The Free tier includes 300 Processing Units per month, Browser uploads, Data quarantining, Circuit breakers, and Job Alerts.
-  * [Sofodata](https://www.sofodata.com/) - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development. The free plan includes 2 APIs and 2,500 API calls per month. You don't need a credit card.
-  * [Sqlable](https://sqlable.com/) - A collection of free online SQL tools, including an SQL formatter and validator, SQL regex tester, fake data generator, and interactive database playgrounds.
-  * [Supportivekoala](https://supportivekoala.com/) — Allows you to autogenerate images by your input via templates. The free plan allows you to create up to 50 images per month.
-  * [Svix](https://www.svix.com/) - Webhooks as a Service. Send up to 50,000 messages/month for free.
-  * [Tavily AI](https://tavily.com/) - API for online search and rapid insights and comprehensive research, with the capability of organization of research results. 1000 request/month for the Free tier with No credit card required.
-  * [The IP API](https://theipapi.com/) - IP Geolocation API with 1000 free requests / day. Provides information about the location of an IP address, including country, city, region, and more.
-  * [TinyMCE](https://www.tiny.cloud) - rich text editing API. Core features are free for unlimited usage.
-  * [Tomorrow.io Weather API](https://www.tomorrow.io/weather-api/) - Offers free plan of weather API. Provides accurate and up-to-date weather forecasting with global coverage, historical data and weather monitoring solutions.
-  * [Treblle](https://www.treblle.com) - Treblle helps teams build, ship, and govern APIs. With advanced API log aggregation, observability, docs, and debugging. You get all features for free, but there is a limit of up to 250k requests per month on the free tier.
-  * [UniRateAPI](https://unirateapi.com) – Real-time exchange rates for 590+ currencies and crypto. Unlimited API calls on the free plan, perfect for developers and finance apps.
-  * [vatcheckapi.com](https://vatcheckapi.com) - Simple and free VAT number validation API. 150 free validations per month.
-  * [WeatherXu](https://weatherxu.com/) — Global weather data including current conditions, hourly and daily forecasts, and weather alerts via our API. Integrating AI models and ML systems to analyze and combine multiple weather models to deliver improved forecast accuracy. Free tier includes 10,000 API calls/month.
-  * [WebScraping.AI](https://webscraping.ai) - Simple Web Scraping API with built-in parsing, Chrome rendering, and proxies. Two thousand free API calls per month.
-  * [Weights & Biases](https://wandb.ai) — The developer-first MLOps platform. Build better models faster with experiment tracking, dataset versioning, and model management. Free tier for personal projects only, with 100 GB of storage included.
-  * [What The Diff](https://whatthediff.ai) - AI-powered code review assistant. The free plan has a limit of 25,000 monthly tokens (~10 PRs).
-  * [wolfram.com](https://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud.
-  * [wrapapi.com](https://wrapapi.com/) — Turn any website into a parameterized API. 30k API calls per month.
-  * [Zenscrape](https://zenscrape.com/web-scraping-api) — Web scraping API with headless browsers, residentials IPs, and straightforward pricing. One thousand free API calls/month and extra credits for students and non-profits.
-  * [Zipcodebase](https://zipcodebase.com) - Free Zip Code API, access to Worldwide Postal Code Data. 5,000 free requests/month.
-  * [Zipcodestack](https://zipcodestack.com) - Free Zip Code API and Postal Code Validation. Ten thousand free requests/month.
-  * [Zuplo](https://zuplo.com/) - Free API Management platform to design, build, and deploy APIs to the Edge. Add API Key authentication, rate limiting, developer documentation and Monetization to any API in minutes. OpenAPI-native and fully-programmable with web standard apis & Typescript. The free plan offers up to 10 projects, unlimited production edge environments, 1M monthly requests, and 10GB egress.
+  * [Multi-Exit IP Address Checker](https://ip.alstra.ca/) — 免费且简单的工具，可跨多个节点检查出口 IP 地址，并了解你的 IP 在不同地区与服务中的呈现方式。适合测试诸如 Control D 的规则型 DNS 分流工具。
+  * [News API](https://newsapi.org) — 通过代码在网上搜索新闻并获取 JSON 结果。开发者每天免费 100 次查询，文章有 24 小时延迟。
+  * [numlookupapi.com](https://numlookupapi.com) - 免费电话号码验证 API，每月 100 次免费请求。
+  * [OCR.Space](https://ocr.space/) — OCR API 解析图片与 PDF，并以 JSON 返回文本结果。每月 25,000 次请求免费，文件大小上限 1MB。
+  * [OpenAPI3 Designer](https://openapidesigner.com/) — 可视化创建 OpenAPI 3 定义，免费使用。
+  * [Parseur](https://parseur.com) — 每月 20 页免费：从 PDF、邮件中提取数据，AI 驱动，提供完整 API 访问。
+  * [PDF-API.io](https://pdf-api.io) - PDF 自动化 API，提供可视化模板编辑器或 HTML 转 PDF、动态数据集成与 PDF 渲染。免费计划包含 1 个模板、每月 100 份 PDF。
+  * [PDFBolt](https://pdfbolt.com) - 面向开发者的 PDF 生成 API，强调隐私保护，提供 Stripe 风格文档，每月包含 500 次免费 PDF 转换。
+  * [pdfEndpoint.com](https://pdfendpoint.com) - 使用简单 API 轻松将 HTML 或 URL 转为 PDF。每月免费 100 次转换。
+  * [Pixela](https://pixe.la/) - 免费的日记流数据库服务，所有操作通过 API 完成，并支持热力图与折线图可视化。
+  * [Postman](https://postman.com) — Postman 是 API 开发的协作平台，可简化流程并更快构建更好的 API。Postman 应用永久免费；Postman 云功能在一定限制内永久免费。
+  * [PrefectCloud](https://www.prefect.io/cloud/) — 数据流自动化平台。免费计划包含 5 个已部署工作流与每月 500 分钟无服务器计算额度。
+  * [Preset Cloud](https://preset.io/) - 托管的 Apache Superset 服务，最多 5 名用户团队永久免费，包含无限仪表盘与图表、无代码图表构建器与协作 SQL 编辑器。
+  * [ProxySentry](https://proxysentry.io/) - 用于检测住宅代理与 VPN 的 IP API。ProxySentry.io 在 rapidapi.com 提供每月 10k 请求的免费层。
+  * [Reducto](https://reducto.ai) - 将非结构化文档（PDF、XLSX、JPG、PPTX 等）转换为结构化 JSON 数据。支持解析、提取数据与编辑 PDF 表单。免费层含 15k 免费额度并支持按量付费。
+  * [Rendi](https://rendi.dev) - FFmpeg API：FFmpeg 的 REST API，可在线运行 FFmpeg 而无需维护基础设施。免费层包含每月处理额度并提供 4 vCPU。
+  * [RequestBin.com](https://requestbin.com) — 创建一个免费端点来接收 HTTP 请求。发送到该端点的请求会记录其负载与请求头，便于观察来自 Webhook 和其他服务的请求。
+  * [ROBOHASH](https://robohash.org/) - 通过任意文本生成独特酷炫图片的 Web 服务。
+  * [Scraper's Proxy](https://scrapersproxy.com) — 用于抓取的简单 HTTP 代理 API。匿名抓取，避免限制、封禁或验证码。每月前 100 次成功抓取免费（含 JavaScript 渲染），更多可联系支持。
+  * [ScrapingAnt](https://scrapingant.com/) — 无头 Chrome 抓取 API 与免费可用代理服务，支持 JavaScript 渲染、高级轮换代理与 CAPTCHA 规避。免费 10,000 API 积分。
+  * [SerpApi](https://serpapi.com/) - 实时搜索引擎抓取 API，返回 Google、YouTube、Bing、Baidu、Walmart 等多个引擎的结构化 JSON 结果。免费计划每月 100 次成功 API 调用。
+  * [Sheetson](https://sheetson.com) - 即时将任意 Google Sheets 转为 RESTful API。提供免费计划，每张表含 1,000 行免费额度。
+  * [Simplescraper](https://simplescraper.io) — 每次操作后触发 Webhook。免费计划包含 100 个云抓取额度。
+  * [Siterelic](https://siterelic.com/) - Siterelic API 支持截图、网站审计、TLS 扫描、DNS 查询、TTFB 测试等。免费计划每月 100 次 API 请求。
+  * [SmartParse](https://smartparse.io) - SmartParse 是数据迁移与 CSV 转 API 平台，提供节省时间和成本的开发工具。免费层包含每月 300 Processing Units、浏览器上传、数据隔离、熔断器与任务提醒。
+  * [Sofodata](https://www.sofodata.com/) - 从 CSV 文件创建安全的 RESTful API。上传 CSV 即可通过 API 访问数据，加速应用开发。免费计划包含 2 个 API、每月 2,500 次 API 调用，无需信用卡。
+  * [Sqlable](https://sqlable.com/) - 免费在线 SQL 工具集合，包含 SQL 格式化与校验、SQL 正则测试、伪数据生成器与交互式数据库演练场。
+  * [Supportivekoala](https://supportivekoala.com/) — 通过模板根据输入自动生成图片。免费计划每月最多 50 张。
+  * [Svix](https://www.svix.com/) - Webhook 即服务。每月可免费发送最多 50,000 条消息。
+  * [Tavily AI](https://tavily.com/) - 面向在线搜索与快速洞察/综合研究的 API，可组织研究结果。免费层每月 1,000 次请求，无需信用卡。
+  * [The IP API](https://theipapi.com/) - IP 地理定位 API，每天 1,000 次免费请求，提供国家、城市、地区等位置信息。
+  * [TinyMCE](https://www.tiny.cloud) - 富文本编辑 API，核心功能永久免费不限用量。
+  * [Tomorrow.io Weather API](https://www.tomorrow.io/weather-api/) - 提供免费的天气 API 计划，覆盖全球，包含历史数据与天气监测方案，预测准确且及时。
+  * [Treblle](https://www.treblle.com) - Treblle 帮助团队构建、发布与治理 API，提供高级 API 日志聚合、可观测性、文档与调试。免费层功能全开，但每月请求上限为 250k。
+  * [UniRateAPI](https://unirateapi.com) – 覆盖 590+ 货币与加密货币的实时汇率。免费计划 API 调用不限量，适合开发者与金融应用。
+  * [vatcheckapi.com](https://vatcheckapi.com) - 简单免费的 VAT 号码验证 API，每月 150 次免费验证。
+  * [WeatherXu](https://weatherxu.com/) — 提供全球天气数据，包括当前情况、小时/每日预报与天气预警。通过 AI/ML 模型整合与分析多种天气模型以提升预测准确性。免费层每月 10,000 次 API 调用。
+  * [WebScraping.AI](https://webscraping.ai) - 简单的网页抓取 API，内置解析、Chrome 渲染与代理。每月 2,000 次免费 API 调用。
+  * [Weights & Biases](https://wandb.ai) — 开发者优先的 MLOps 平台，支持实验跟踪、数据集版本与模型管理，帮助更快训练更好模型。免费层仅限个人项目，含 100 GB 存储。
+  * [What The Diff](https://whatthediff.ai) - AI 驱动的代码评审助手。免费计划每月 25,000 tokens（约 10 个 PR）。
+  * [wolfram.com](https://wolfram.com/language/) — 云端内置知识算法。
+  * [wrapapi.com](https://wrapapi.com/) — 将任意网站转换为参数化 API。每月 30k 次 API 调用。
+  * [Zenscrape](https://zenscrape.com/web-scraping-api) — 使用无头浏览器与住宅 IP 的网页抓取 API，定价清晰。每月 1,000 次免费 API 调用，学生与非营利组织可获得额外额度。
+  * [Zipcodebase](https://zipcodebase.com) - 免费邮编 API，可访问全球邮编数据。每月 5,000 次免费请求。
+  * [Zipcodestack](https://zipcodestack.com) - 免费邮编 API 与邮编校验。每月 10,000 次免费请求。
+  * [Zuplo](https://zuplo.com/) - 免费 API 管理平台，可在边缘设计、构建与部署 API。支持 API Key 认证、限流、开发者文档与变现。OpenAPI 原生、可用 Web 标准 API 与 TypeScript 完全编程。免费计划最多 10 个项目、无限生产边缘环境、每月 1M 请求与 10GB 出站流量。
 
 **[⬆️ Back to Top](#table-of-contents)**
 
