@@ -733,101 +733,101 @@
 
 ## Monitoring
 
-  * [assertible.com](https://assertible.com) — Automated API testing and monitoring. Free plans for teams and individuals.
-  * [Better Stack](https://betterstack.com/better-uptime) - Uptime monitoring, incident management, on-call scheduling/alerting, and status pages in a single product. The free plan includes ten monitors with 3-minute check frequency and status pages.
-  * [bleemeo.com](https://bleemeo.com) - Free for 3 servers, 5 uptime monitors, unlimited users, unlimited dashboards, unlimited alerting rules.
-  * [checklyhq.com](https://checklyhq.com) - Open source E2E / Synthetic monitoring and deep API monitoring for developers. Free plan with one user and 10k API & network / 1.5k browser check runs.
-  * [Core Web Vitals History](https://punits.dev/core-web-vitals-historical/) - Find Core Web Vitals history for a url or a website.
-  * [cronitor.io](https://cronitor.io/) - Performance insights and uptime monitoring for cron jobs, websites, APIs and more. A free tier with five monitors.
-  * [datadoghq.com](https://www.datadoghq.com/) — Free for up to 5 nodes
-  * [deadmanssnitch.com](https://deadmanssnitch.com/) — Monitoring for cron jobs. One free snitch (monitor), more if you refer others to sign up
-  * [downtimemonkey.com](https://downtimemonkey.com/) — 60 uptime monitors, 5-minute interval. Email, Slack alerts.
-  * [economize.cloud](https://economize.cloud) — Economize helps demystify cloud infrastructure costs by organizing cloud resources to optimize and report the same. Free for up to $5,000 spent on Google Cloud Platform every month.
-  * [fivenines.io](https://fivenines.io/) — Linux server monitoring with real‑time dashboards and alerting — free forever for up to 5 monitored servers at 60-seconds interval. No credit card required.
-  * [Grafana Cloud](https://grafana.com/products/cloud/) - Grafana Cloud is a composable observability platform that integrates metrics and logs with Grafana. Free: 3 users, ten dashboards, 100 alerts, metrics storage in Prometheus and Graphite (10,000 series, 14 days retention), logs storage in Loki (50 GB of logs, 14 days retention)
-  * [healthchecks.io](https://healthchecks.io) — Monitor your cron jobs and background tasks. Free for up to 20 checks.
-  * [incidenthub.cloud](https://incidenthub.cloud/) — Cloud and SaaS status page aggregator - 20 monitors and 2 notification channels (Slack and Discord) are free forever.
-  * [inspector.dev](https://www.inspector.dev) - A complete Real-Time monitoring dashboard in less than one minute with a free forever tier.
-  * [instatus.com](https://instatus.com) - Get a beautiful status page in 10 seconds. Free forever with unlimited subs and unlimited teams.
-  * [linkok.com](https://linkok.com) - Online broken link checker, free for small websites up to 100 pages, completely free for open-source projects.
-  * [loader.io](https://loader.io/) — Free load testing tools with limitations
-  * [Middleware.io](https://middleware.io/) -  Middleware observability platform provides complete visibility into your apps & stack, so you can monitor & diagnose issues at scale. They have a free forever plan for Dev community use that allows Log monitoring for up to 1M log events, Infrastructure monitoring & APM for up to 2 hosts.
-  * [MonitorMonk](https://monitormonk.com) - Minimalist uptime monitoring with beautiful status pages. The Forever Free plan offers HTTPS, Keyword, SSL and Response-time monitorming for 10 websites or api-endpoints, and provides 2 dashboards/status pages.
-  * [netdata.cloud](https://www.netdata.cloud/) — Netdata is an open-source tool to collect real-time metrics. It's a growing product and can also be found on GitHub!
-  * [newrelic.com](https://www.newrelic.com) — New Relic observability platform built to help engineers create more perfect software. From monoliths to serverless, you can instrument everything and then analyze, troubleshoot, and optimize your entire software stack. The free tier offers 100GB/month of free data ingest, one free full-access user, and unlimited free primary users.
-  * [OnlineOrNot.com](https://onlineornot.com/) - OnlineOrNot provides uptime monitoring for websites and APIs, monitoring for cron jobs and scheduled tasks. Also provides status pages. The first five checks with a 3-minute interval are free. The free tier sends alerts via Slack, Discord, and Email.
-  * [OntarioNet.ca CN Test](https://cntest.ontarionet.ca) — Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.
-  * [pagecrawl.io](https://pagecrawl.io/) -  Monitor website changes, free for up to 6 monitors with daily checks.
-  * [pagertree.com](https://pagertree.com/) - Simple interface for alerting and on-call management. Free up to 5 users.
-  * [phare.io](https://phare.io/) - Uptime Monitoring free for up to 100,000 events for unlimited projets and unlimited status pages.
-  * [pingbreak.com](https://pingbreak.com/) — Modern uptime monitoring service. Check unlimited URLs and get downtime notifications via Discord, Slack, or email.
-  * [Pingmeter.com](https://pingmeter.com/) - 5 uptime monitors with 10-minute interval. Monitor SSH, HTTP, HTTPS, and any custom TCP ports.
-  * [pingpong.one](https://pingpong.one/) — Advanced status page platform with monitoring. The free tier includes one public customizable status page with an SSL subdomain. Pro plan is offered to open-source projects and non-profits free of charge.
-  * [Pulsetic](https://pulsetic.com) - 10 monitors, 6 Months of historical Uptime/Logs, unlimited status pages, and custom domains included! For infinite time and unlimited email alerts for free. You don't need a credit card.
-  * [robusta.dev](https://home.robusta.dev/) — Powerful Kubernetes monitoring based on Prometheus. Bring your own Prometheus or install the all-in-one bundle. The free tier includes up to 20 Kubernetes nodes. Alerts via Slack, Microsoft Teams, Discord, and more. Integrations with PagerDuty, OpsGenie, VictorOps, DataDog, and many other tools.
-  * [Servervana](https://servervana.com) - Advanced uptime monitoring with support for large projects and teams. Provides HTTP monitoring, Browser based monitoring, DNS monitoring, domain monitoring, status pages and more. The free tier includes 10 HTTP monitors, 1 DNS monitor and one status page.
-  * [Simple Observability](https://simpleobservability.com) — Powerful server monitoring in a unified platform for metrics and logs, with no setup complexity. Free for one server.
-  * [sitesure.net](https://sitesure.net) - Website and cron monitoring - 2 monitors free
-  * [skylight.io](https://www.skylight.io/) — Free for first 100,000 requests (Rails only)
-  * [stathat.com](https://www.stathat.com/) — Get started with ten stats for free, no expiration
-  * [statuscake.com](https://www.statuscake.com/) — Website monitoring, unlimited tests free with limitations
-  * [statusgator.com](https://statusgator.com/) — Status page monitoring, 3 monitors free
-  * [SweetUptime](https://dicloud.net/sweetuptime-server-uptime-monitoring/) — Server monitoring, uptime monitoring, DNS & domain monitoring. Monitor 10 server, 10 uptime, and 10 domain for free.
-  * [syagent.com](https://syagent.com/) — Noncommercial free server monitoring service, alerts and metrics.
-  * [UptimeObserver.com](https://uptimeobserver.com) - Get 20 uptime monitors with 5-minute intervals and a customizable status page—even for commercial use. Enjoy unlimited, real-time notifications via email and Telegram. No credit card needed to get started.
-  * [uptimetoolbox.com](https://uptimetoolbox.com/) — Free monitoring for five websites, 60-second intervals, public statuspage.
-  * [Wachete](https://www.wachete.com) - monitor five pages, checks every 24 hours.
-  * [Xitoring.com](https://xitoring.com/) — Uptime monitoring: 20 free, Linux and Windows Server monitoring: 5 free, Status page: 1 free - Mobile app, multiple notification channel, and much more!
+  * [assertible.com](https://assertible.com) — 自动化 API 测试和监控。为团队和个人提供免费计划。
+  * [Better Stack](https://betterstack.com/better-uptime) - 正常运行时间监控、事件管理、待命调度/警报和状态页面集成在一个产品中。免费计划包括 10 个监控器，3 分钟检查频率和状态页面。
+  * [bleemeo.com](https://bleemeo.com) - 3 台服务器免费，5 个正常运行时间监控器，无限用户、无限仪表板、无限警报规则。
+  * [checklyhq.com](https://checklyhq.com) - 面向开发者的开源 E2E / 综合监控和深度 API 监控。免费计划包括 1 名用户和 10k API 和网络 / 1.5k 浏览器检查运行。
+  * [Core Web Vitals History](https://punits.dev/core-web-vitals-historical/) - 查找 URL 或网站的 Core Web Vitals 历史。
+  * [cronitor.io](https://cronitor.io/) — 针对 cron 作业、网站、API 等的性能洞察和正常运行时间监控。具有 5 个监控器的免费层级。
+  * [datadoghq.com](https://www.datadoghq.com/) — 最多 5 个节点免费
+  * [deadmanssnitch.com](https://deadmanssnitch.com/) — cron 作业的监控。一个免费告警（监控），如果您推荐其他人注册，可以获得更多
+  * [downtimemonkey.com](https://downtimemonkey.com/) — 60 个正常运行时间监控器，5 分钟间隔。电子邮件、Slack 警报。
+  * [economize.cloud](https://economize.cloud) — Economize 通过组织云资源来优化和报告相同内容，帮助揭开云基础设施成本的神秘面纱。每月在 Google Cloud Platform 上花费最多 $5,000 免费。
+  * [fivenines.io](https://fivenines.io/) — Linux 服务器监控，具有实时仪表板和警报——最多 5 台监控服务器永久免费，60 秒间隔。无需信用卡。
+  * [Grafana Cloud](https://grafana.com/products/cloud/) - Grafana Cloud 是一个可组合的可观察性平台，将指标和日志与 Grafana 集成。免费：3 名用户、十个仪表板、100 个警报、Prometheus 和 Graphite 中的指标存储（10,000 个系列，14 天保留期）、Loki 中的日志存储（50 GB 日志，14 天保留期）
+  * [healthchecks.io](https://healthchecks.io) — 监控您的 cron 作业和后台任务。最多 20 个检查免费。
+  * [incidenthub.cloud](https://incidenthub.cloud/) — 云和 SaaS 状态页面聚合器 - 20 个监控器和 2 个通知通道（Slack 和 Discord）永久免费。
+  * [inspector.dev](https://www.inspector.dev) - 在不到一分钟的时间内获得完整的实时监控仪表板，具有永久免费层级。
+  * [instatus.com](https://instatus.com) - 在 10 秒内获得一个漂亮的状态页面。永久免费，具有无限订阅者和无限团队。
+  * [linkok.com](https://linkok.com) - 在线断链检查器，最多 100 页的小型网站免费，开源项目完全免费。
+  * [loader.io](https://loader.io/) — 具有限制的免费负载测试工具
+  * [Middleware.io](https://middleware.io/) - 中间件可观察性平台为您的应用程序和堆栈提供完整的可见性，以便您可以大规模监控和诊断问题。它们为开发者社区使用提供永久免费计划，允许最多 1M 日志事件的日志监控，最多 2 台主机的基础设施监控和 APM。
+  * [MonitorMonk](https://monitormonk.com) - 具有漂亮状态页面的极简正常运行时间监控。永久免费计划为 10 个网站或 api 端点提供 HTTPS、关键字、SSL 和响应时间监控，并提供 2 个仪表板/状态页面。
+  * [netdata.cloud](https://www.netdata.cloud/) — Netdata 是一个收集实时指标的开源工具。它是一个不断发展的产品，也可以在 GitHub 上找到！
+  * [newrelic.com](https://www.newrelic.com) — New Relic 可观察性平台，旨在帮助工程师创建更完美的软件。从单体到无服务器，您可以检测所有内容，然后分析、故障排除和优化整个软件堆栈。免费层级提供每月 100GB 的免费数据摄取、一个免费的全访问用户和无限免费主要用户。
+  * [OnlineOrNot.com](https://onlineornot.com/) - OnlineOrNot 为网站和 API 提供正常运行时间监控，为 cron 作业和计划任务提供监控。还提供状态页面。前 5 个检查，3 分钟间隔免费。免费层级通过 Slack、Discord 和电子邮件发送警报。
+  * [OntarioNet.ca CN Test](https://cntest.ontarionet.ca) — 检查网站是否被中国防火墙阻止。它通过比较中国的服务器与美国的服务器检测到的 DNS 结果和 ASN 信息来识别 DNS 污染。
+  * [pagecrawl.io](https://pagecrawl.io/) - 监控网站更改，最多 6 个监控器，每日检查免费。
+  * [pagertree.com](https://pagertree.com/) - 警报和待命管理的简单界面。最多 5 名用户免费。
+  * [phare.io](https://phare.io/) - 无限项目和无限状态页面的最多 100,000 个事件的正常运行时间监控免费。
+  * [pingbreak.com](https://pingbreak.com/) — 现代正常运行时间监控服务。检查无限 URL 并通过 Discord、Slack 或电子邮件获取停机时间通知。
+  * [Pingmeter.com](https://pingmeter.com/) - 5 个正常运行时间监控器，10 分钟间隔。监控 SSH、HTTP、HTTPS 和任何自定义 TCP 端口。
+  * [pingpong.one](https://pingpong.one/) — 具有监控的高级状态页面平台。免费层级包括一个可自定义的公共状态页面，具有 SSL 子域。Pro 计划免费提供给开源项目和非营利组织。
+  * [Pulsetic](https://pulsetic.com) - 10 个监控器，6 个月的历史正常运行时间/日志，无限状态页面和自定义域名！无限时间和无限电子邮件警报免费。您不需要信用卡。
+  * [robusta.dev](https://home.robusta.dev/) — 基于 Prometheus 的强大 Kubernetes 监控。自带 Prometheus 或安装一体化捆绑包。免费层级包括最多 20 个 Kubernetes 节点。通过 Slack、Microsoft Teams、Discord 等发送警报。与 PagerDuty、OpsGenie、VictorOps、DataDog 和许多其他工具集成。
+  * [Servervana](https://servervana.com) - 支持大型项目和团队的高级正常运行时间监控。提供 HTTP 监控、基于浏览器的监控、DNS 监控、域监控、状态页面等。免费层级包括 10 个 HTTP 监控器、1 个 DNS 监控器和 1 个状态页面。
+  * [Simple Observability](https://simpleobservability.com) — 在统一的平台上为指标和日志提供强大的服务器监控，没有设置复杂性。一台服务器免费。
+  * [sitesure.net](https://sitesure.net) - 网站和 cron 监控 - 2 个监控器免费
+  * [skylight.io](https://www.skylight.io/) — 前 100,000 个请求免费（仅限 Rails）
+  * [stathat.com](https://www.stathat.com/) - 免费开始使用 10 个统计数据，无过期
+  * [statuscake.com](https://www.statuscake.com/) - 网站监控，具有限制的无限测试免费
+  * [statusgator.com](https://statusgator.com/) — 状态页面监控，3 个监控器免费
+  * [SweetUptime](https://dicloud.net/sweetuptime-server-uptime-monitoring/) — 服务器监控、正常运行时间监控、DNS 和域监控。免费监控 10 台服务器、10 个正常运行时间和 10 个域。
+  * [syagent.com](https://syagent.com/) — 非商业免费服务器监控服务、警报和指标。
+  * [UptimeObserver.com](https://uptimeobserver.com) - 获得 20 个正常运行时间监控器，5 分钟间隔和可自定义的状态页面——即使用于商业用途。通过电子邮件和 Telegram 享受无限的实时通知。无需信用卡即可开始。
+  * [uptimetoolbox.com](https://uptimetoolbox.com/) - 免费监控五个网站，60 秒间隔，公共状态页面。
+  * [Wachete](https://www.wachete.com) - 监控五个页面，每 24 小时检查一次。
+  * [Xitoring.com](https://xitoring.com/) — 正常运行时间监控：20 个免费，Linux 和 Windows 服务器监控：5 个免费，状态页面：1 个免费 - 移动应用程序、多个通知通道等！
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Crash and Exception Handling
 
-  * [Axiom](https://axiom.co/) — Store up to 0.5 TB of logs with 30-day retention. Includes integrations with platforms like Vercel and advanced data querying with email/Discord notifiers.
-  * [Bugsink](https://www.bugsink.com/) — Error-tracking with Sentry-SDK compatability. Free for up to 5,000 errors/month, or unlimited use when self-hosted.
-  * [bugsnag.com](https://www.bugsnag.com/) — Free for up to 2,000 errors/month after the initial trial
-  * [CatchJS.com](https://catchjs.com/) - JavaScript error tracking with screenshots and click trails. Free for open-source projects.
-  * [elmah.io](https://elmah.io/) — Error logging and uptime monitoring for web developers. Free Small Business subscription for open-source projects.
-  * [Embrace](https://embrace.io/) — Mobile app monitoring. Free for small teams with up to 1 million user sessions per year.
-  * [exceptionless](https://exceptionless.com) — Real-time error, feature, log reporting, and more. Free for 3k events per month/1 user. Open source and easy to self-host for unlimited use.
-  * [GlitchTip](https://glitchtip.com/) — Simple, open-source error tracking. Compatible with open-source Sentry SDKs. 1000 events per month for free, or can self-host with no limits
-  * [honeybadger.io](https://www.honeybadger.io) - Exception, uptime, and cron monitoring. Free for small teams and open-source projects (12,000 errors/month).
-  * [Jam](https://jam.dev) - Developer friendly bug reports in one click. Free plan with unlimited jams.
-  * [memfault.com](https://memfault.com) — Cloud device observability and debugging platform. 100 devices free for [Nordic](https://app.memfault.com/register-nordic), [NXP](https://app.memfault.com/register-nxp), and [Laird](https://app.memfault.com/register-laird) devices.
-  * [rollbar.com](https://rollbar.com/) — Exception and error monitoring, free plan with 5,000 errors/month, unlimited users, 30 days retention
-  * [Semaphr](https://semaphr.com) — Free all-in-one kill switch for your mobile apps.
-  * [sentry.io](https://sentry.io/) — Sentry tracks app exceptions in real-time and has a small free plan. Free for 5k errors per month/ 1 user, unrestricted use if self-hosted
-  * [Whitespace](https://whitespace.dev) – One-click bug reports straight in your browser. Free plan with unlimited recordings for personal use.
+  * [Axiom](https://axiom.co/) — 存储最多 0.5 TB 日志，保留 30 天。包括与 Vercel 等平台的集成以及通过电子邮件/Discord 通知程序进行的高级数据查询。
+  * [Bugsink](https://www.bugsink.com/) — 与 Sentry-SDK 兼容的错误跟踪。最多 5,000 个错误/月免费，或自托管时无限使用。
+  * [bugsnag.com](https://www.bugsnag.com/) — 初始试用后，最多 2,000 个错误/月免费
+  * [CatchJS.com](https://catchjs.com/) - 带有屏幕截图和点击跟踪的 JavaScript 错误跟踪。开源项目免费。
+  * [elmah.io](https://elmah.io/) — 面向 Web 开发人员的错误日志记录和正常运行时间监控。开源项目的免费小型企业订阅。
+  * [Embrace](https://embrace.io/) — 移动应用程序监控。小型团队免费，每年最多 100 万个用户会话。
+  * [exceptionless](https://exceptionless.com) — 实时错误、功能、日志报告等。每月 3k 个事件/1 名用户免费。开源且易于自托管以供无限使用。
+  * [GlitchTip](https://glitchtip.com/) — 简单、开源的错误跟踪。与开源 Sentry SDK 兼容。每月 1000 个事件免费，或可以自托管，没有限制
+  * [honeybadger.io](https://www.honeybadger.io) - 异常、正常运行时间和 cron 监控。小型团队和开源项目免费（每月 12,000 个错误）。
+  * [Jam](https://jam.dev) - 一键获取开发者友好的错误报告。具有无限 jams 的免费计划。
+  * [memfault.com](https://memfault.com) — 云设备可观察性和调试平台。[Nordic](https://app.memfault.com/register-nordic)、[NXP](https://app.memfault.com/register-nxp) 和 [Laird](https://app.memfault.com/register-laird) 设备的 100 台设备免费。
+  * [rollbar.com](https://rollbar.com/) — 异常和错误监控，免费计划包括 5,000 个错误/月、无限用户、30 天保留期
+  * [Semaphr](https://semaphr.com/) — 针对您的移动应用程序的免费一体化开关。
+  * [sentry.io](https://sentry.io/) — Sentry 实时跟踪应用程序异常，并提供一个小的免费计划。每月 5k 个错误/1 名用户免费，自托管时无限制使用
+  * [Whitespace](https://whitespace.dev) – 直接在浏览器中一键生成错误报告。免费计划包含用于个人用途的无限录制。
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Search
 
-  * [algolia.com](https://www.algolia.com/) — Hosted search solution with typo-tolerance, relevance, and UI libraries to easily create search experiences. The free "Build" plan includes 1M documents and 10K searches/month. Also offers [developer documentation search](https://docsearch.algolia.com/) for free.
-  * [bonsai.io](https://bonsai.io/) — Free 1 GB memory and 1 GB storage
-  * [CommandBar](https://www.commandbar.com/) - Unified Search Bar as-a-service, web-based UI widget/plugin that allows your users to search contents, navigations, features, etc. within your product, which helps discoverability. Free for up to 1,000 Monthly Active Users, unlimited commands.
-  * [searchly.com](http://www.searchly.com/) — Free 2 indices and 20 MB storage
+  * [algolia.com](https://www.algolia.com/) — 托管搜索解决方案，具有拼写容错、相关性和 UI 库，可轻松创建搜索体验。免费 "Build" 计划包括 100 万个文档和 10K 搜索/月。还免费提供[开发者文档搜索](https://docsearch.algolia.com/)。
+  * [bonsai.io](https://bonsai.io/) — 免费 1 GB 内存和 1 GB 存储
+  * [CommandBar](https://www.commandbar.com/) - 统一搜索栏即服务，基于 Web 的 UI 小部件/插件，允许您的用户在产品内搜索内容、导航、功能等，有助于提高可发现性。最多 1,000 名每月活跃用户免费，无限命令。
+  * [searchly.com](http://www.searchly.com/) — 免费 2 个索引和 20 MB 存储
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Education and Career Development
 
-  * [Cisco Networking Academy, Skills for All](https://skillsforall.com/) - Offers free certification-aligned courses in topics like cybersecurity, networking, and Python.
-  * [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/) - Free short courses from industry-leading experts to get hands-on experience with the latest generative AI tools and techniques in an hour or less.
-  * [DevNet Academy](https://devnet-academy.com/) – Free, self-paced training for the Cisco DevNet Expert / CCIE Automation certification. Covers Python Click and Flask-RESTx.
-  * [Django-tutorial.dev](https://django-tutorial.dev) - Free online guides for learning Django as their first framework & gives free dofollow backlink to articles written by users.
-  * [edX](https://www.edx.org/) - Offers access to over 4,000 free online courses from 250 leading institutions, including Harvard and MIT, specializing in computer science, engineering, and data science.
-  * [Exercism](https://exercism.org) – Free, open-source programming education in over 75 programming languages, with human mentoring. A nonprofit organisation.
-  * [Free Professional Resume Templates & Editor](https://www.overleaf.com/latex/templates/tagged/cv) - Free platform with lots of Resume templates of Experienced Professionals, ready to clone and edit fully and download, ATS optimized.
-  * [FreeCodeCamp](https://www.freecodecamp.org/) - Open-source platform offering free courses and certifications in Data Analysis, Information Security, Web Development, and more.
-  * [Full Stack Open](https://fullstackopen.com/en/) – Free university-level course on modern web development with React, Node.js, GraphQL, TypeScript, and more. Fully online and self-paced.
-  * [Interactive CV](https://interactive-cv.com) — AI-powered resume builder with real-time editing and ATS optimization. Free tier includes automatic CV conversion to premium templates (Harvard, Europass), PDF export, job tracker with unlimited job posting insights and CV sharing with chat/voice features.
-  * [Khan Academy](https://www.khanacademy.org/computing/computer-programming) - Free online guides for learning basic and advanced HTML/CSS, JavaScript and SQL.
-  * [LabEx](https://labex.io) - Develop skills in Linux, DevOps, Cybersecurity, Programming, Data Science, and more through interactive labs and real-world projects.
-  * [MIT OpenCourseWare](https://ocw.mit.edu/) - MIT OpenCourseWare is an online publication of materials from over 2,500 MIT courses, freely sharing knowledge with learners and educators around the world. Youtube channel can be found at [@mitocw](https://www.youtube.com/@mitocw/featured)
-  * [Roadmap.sh](https://roadmap.sh) - Free learning roadmaps covering all aspects of development from Blockchain to UX Design.
-  * [The Odin Project](https://www.theodinproject.com/) - Free, open-source platform with a curriculum focused on JavaScript and Ruby for web development.
-  * [W3Schools](https://www.w3schools.com/) - Offers free tutorials on web development technologies like HTML, CSS, JavaScript, and more.
+  * [Cisco Networking Academy, Skills for All](https://skillsforall.com/) - 提供与认证对齐的免费课程，主题包括网络安全、网络和 Python。
+  * [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/) - 来自行业领先专家的免费短期课程，可在不到一小时的时间内获得使用最新生成式 AI 工具和技术的实践经验。
+  * [DevNet Academy](https://devnet-academy.com/) – Cisco DevNet Expert / CCIE 自动化认证的免费、自学培训。涵盖 Python Click 和 Flask-RESTx。
+  * [Django-tutorial.dev](https://django-tutorial.dev) - 用于学习 Django 作为其第一个框架的免费在线指南，并为用户撰写的文章提供免费的 dofollow 反向链接。
+  * [edX](https://www.edx.org/) - 提供来自 250 个领先机构的 4,000 多门免费在线课程的访问权限，包括哈佛和 MIT，专门从事计算机科学、工程和数据科学。
+  * [Exercism](https://exercism.org) – 免费、开源的编程教育，涵盖 75 种以上的编程语言，具有人工指导。非营利组织。
+  * [Free Professional Resume Templates & Editor](https://www.overleaf.com/latex/templates/tagged/cv) - 具有大量经验专业人士简历模板的免费平台，准备好完全克隆、编辑和下载，ATS 优化。
+  * [FreeCodeCamp](https://www.freecodecamp.org/) - 开源平台，提供数据分析、信息安全、Web 开发等免费课程和认证。
+  * [Full Stack Open](https://fullstackopen.com/en/) – 关于现代 Web 开发的免费大学级课程，涵盖 React、Node.js、GraphQL、TypeScript 等。完全在线和自学。
+  * [Interactive CV](https://interactive-cv.com) — AI 驱动的简历构建器，具有实时编辑和 ATS 优化。免费层级包括自动将简历转换为高级模板（Harvard、Europass）、PDF 导出、具有无限职位发布洞察和通过聊天/语音功能共享简历的职位跟踪器。
+  * [Khan Academy](https://www.khanacademy.org/computing/computer-programming) - 学习基本和高级 HTML/CSS、JavaScript 和 SQL 的免费在线指南。
+  * [LabEx](https://labex.io) - 通过交互式实验室和真实项目，在 Linux、DevOps、网络安全、编程、数据科学等方面培养技能。
+  * [MIT OpenCourseWare](https://ocw.mit.edu/) - MIT OpenCourseWare 是来自 2,500 多个 MIT 课程材料的在线出版物，免费与世界各地的学习者和教育者分享知识。Youtube 频道可以在 [@mitocw](https://www.youtube.com/@mitocw/featured) 找到
+  * [Roadmap.sh](https://roadmap.sh) - 涵盖从区块链到 UX 设计的各个方面开发的免费学习路线图。
+  * [The Odin Project](https://www.theodinproject.com/) - 免费、开源平台，专注于 JavaScript 和 Ruby 用于 Web 开发的课程。
+  * [W3Schools](https://www.w3schools.com/) - 提供关于 Web 开发技术（如 HTML、CSS、JavaScript 等）的免费教程。
 
 **[⬆️ Back to Top](#table-of-contents)**
 
