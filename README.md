@@ -588,146 +588,146 @@
 
 ## Security and PKI
 
-  * [aikido.dev](https://www.aikido.dev) — All-in-one appsec platform covering SCA, SAST, CSPM, DAST, Secrets, IaC, Malware, Container scanning, EOL,... Free plan includes two users, scanning of 10 repos, 1 cloud, 2 containers & 1 domain.
-  * [CertKit](https://www.certkit.io/certificate-management) - Manage SSL Certificate issuance, renewal, and monitoring. Search the Certificate Transparency Logs. Free for 3 certificates and 1 user after the beta.
-  * [crypteron.com](https://www.crypteron.com/) — Cloud-first, developer-friendly security platform prevents data breaches in .NET and Java applications
-  * [CyberChef](https://gchq.github.io/CyberChef/) — A simple, intuitive web app for analyzing and decoding/encoding data without dealing with complex tools or programming languages. Like a Swiss army knife of cryptography & encryption. All features are free to use, with no limit. Open source if you wish to self-host.
-  * [Datree](https://www.datree.io/) — Open Source CLI tool to prevent Kubernetes misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies
-  * [Dependabot](https://dependabot.com/) Automated dependency updates for Ruby, JavaScript, Python, PHP, Elixir, Rust, Java (Maven and Gradle), .NET, Go, Elm, Docker, Terraform, Git Submodules, and GitHub Actions.
-  * [DJ Checkup](https://djcheckup.com) — Scan your Django site for security flaws with this free, automated checkup tool. Forked from the Pony Checkup site.
-  * [Doppler](https://doppler.com/) — Universal Secrets Manager for application secrets and config, with support for syncing to various cloud providers. Free for five users with basic access controls.
-  * [Dotenv](https://dotenv.org/) — Sync your .env files, quickly & securely. Stop sharing your .env files over insecure channels like Slack and email, and never lose an important .env file again. Free for up to 3 teammates.
-  * [GitGuardian](https://www.gitguardian.com) — Keep secrets out of your source code with automated secrets detection and remediation. Scan your git repos for 350+ types of secrets and sensitive files – Free for individuals and teams of 25 developers or less.
-  * [HasMySecretLeaked](https://gitguardian.com/hasmysecretleaked) - Search across 20 million exposed secrets in public GitHub repositories, gists, issues,and comments for Free
-  * [Have I been pwned?](https://haveibeenpwned.com) — REST API for fetching the information on the breaches.
-  * [hostedscan.com](https://hostedscan.com) — Online vulnerability scanner for web applications, servers, and networks. Ten free scans per month.
-  * [Infisical](https://infisical.com/) — Open source platform that lets you manage developer secrets across your team and infrastructure: everywhere from local development to staging/production 3rd-party services. Free for up to 5 developers.
-  * [Internet.nl](https://internet.nl) — Test for modern Internet Standards like IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE
-  * [letsencrypt.org](https://letsencrypt.org/) — Free SSL Certificate Authority with certs trusted by all major browsers
-  * [meterian.io](https://www.meterian.io/) - Monitor Java, Javascript, .NET, Scala, Ruby, and NodeJS projects for security vulnerabilities in dependencies. Free for one private project, unlimited projects for open source.
-  * [Mozilla Observatory](https://observatory.mozilla.org/) — Find and fix security vulnerabilities in your site.
-  * [Project Gatekeeper](https://gatekeeper.binarybiology.top/) - An All-in-One SSL Toolkit Offering various features like Private Key & CSR Generator, SSL Certificate Decoder, Certificate Matcher and Order SSL Certificate. We offer the users to generate Free SSL Certificates from Let's Encrypt, Google Trust and BuyPass using CNAME Records rather than TXT Records.
-  * [Protectumus](https://protectumus.com) - Free website security check, site antivirus, and server firewall (WAF) for PHP. Email notifications for registered users in the free tier.
-  * [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) — High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github (https://github.com/unknownhad/AWSAttacks). Full list is available via API
-  * [pyup.io](https://pyup.io) — Monitor Python dependencies for security vulnerabilities and update them automatically. Free for one private project, unlimited projects for open source.
-  * [qualys.com](https://www.qualys.com/community-edition) — Find web app vulnerabilities, audit for OWASP Risks
-  * [Socket](https://socket.dev) — Free supply chain security for individual developers, small teams, and open source projects. Includes a free app and firewall CLI tool to protect your code from vulnerable and malicious dependencies. Detects 70+ indicators of supply chain risk.
-  * [SOOS](https://soos.io) - Free, unlimited SCA scans for open-source projects. Detect and fix security threats before release. Protect your projects with a simple and effective solution.
-  * [ssllabs.com](https://www.ssllabs.com/ssltest/) — Intense analysis of the configuration of any SSL web server
-  * [Sucuri SiteCheck](https://sitecheck.sucuri.net) - Free website security check and malware scanner
-  * [TestTLS.com](https://testtls.com) - Test an SSL/TLS service for secure server configuration, certificates, chains, etc. Not limited to HTTPS.
-  * [Virgil Security](https://virgilsecurity.com/) — Tools and services for implementing end-to-end encryption, database protection, IoT security, and more in your digital solution. Free for applications with up to 250 users.
+  * [aikido.dev](https://www.aikido.dev) — 一体化应用安全平台，涵盖 SCA、SAST、CSPM、DAST、Secrets、IaC、Malware、容器扫描、EOL 等。免费计划包括 2 名用户，扫描 10 个仓库、1 个云、2 个容器和 1 个域名。
+  * [CertKit](https://www.certkit.io/certificate-management) - 管理 SSL 证书的颁发、续订和监控。搜索证书透明度日志。测试版后 3 个证书和 1 名用户免费。
+  * [crypteron.com](https://www.crypteron.com/) — 云优先、对开发者友好的安全平台，防止 .NET 和 Java 应用程序中的数据泄露
+  * [CyberChef](https://gchq.github.io/CyberChef/) — 一个简单、直观的 Web 应用程序，用于分析和解码/编码数据，而无需处理复杂的工具或编程语言。就像密码学和加密的瑞士军刀。所有功能都可以免费使用，没有限制。如果您希望自托管，则开源。
+  * [Datree](https://www.datree.io/) — 开源 CLI 工具，通过确保清单和 Helm 图表遵循最佳实践以及您的组织策略来防止 Kubernetes 配置错误
+  * [Dependabot](https://dependabot.com/) 针对 Ruby、JavaScript、Python、PHP、Elixir、Rust、Java（Maven 和 Gradle）、.NET、Go、Elm、Docker、Terraform、Git Submodules 和 GitHub Actions 的自动化依赖更新。
+  * [DJ Checkup](https://djcheckup.com) — 使用此免费的自动化检查工具扫描您的 Django 站点的安全漏洞。从 Pony Checkup 站点分叉。
+  * [Doppler](https://doppler.com/) — 应用程序秘密和配置的通用秘密管理器，支持同步到各种云提供商。5 名用户免费，具有基本访问控制。
+  * [Dotenv](https://dotenv.org/) — 快速安全地同步您的 .env 文件。停止通过 Slack 和电子邮件等不安全渠道共享您的 .env 文件，永远不再丢失重要的 .env 文件。最多 3 名队友免费。
+  * [GitGuardian](https://www.gitguardian.com) — 通过自动秘密检测和修复，将秘密排除在源代码之外。扫描您的 git 仓库中 350+ 种类型的秘密和敏感文件——个人和 25 名或更少开发者的团队免费。
+  * [HasMySecretLeaked](https://gitguardian.com/hasmysecretleaked) - 免费搜索公共 GitHub 仓库、gist、问题和评论中暴露的 2000 万个秘密
+  * [Have I been pwned?](https://haveibeenpwned.com) — 用于获取漏洞信息的 REST API。
+  * [hostedscan.com](https://hostedscan.com) — Web 应用程序、服务器和网络的在线漏洞扫描器。每月 10 次免费扫描。
+  * [Infisical](https://infisical.com/) — 开源平台，让您跨团队和基础设施管理开发者秘密：从本地开发到测试/生产第三方服务的任何地方。最多 5 名开发者免费。
+  * [Internet.nl](https://internet.nl) — 测试现代 Internet 标准，如 IPv6、DNSSEC、HTTPS、DMARC、STARTTLS 和 DANE
+  * [letsencrypt.org](https://letsencrypt.org/) — 免费 SSL 证书颁发机构，证书受所有主要浏览器信任
+  * [meterian.io](https://www.meterian.io/) - 监控 Java、Javascript、.NET、Scala、Ruby 和 NodeJS 项目依赖项中的安全漏洞。一个私有项目免费，开源项目无限。
+  * [Mozilla Observatory](https://observatory.mozilla.org/) — 查找并修复您站点中的安全漏洞。
+  * [Project Gatekeeper](https://gatekeeper.binarybiology.top/) - 一体化 SSL 工具包，提供私钥和 CSR 生成器、SSL 证书解码器、证书匹配器和订购 SSL 证书等各种功能。我们为用户提供使用 CNAME 记录而不是 TXT 记录从 Let's Encrypt、Google Trust 和 BuyPass 生成免费 SSL 证书的服务。
+  * [Protectumus](https://protectumus.com) - 免费网站安全检查、站点杀毒和服务器防火墙 (WAF) 用于 PHP。免费层级中注册用户的电子邮件通知。
+  * [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) — 针对公共云基础设施的高置信度入侵指标 (IOC)，一部分在 github 上可用 (https://github.com/unknownhad/AWSAttacks)。完整列表通过 API 提供
+  * [pyup.io](https://pyup.io) — 监控 Python 依赖项的安全漏洞并自动更新它们。一个私有项目免费，开源项目无限。
+  * [qualys.com](https://www.qualys.com/community-edition) — 查找 Web 应用漏洞，审核 OWASP 风险
+  * [Socket](https://socket.dev) — 为个人开发者、小团队和开源项目提供免费的供应链安全。包括一个免费应用程序和防火墙 CLI 工具，用于保护您的代码免受漏洞和恶意依赖项的侵害。检测 70 多种供应链风险指标。
+  * [SOOS](https://soos.io) - 开源项目的免费、无限 SCA 扫描。在发布之前检测和修复安全威胁。使用简单有效的解决方案保护您的项目。
+  * [ssllabs.com](https://www.ssllabs.com/ssltest/) — 对任何 SSL Web 服务器配置进行深入分析
+  * [Sucuri SiteCheck](https://sitecheck.sucuri.net) - 免费网站安全检查和恶意软件扫描器
+  * [TestTLS.com](https://testtls.com) - 测试 SSL/TLS 服务的安全服务器配置、证书、链等。不限于 HTTPS。
+  * [Virgil Security](https://virgilsecurity.com/) — 用于在您的数字解决方案中实现端到端加密、数据库保护、IoT 安全等工具和服务。最多 250 名用户的应用程序免费。
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Authentication, Authorization, and User Management
 
-  * [360username](https://360username.com/) - A free tool to search a username across 90+ social platforms to find matching profiles.
-  * [Aserto](https://www.aserto.com) - Fine-grained authorization as a service for applications and APIs. Free up to 1000 MAUs and 100 authorizer instances.
-  * [asgardeo.io](https://wso2.com/asgardeo) - Seamless Integration of SSO, MFA, passwordless auth and more. Includes SDKs for frontend and backend apps. Free up to 1000 MAUs and five identity providers.
-  * [Auth0](https://auth0.com/) — Hosted SSO. The free plan includes 25,000 MAUs, unlimited Social Connections, a custom domain, and more.
-  * [Authgear](https://www.authgear.com) - Bring Passwordless, OTPs, 2FA, SSO to your apps in minutes. All Front-end included. Free up to 5000 MAUs.
-  * [Authress](https://authress.io/) — Authentication login and access control, unlimited identity providers for any project. Facebook, Google, Twitter and more. The first 1000 API calls are free.
-  * [Authy](https://authy.com) - Two-factor authentication (2FA) on multiple devices, with backups. Drop-in replacement for Google Authenticator. Free for up to 100 successful authentications.
-  * [Cerbos Hub](https://www.cerbos.dev/product-cerbos-hub) - A complete authorization management system for authoring, testing, and deploying access policies. Fine-grained authorization and access control, free up to 100 monthly active principals.
-  * [Clerk](https://clerk.com) — User management, authentication, 2FA/MFA, prebuilt UI components for sign-in, sign-up, user profiles, and more. Free up to 10,000 monthly active users.
-  * [Cloud-IAM](https://www.cloud-iam.com/) — Keycloak Identity and Access Management as a Service. Free up to 100 users and one realm.
-  * [Descope](https://www.descope.com/) — Highly customizable AuthN flows, has both a no-code and API/SDK approach, Free 7,500 active users/month, 50 tenants (up to 5 SAML/SSO tenants).
-  * [duo.com](https://duo.com/) — Two-factor authentication (2FA) for website or app. Free for ten users, all authentication methods, unlimited, integrations, hardware tokens.
-  * [Kinde](https://kinde.com/) - Simple, robust authentication you can integrate with your product in minutes.  Everything you need to get started with 7,500 free MAU.
-  * [logintc.com](https://www.logintc.com/) — Two-factor authentication (2FA) by push notifications, free for ten users, VPN, Websites, and SSH
-  * [Logto](https://logto.io/) - Develop, secure, and manage user identities of your product - for both authentication and authorization. Free for up to 5,000 MAUs with open-source self-hosted option available.
-  * [MojoAuth](https://mojoauth.com/) - MojoAuth makes it easy to implement Passwordless authentication on your web, mobile, or any application in minutes.
-  * [Okta](https://developer.okta.com/signup/) — User management, authentication and authorization. Free for up to 100 monthly active users.
-  * [Ory](https://ory.sh/) - AuthN/AuthZ/OAuth2.0/Zero Trust managed security platform. Forever free developer accounts with all security features, unlimited team members, 200 daily active users, and 25k/mo permission checks.
-  * [Permit.io](https://permit.io) - Auhtorization-as-a-service provider platform enabling RBAC, ABAC, and ReBAC for scalable microservices with real-time updates and a no-code policy UI. A 1000 Monthly Active User free tier.
-  * [Phase Two](https://phasetwo.io) - Keycloak Open Source Identity and Access Management. Free realm up to 1000 users, up to 10 SSO connections, leveraging Phase Two's Keycloak enhanced container which includes the [Organization](https://phasetwo.io/product/organizations/) extension.
-  * [PropelAuth](https://propelauth.com) — A Sell to companies of any size immediately with a few lines of code, free up to 200 users and 10k Transactional Emails (with a watermark branding: "Powered by PropelAuth").
-  * [Stack Auth](https://stack-auth.com) — Open-source authentication that doesn't suck. The most developer-friendly solution, getting you started in just five minutes. Self-hostable for free, or offers a managed SaaS version with 10k free Monthly Active Users.
-  * [Stytch](https://www.stytch.com/) - An all-in-one platform that provides APIs and SDKs for authentication and fraud prevention. The free plan includes 10,000 monthly active users, unlimited organizations, 5 SSO or SCIM connections, and 1,000 M2M tokens.
-  * [SuperTokens](https://supertokens.com/) - Open source user authentication that natively integrates into your app - enabling you to get started quickly while controlling the user and developer experience. Free for up to 5000 MAUs.
-  * [WorkOS](https://workos.com/) - Free user management and authentication for up to 1 Million MAUs. Support email + password, social auth, Magic Auth, MFA, and more.
-  * [ZITADEL Cloud](https://zitadel.com) — A turnkey user and access management that works for you and supports multi-tenant (B2B) use cases. Free for up to 25,000 authenticated requests, with all security features (no paywall for OTP, Passwordless, Policies, and so on).
+  * [360username](https://360username.com/) - 免费工具，可在 90+ 个社交平台上搜索用户名以查找匹配的个人资料。
+  * [Aserto](https://www.aserto.com) - 面向应用程序和 API 的细粒度授权即服务。最多 1000 MAU 和 100 个授权器实例免费。
+  * [asgardeo.io](https://wso2.com/asgardeo) - SSO、MFA、无密码身份验证等的无缝集成。包括前端和后端应用程序的 SDK。最多 1000 MAU 和五个身份提供商免费。
+  * [Auth0](https://auth0.com/) — 托管 SSO。免费计划包括 25,000 MAU、无限社交连接、自定义域名等。
+  * [Authgear](https://www.authgear.com) - 在几分钟内将无密码、OTP、2FA、SSO 带到您的应用程序。包括所有前端。最多 5000 MAU 免费。
+  * [Authress](https://authress.io/) — 身份验证登录和访问控制，针对任何项目的无限身份提供商。Facebook、Google、Twitter 等。前 1000 次 API 调用免费。
+  * [Authy](https://authy.com) - 多设备上的双因素身份验证 (2FA)，具有备份功能。Google Authenticator 的直接替代品。最多 100 次成功身份验证免费。
+  * [Cerbos Hub](https://www.cerbos.dev/product-cerbos-hub) - 完整的授权管理系统，用于编写、测试和部署访问策略。细粒度授权和访问控制，最多 100 个每月活跃主体免费。
+  * [Clerk](https://clerk.com) — 用户管理、身份验证、2FA/MFA、用于登录、注册、用户资料等的预构建 UI 组件。最多 10,000 名每月活跃用户免费。
+  * [Cloud-IAM](https://www.cloud-iam.com/) — Keycloak 身份和访问管理即服务。最多 100 名用户和一个领域免费。
+  * [Descope](https://www.descope.com/) — 高度可定制的 AuthN 流程，具有无代码和 API/SDK 方法，免费 7,500 名活跃用户/月，50 个租户（最多 5 个 SAML/SSO 租户）。
+  * [duo.com](https://duo.com/) — 网站或应用程序的双因素身份验证 (2FA)。10 名用户免费，所有身份验证方法、无限集成、硬件令牌。
+  * [Kinde](https://kinde.com/) - 简单、强大的身份验证，您可以在几分钟内与您的产品集成。开始使用所需的一切，7,500 免费 MAU。
+  * [logintc.com](https://www.logintc.com/) — 通过推送通知进行双因素身份验证 (2FA)，10 名用户免费，支持 VPN、网站和 SSH
+  * [Logto](https://logto.io/) - 开发、保护和管理您产品的用户身份——用于身份验证和授权。最多 5,000 MAU 免费，提供开源自托管选项。
+  * [MojoAuth](https://mojoauth.com/) - MojoAuth 让您在几分钟内在您的 Web、移动或任何应用程序上轻松实现无密码身份验证。
+  * [Okta](https://developer.okta.com/signup/) — 用户管理、身份验证和授权。最多 100 名每月活跃用户免费。
+  * [Ory](https://ory.sh/) - AuthN/AuthZ/OAuth2.0/零信任托管安全平台。永久免费开发者账户，包含所有安全功能、无限团队成员、200 名每日活跃用户和 25k/月权限检查。
+  * [Permit.io](https://permit.io) - 授权即服务提供商平台，为可扩展的微服务启用 RBAC、ABAC 和 ReBAC，具有实时更新和无代码策略 UI。1000 名每月活跃用户免费层级。
+  * [Phase Two](https://phasetwo.io) - Keycloak 开源身份和访问管理。最多 1000 名用户的免费领域，最多 10 个 SSO 连接，利用 Phase Two 的 Keycloak 增强容器，其中包括 [组织](https://phasetwo.io/product/organizations/)扩展。
+  * [PropelAuth](https://propelauth.com) — 只需几行代码即可立即向任何规模的公司销售，最多 200 名用户和 10k 事务性电子邮件免费（带有水印品牌："Powered by PropelAuth"）。
+  * [Stack Auth](https://stack-auth.com) — 不难用的开源身份验证。最开发友好的解决方案，只需五分钟即可开始。免费自托管，或提供托管 SaaS 版本，具有 10k 免费每月活跃用户。
+  * [Stytch](https://www.stytch.com/) - 为身份验证和欺诈防范提供 API 和 SDK 的一体化平台。免费计划包括 10,000 名每月活跃用户、无限组织、5 个 SSO 或 SCIM 连接以及 1,000 个 M2M 令牌。
+  * [SuperTokens](https://supertokens.com/) - 开源用户身份验证，本机集成到您的应用程序中——让您能够快速开始，同时控制用户和开发者体验。最多 5000 MAU 免费。
+  * [WorkOS](https://workos.com/) - 免费用户管理和身份验证，最多 100 万 MAU。支持电子邮件 + 密码、社交身份验证、Magic Auth、MFA 等。
+  * [ZITADEL Cloud](https://zitadel.com) — 适合您的开箱即用用户和访问管理，支持多租户 (B2B) 用例。最多 25,000 次经过身份验证的请求免费，包含所有安全功能（OTP、无密码、策略等无需付费墙）。
 
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Mobile App Distribution and Feedback
 
-  * [Appho.st](https://appho.st) - Mobile app hosting platform. The free plan includes five apps, 50 monthly downloads, and a maximum file size of 100 MB.
-  * [Diawi](https://www.diawi.com) - Deploy iOS & Android apps directly to devices. Free plan: app uploads, password-protected links, 1-day expiration, ten installations.
-  * [GetUpdraft](https://www.getupdraft.com) - Distribute mobile apps for testing. The free plan includes one app project, three app versions, 500 MB storage, and 100 app installations per month.
-  * [InstallOnAir](https://www.installonair.com) - Distribute iOS & Android apps over the air. Free plan: unlimited uploads, private links, 2-day expiration for guests, 60 days for registered users.
-  * [Loadly](https://loadly.io) - iOS & Android beta apps distribution service offers completely free services with unlimited downloads, high-speed downloads, and unlimited uploads.
+  * [Appho.st](https://appho.st) - 移动应用托管平台。免费计划包括五个应用程序、每月 50 次下载和最大 100 MB 文件大小。
+  * [Diawi](https://www.diawi.com) - 直接将 iOS 和 Android 应用程序部署到设备。免费计划：应用程序上传、密码保护链接、1 天过期、十次安装。
+  * [GetUpdraft](https://www.getupdraft.com) - 分发移动应用程序进行测试。免费计划包括一个应用程序项目、三个应用程序版本、500 MB 存储空间和每月 100 次应用程序安装。
+  * [InstallOnAir](https://www.installonair.com) - 通过空中分发 iOS 和 Android 应用程序。免费计划：无限上传、私有链接、访客 2 天过期、注册用户 60 天。
+  * [Loadly](https://loadly.io) - iOS 和 Android beta 应用程序分发服务提供完全免费的服务，具有无限下载、高速下载和无限上传。
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Management System
 
-  * [bitnami.com](https://bitnami.com/) — Deploy prepared apps on IaaS. Management of 1 AWS micro instance free
-  * [Esper](https://esper.io) — MDM and MAM for Android Devices with DevOps. One hundred devices free with one user license and 25 MB Application Storage.
-  * [jamf.com](https://www.jamf.com/) —  Device management for iPads, iPhones, and Macs, three devices free
-  * [Miradore](https://miradore.com) — Device Management service. Stay up-to-date with your device fleet and secure unlimited devices for free. The free plan offers basic features.
-  * [moss.sh](https://moss.sh) - Help developers deploy and manage their web apps and servers. Free up to 25 git deployments per month
-  * [ploi.io](https://ploi.io/) - Server management tool to easily manage and deploy your servers & sites. Free for one server.
-  * [runcloud.io](https://runcloud.io/) - Server management focusing mainly on PHP projects. Free for up to 1 server.
-  * [serveravatar.com](https://serveravatar.com) — Manage and monitor PHP-based web servers with automated configurations. Free for one server.
-  * [xcloud.host](https://xcloud.host) — Server management and deployment platform with a user-friendly interface. Free tier available for one server.
+  * [bitnami.com](https://bitnami.com/) — 在 IaaS 上部署准备好的应用程序。1 个 AWS 微实例管理免费
+  * [Esper](https://esper.io) — 带有 DevOps 的 Android 设备 MDM 和 MAM。一个用户许可证和 25 MB 应用程序存储免费 100 台设备。
+  * [jamf.com](https://www.jamf.com/) — iPad、iPhone 和 Mac 的设备管理，三台设备免费
+  * [Miradore](https://miradore.com) — 设备管理服务。随时了解您的设备群并免费保护无限设备。免费计划提供基本功能。
+  * [moss.sh](https://moss.sh) - 帮助开发者部署和管理他们的 Web 应用程序和服务器。每月最多 25 次 git 部署免费
+  * [ploi.io](https://ploi.io/) - 服务器管理工具，轻松管理和部署您的服务器和站点。一台服务器免费。
+  * [runcloud.io](https://runcloud.io/) - 主要专注于 PHP 项目的服务器管理。最多 1 台服务器免费。
+  * [serveravatar.com](https://serveravatar.com) — 通过自动化配置管理和监控基于 PHP 的 Web 服务器。一台服务器免费。
+  * [xcloud.host](https://xcloud.host) — 具有用户友好界面的服务器管理和部署平台。一台服务器提供免费层级。
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Messaging and Streaming
 
-  * [Ably](https://www.ably.com/) - Realtime messaging service with presence, persistence and guaranteed delivery. The free plan includes 3m messages per month, 100 peak connections, and 100 peak channels.
-  * [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's
-  * [courier.com](https://www.courier.com/) — Single API for push, in-app, email, chat, SMS, and other messaging channels with template management and other features. The free plan includes 10,000 messages/mo.
-  * [EMQX Serverless](https://www.emqx.com/en/cloud/serverless-mqtt) - Scalable and secure serverless MQTT broker you can get in seconds. 1M session minutes/month free forever (no credit card required).
-  * [Engage](https://engage.so/) - All-in-one Customer Engagement and Automation Tool (email, push, SMS, product tours, banners and more) for SaaS. Free for up to 1,000 active users per month.
-  * [engagespot.co](https://engagespot.co/) — Multi-channel notification infrastructure for developers with a prebuilt in-app inbox and no-code template editor. Free plan includes 10,000 messages/mo.
-  * [HiveMQ](https://www.hivemq.com/mqtt-cloud-broker/) - Connect your MQTT devices to the Cloud Native IoT Messaging Broker.  Free to connect up to 100 devices (no credit card required) forever.
-  * [httpSMS](https://httpsms.com) - Send and receive text messages using your Android phone as an SMS Gateway. Free to send and receive up to 200 messages per month.
-  * [knock.app](https://knock.app) – Notifications infrastructure for developers. Send to multiple channels like in-app, email, SMS, Slack, and push with a single API call. The free plan includes 10,000 messages/mo.
-  * [NotificationAPI.com](https://www.notificationapi.com/) — Add user notifications to any software in 5 minutes. The free plan includes 10,000 notifications/month + 100 SMS and Automated Calls.
-  * [Novu.co](https://novu.co) — The open-source notification infrastructure for developers. Simple components and APIs for managing all communication channels in one place: Email, SMS, Direct, In-App and Push. The free plan includes 30,000 notifications/month with 90 days of retention.
-  * [Pocket Alert](https://pocketalert.app) - Send push notifications to your iOS and Android devices. Effortlessly integrate via API or Webhooks and maintain full control over your alerts. Free plan: 50 messages per day to 1 device and 1 application.
-  * [pubnub.com](https://www.pubnub.com/) - Swift, Kotlin, and React messaging at 1 million transactions each month. Transactions may contain multiple messages.
-  * [pusher.com](https://pusher.com/) — Realtime messaging service. Free for up to 100 simultaneous connections and 200,000 messages/day
-  * [scaledrone.com](https://www.scaledrone.com/) — Realtime messaging service. Free for up to 20 simultaneous connections and 100,000 events/day
-  * [SMSGate](https://sms-gate.app) - SMS Gateway for Android™ enables sending and receiving SMS messages through your devices using cloud routing. Completely free cloud service (with recommended notification for usage above 10,000 messages/day to maintain quality for all users).
-  * [SuprSend](https://www.suprsend.com/) - SuprSend is a notification infrastructure that streamlines your product notifications with an API-first approach. Create and deliver transactional, crons, and engagement notifications on multiple channels with a single notification API. In free plan you get 10,000 notifications per month, including different workflow nodes such as digests, batches, multi-channels, preferences, tenants, broadcasts and more.
-  * [synadia.com](https://synadia.com/ngs) — [NATS.io](https://nats.io) as a service. Global, AWS, GCP, and Azure. Free forever with 4k msg size, 50 active connections, and 5GB of data per month.
-  * [webpushr](https://www.webpushr.com/) - Web Push Notifications - Free for upto 10k subscribers, unlimited push notifications, in-browser messaging
+  * [Ably](https://www.ably.com/) - 具有在线状态、持久化和保证传递的实时消息服务。免费计划包括每月 300 万条消息、100 个峰值连接和 100 个峰值频道。
+  * [cloudamqp.com](https://www.cloudamqp.com/) — RabbitMQ 即服务。Little Lemur 计划：最多每月 100 万条消息、最多 20 个并发连接、最多 100 个队列、最多 10,000 条排队消息、不同 AZ 中的多个节点
+  * [courier.com](https://www.courier.com/) — 用于推送、应用内、电子邮件、聊天、短信和其他消息通道的单个 API，具有模板管理和其他功能。免费计划包括 10,000 条消息/月。
+  * [EMQX Serverless](https://www.emqx.com/en/cloud/serverless-mqtt) - 可扩展且安全的无服务器 MQTT 代理，您可以在几秒钟内获得。每月 100 万会话分钟永久免费（无需信用卡）。
+  * [Engage](https://engage.so/) - 面向 SaaS 的一体化客户参与和自动化工具（电子邮件、推送、短信、产品导览、横幅等）。每月最多 1,000 名活跃用户免费。
+  * [engagespot.co](https://engagespot.co/) — 面向开发者的多渠道通知基础设施，具有预构建的应用内收件箱和无代码模板编辑器。免费计划包括 10,000 条消息/月。
+  * [HiveMQ](https://www.hivemq.com/mqtt-cloud-broker/) - 将您的 MQTT 设备连接到云原生 IoT 消息代理。永久免费连接最多 100 台设备（无需信用卡）。
+  * [httpSMS](https://httpsms.com) - 使用您的 Android 手机作为 SMS 网关发送和接收短信。每月免费发送和接收最多 200 条消息。
+  * [knock.app](https://knock.app) – 面向开发者的通知基础设施。通过单个 API 调用发送到多个通道，如应用内、电子邮件、短信、Slack 和推送。免费计划包括 10,000 条消息/月。
+  * [NotificationAPI.com](https://www.notificationapi.com/) — 在 5 分钟内将用户通知添加到任何软件。免费计划包括 10,000 条通知/月 + 100 条短信和自动通话。
+  * [Novu.co](https://novu.co) — 面向开发者的开源通知基础设施。在一个地方管理所有通信通道的简单组件和 API：电子邮件、短信、直接、应用内和推送。免费计划包括 30,000 条通知/月，保留 90 天。
+  * [Pocket Alert](https://pocketalert.app) - 向您的 iOS 和 Android 设备发送推送通知。通过 API 或 Webhook 轻松集成，并保持对警报的完全控制。免费计划：每天 50 条消息发送到 1 台设备和 1 个应用程序。
+  * [pubnub.com](https://www.pubnub.com/) - Swift、Kotlin 和 React 消息，每月 100 万次交易。交易可能包含多条消息。
+  * [pusher.com](https://pusher.com/) — 实时消息服务。最多 100 个并发连接和每天 200,000 条消息免费
+  * [scaledrone.com](https://www.scaledrone.com/) — 实时消息服务。最多 20 个并发连接和每天 100,000 个事件免费
+  * [SMSGate](https://sms-gate.app) - Android™ 的 SMS 网关，支持使用云路由通过您的设备发送和接收短信。完全免费的云服务（建议在使用超过 10,000 条消息/天时进行通知，以维持所有用户的质量）。
+  * [SuprSend](https://www.suprsend.com/) - SuprSend 是一个通知基础设施，采用 API 优先的方法简化您的产品通知。使用单个通知 API 在多个通道上创建和交付事务性、定时任务和参与通知。在免费计划中，您每月获得 10,000 条通知，包括不同的工作流节点，如摘要、批处理、多通道、偏好设置、租户、广播等。
+  * [synadia.com](https://synadia.com/ngs) — [NATS.io](https://nats.io) 即服务。全球、AWS、GCP 和 Azure。永久免费，具有 4k 消息大小、50 个活跃连接和每月 5GB 数据。
+  * [webpushr](https://www.webpushr.com/) - Web 推送通知 - 最多 10k 订阅者免费，无限推送通知，浏览器内消息
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Log Management
 
-  * [bugfender.com](https://bugfender.com/) — Free up to 100k log lines/day with 24 hours retention
-  * [log.dog](https://log.dog/) — LogDog is a remote debugging/logging SDK (iOS and Android) with a web ui. Captures all logs, requests and events in real-time and allows to intercept them. Free for up to 100MB of logs every month
-  * [logflare.app](https://logflare.app/) — Free for up to 12,960,000 entries per app per month, 3 days retention
-  * [logtail.com](https://logtail.com/) — ClickHouse-based SQL-compatible log management. Free up to 1 GB per month, three days retention.
-  * [logzab.com](https://logzab.com/) — Audit trail management system. Free 1,000 user activity logs per month, 1-month retention, for up to 5 projects.
-  * [ManageEngine Log360 Cloud](https://www.manageengine.com/cloud-siem/) — Log Management service powered by Manage Engine. Free Plan offers 50 GB storage with 15 days Storage Retention and 7 days search.
-  * [openobserve.ai](https://openobserve.ai/) - 200 GB Ingestion/month free, 15 Days Retention
+  * [bugfender.com](https://bugfender.com/) — 每天最多 100k 日志行免费，保留 24 小时
+  * [log.dog](https://log.dog/) — LogDog 是一个远程调试/日志记录 SDK（iOS 和 Android），具有 Web UI。实时捕获所有日志、请求和事件并允许拦截它们。每月最多 100MB 日志免费
+  * [logflare.app](https://logflare.app/) — 每个应用每月最多 12,960,000 条目免费，保留 3 天
+  * [logtail.com](https://logtail.com/) — 基于 ClickHouse 的兼容 SQL 的日志管理。每月最多 1 GB 免费，保留 3 天。
+  * [logzab.com](https://logzab.com/) — 审计跟踪管理系统。每月 1,000 条用户活动日志免费，保留 1 个月，最多 5 个项目。
+  * [ManageEngine Log360 Cloud](https://www.manageengine.com/cloud-siem/) — 由 Manage Engine 提供支持的日志管理服务。免费计划提供 50 GB 存储，保留 15 天和搜索 7 天。
+  * [openobserve.ai](https://openobserve.ai/) - 每月 200 GB 摄取免费，保留 15 天
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Translation Management
 
-  * [AutoLocalise.com](https://www.autolocalise.com/) — Instantly localize without managing translation files. Free for up to 10,000 characters/month, unlimited languages.
-  * [crowdin.com](https://crowdin.com/) — Unlimited projects, unlimited strings, and collaborators for Open Source
-  * [Free PO editor](https://pofile.net/free-po-editor) — Free for everybody
-  * [Lingo.dev](https://lingo.dev) – Open-source AI-powered CLI for web & mobile localization. Bring your own LLM, or use 10,000 free words every month via Lingo.dev-managed localization engine.
-  * [lingohub.com](https://lingohub.com/) — Free up to 3 users, always free for Open Source
-  * [localazy.com](https://localazy.com) - Free for 1000 source language strings, unlimited languages, unlimited contributors, startup and open source deals
-  * [Localit](https://localit.io) – Fast, developer-friendly localization platform with seamless and free GitHub/GitLab integration, AI-assisted and manual translations, and a generous free plan (includes 2 users, 500 keys, and unlimited projects).
-  * [localizely.com](https://localizely.com/) — Free for Open Source
-  * [Loco](https://localise.biz/) — Free up to 2000 translations, Unlimited translators, ten languages/project, 1000 translatable assets/project
-  * [POEditor](https://poeditor.com/) — Free up to 1000 strings
-  * [SimpleLocalize](https://simplelocalize.io/) - Free up to 100 translation keys, unlimited strings, unlimited languages, startup deals
-  * [Texterify](https://texterify.com/) - Free for a single user
-  * [Tolgee](https://tolgee.io) - Free SaaS offering with limited translations, forever-free self-hosted version
-  * [transifex.com](https://www.transifex.com/) — Free for Open Source
+  * [AutoLocalise.com](https://www.autolocalise.com/) — 无需管理翻译文件即可即时本地化。每月最多 10,000 个字符免费，无限语言。
+  * [crowdin.com](https://crowdin.com/) — 开源项目无限项目、无限字符串和协作者
+  * [Free PO editor](https://pofile.net/free-po-editor) — 对所有人免费
+  * [Lingo.dev](https://lingo.dev) – 用于 Web 和移动本地化的开源 AI 驱动 CLI。自带 LLM，或通过 Lingo.dev 管理的本地化引擎每月使用 10,000 个免费单词。
+  * [lingohub.com](https://lingohub.com/) — 最多 3 名用户免费，开源项目永久免费
+  * [localazy.com](https://localazy.com) - 1000 个源语言字符串免费，无限语言、无限协作者、初创公司和开源交易
+  * [Localit](https://localit.io) – 快速、对开发者友好的本地化平台，具有无缝免费的 GitHub/GitLab 集成、AI 辅助和手动翻译，以及慷慨的免费计划（包括 2 名用户、500 个密钥和无限项目）。
+  * [localizely.com](https://localizely.com/) — 开源项目免费
+  * [Loco](https://localise.biz/) — 最多 2000 个翻译免费，无限翻译人员，每个项目十种语言，每个项目 1000 个可翻译资产
+  * [POEditor](https://poeditor.com/) — 最多 1000 个字符串免费
+  * [SimpleLocalize](https://simplelocalize.io/) - 最多 100 个翻译键免费，无限字符串、无限语言、初创企业交易
+  * [Texterify](https://texterify.com/) - 单个用户免费
+  * [Tolgee](https://tolgee.io) - 具有有限翻译的免费 SaaS 产品，永久免费的自托管版本
+  * [transifex.com](https://www.transifex.com/) — 开源项目免费
 
 **[⬆️ Back to Top](#table-of-contents)**
 
