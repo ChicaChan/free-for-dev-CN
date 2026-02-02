@@ -265,41 +265,41 @@
   * [Datalore](https://datalore.jetbrains.com) - JetBrains 的 Python Notebook。每月含 10 GB 存储与 120 小时运行时长。
   * [DB Designer](https://www.dbdesigner.net/) — 云端数据库架构设计与建模工具，免费入门计划含 2 个数据库模型，每个模型 10 张表。
   * [DB-IP](https://db-ip.com/api/free) - 免费 IP 地理定位 API，每个 IP 每天 1k 次请求。CC-BY 4.0 许可的 Lite 数据库也可免费使用。
-  * [DeepAR](https://developer.deepar.ai) — Augmented reality face filters for any platform with one SDK. The free plan provides up to 10 monthly active users (MAU) and tracks up to 4 faces
-  * [Deepnote](https://deepnote.com) - A new data science notebook. Jupyter is compatible with real-time collaboration and running in the cloud. The free tier includes unlimited personal projects, unlimited basic machines with 5GB RAM and 2vCPU, and teams with up to 3 editors.
-  * [DiffJSON](https://diffjson.com) - An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.
-  * [Disease.sh](https://disease.sh/) — A free API providing accurate data for building the Covid-19 related useful Apps.
-  * [Doczilla](https://www.doczilla.app/) — SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code. The free plan allows 250 documents month.
-  * [Doppio](https://doppio.sh/) — Managed API to generate and privately store PDFs and Screenshots using top rendering technology. The free plan allows 400 PDFs and Screenshots per month.
-  * [drawDB](https://drawdb.app/) — Free and open-source online database diagram editor with no signup required.
-  * [DynamicDocs](https://advicement.io) - Generate PDF documents with JSON to PDF API based on LaTeX templates. The free plan allows 50 API calls per month and access to a library of templates.
-  * [Earnings Feed](https://earningsfeed.com/api) - Real-time SEC filings, insider trades, and institutional holdings API. Free tier includes 15 requests per minute.
-  * [Export SDK](https://exportsdk.com) - PDF generator API with drag-and-drop template editor that provides an SDK and no-code integrations. The free plan has 250 monthly pages, unlimited users, and three templates.
-  * [ExtendsClass](https://extendsclass.com/rest-client-online.html) - Free web-based HTTP client to send HTTP requests.
-  * [Financial Data](https://financialdata.net/) - Stock market and financial data API. Free plan allows 300 requests per day.
-  * [FormatJSONOnline.com](https://formatjsononline.com) - A free, browser-based tool to format, validate,compare and minify JSON data instantly.
-  * [FraudLabs Pro](https://www.fraudlabspro.com) — Screen an order transaction for credit card payment fraud. This REST API will detect all possible fraud traits based on the input parameters of an order. The Free Micro plan has 500 transactions per month.
-  * [FreeIPAPI](https://freeipapi.com) - Free, Fast and Reliable IP Geolocation API for commercial and non-commercial users available in JSON
-  * [Geolocated.io](https://geolocated.io) — IP Geolocation API with multi-continent servers, offering a free plan with 2,000 requests per day.
-  * [Hex](https://hex.tech/) - a collaborative data platform for notebooks, data apps, and knowledge libraries. Free community tier with up to five projects.
-  * [Hook0](https://www.hook0.com/) - Hook0 is an open-source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 100 events/day with seven days of history retention for free.
-  * [Hoppscotch](https://hoppscotch.io) - A free, fast, and beautiful API request builder.
-  * [huggingface.co](https://huggingface.co) - Build, train, and deploy NLP models for Pytorch, TensorFlow, and JAX. Free up to 30k input characters/mo.
-  * [Insomnia](https://insomnia.rest) - Open-source API client for designing and testing APIs, it supports REST and GraphQL
-  * [Invantive Cloud](https://cloud.invantive.com/) — Access over 70 (cloud)platforms such as Exact Online, Twinfield, ActiveCampaign or Visma using Invantive SQL or OData4 (typically Power BI or Power Query). Includes data replication and exchange. Free plan for developers and implementation consultants. Free for specific platforms with limitations in data volumes.
-  * [IP Geolocation API by ipwho.org](https://ipwho.org/) - 2,000 free requests per day. Fast, enterprise grade API at non-enterprise prices. Trusted by developers, corporate, government and education clients. Servers in 12+ regions.
-  * [IP Geolocation API](https://www.abstractapi.com/ip-geolocation-api) — IP Geolocation API from Abstract - Allows 1,000 free requests.
-  * [IP Geolocation](https://ipgeolocation.io/) — IP Geolocation API - Forever free plan for developers with a 1,000 requests per day limit.
-  * [ip-api](https://ip-api.com) — IP Geolocation API, Free for non-commercial use, no API key required, limited to 45 req/minute from the same IP address for the free plan.
-  * [IP.City](https://ip.city) — 100 Free IP geolocation requests per day
-  * [IP2Location.io](https://www.ip2location.io/) — Freemium, fast, and reliable IP geolocation API. Get data like city, coordinates, ISP, ASN, AS data and more. The free plan includes 50k credits per month. IP2Location.io also offers 500 free WHOIS and hosted domain lookups per month. See domain registration details and find domains hosted on a specific IP. Upgrade to a paid plan for more features.
-  * [ipaddress.sh](https://ipaddress.sh) — Simple service to get a public IP address in different [formats](https://about.ipaddress.sh/).
-  * [ipapi.is](https://ipapi.is/) - A reliable IP Address API from Developers for Developers with the best Hosting Detection capabilities that exist. The free plan offers 1000 lookups without signup.
-  * [ipapi](https://ipapi.co/) - IP Address Location API by Kloudend, Inc - A reliable geolocation API built on AWS, trusted by Fortune 500. The free tier offers 30k lookups/month (1k/day) without signup.
-  * [ipbase.com](https://ipbase.com) - IP Geolocation API - Forever free plan that spans 150 monthly requests.
-  * [IPinfo](https://ipinfo.io/) — Fast, accurate, and free (up to 50k/month) IP address data API. Offers APIs with details on geolocation, companies, carriers, IP ranges, domains, abuse contacts, and more. All paid APIs can be trialed for free.
-  * [IPLocate](https://www.iplocate.io) — IP Geolocation API, free up to 1,000 requests/day. Includes proxy/VPN/hosting detection, ASN data, IP to Company, and more. IPLocate also offers free downloadable IP to Country and IP to ASN databases in CSV or GeoIP-compatible MMDB formats.
-  * [IPTrace](https://iptrace.io) — An embarrassingly simple API that provides your business with reliable and helpful IP geolocation data with 50,000 free lookups per month.
+  * [DeepAR](https://developer.deepar.ai) — 适用于任何平台的增强现实人脸滤镜，仅需一个 SDK。免费计划最多 10 月活用户（MAU），最多追踪 4 张人脸。
+  * [Deepnote](https://deepnote.com) - 新的数据科学笔记本。兼容 Jupyter，支持实时协作并在云端运行。免费层包含无限个人项目、无限基础机型（5GB RAM、2 vCPU）以及最多 3 名编辑者的团队。
+  * [DiffJSON](https://diffjson.com) - 在线工具，用于比较两份 JSON 数据结构的差异，帮助快速定位 JSON 差别。
+  * [Disease.sh](https://disease.sh/) — 免费 API，提供构建 COVID-19 相关应用所需的准确数据。
+  * [Doczilla](https://www.doczilla.app/) — SaaS API，可直接从 HTML/CSS/JS 生成截图或 PDF。免费计划每月 250 份文档。
+  * [Doppio](https://doppio.sh/) — 托管 API，使用先进渲染技术生成并私密存储 PDF 与截图。免费计划每月 400 份 PDF 与截图。
+  * [drawDB](https://drawdb.app/) — 免费开源的在线数据库图表编辑器，无需注册。
+  * [DynamicDocs](https://advicement.io) - 基于 LaTeX 模板的 JSON 转 PDF API，用于生成 PDF 文档。免费计划每月 50 次 API 调用，并可访问模板库。
+  * [Earnings Feed](https://earningsfeed.com/api) - 实时 SEC 申报、内幕交易与机构持仓 API。免费层每分钟 15 次请求。
+  * [Export SDK](https://exportsdk.com) - 带拖拽模板编辑器的 PDF 生成 API，提供 SDK 与无代码集成。免费计划每月 250 页、无限用户、3 个模板。
+  * [ExtendsClass](https://extendsclass.com/rest-client-online.html) - 免费的 Web 端 HTTP 客户端，用于发送 HTTP 请求。
+  * [Financial Data](https://financialdata.net/) - 股票市场与金融数据 API。免费计划每天 300 次请求。
+  * [FormatJSONOnline.com](https://formatjsononline.com) - 免费的浏览器工具，可即时格式化、校验、比较与压缩 JSON 数据。
+  * [FraudLabs Pro](https://www.fraudlabspro.com) — 订单信用卡支付欺诈检测服务。该 REST API 根据订单输入参数识别可能的欺诈特征。Free Micro 计划每月 500 笔交易。
+  * [FreeIPAPI](https://freeipapi.com) - 免费、快速且可靠的 IP 地理定位 API，面向商用与非商用用户，提供 JSON 输出。
+  * [Geolocated.io](https://geolocated.io) — 多地区服务器的 IP 定位 API，免费计划每天 2,000 次请求。
+  * [Hex](https://hex.tech/) - 面向 Notebook、数据应用与知识库的协作式数据平台。免费社区层最多 5 个项目。
+  * [Hook0](https://www.hook0.com/) - Hook0 是开源的 Webhooks-as-a-service（WaaS），让线上产品更容易提供 Webhook。免费每天最多派发 100 个事件，并保留 7 天历史记录。
+  * [Hoppscotch](https://hoppscotch.io) - 免费、快速且易用的 API 请求构建器。
+  * [huggingface.co](https://huggingface.co) - 为 PyTorch、TensorFlow 与 JAX 构建、训练和部署 NLP 模型。免费额度为每月最多 30k 输入字符。
+  * [Insomnia](https://insomnia.rest) - 开源 API 客户端，用于设计与测试 API，支持 REST 与 GraphQL。
+  * [Invantive Cloud](https://cloud.invantive.com/) — 通过 Invantive SQL 或 OData4 访问 70+（云）平台（如 Exact Online、Twinfield、ActiveCampaign、Visma），包含数据复制与交换。面向开发者和实施顾问提供免费计划，部分平台免费但数据量有限制。
+  * [IP Geolocation API by ipwho.org](https://ipwho.org/) - 每天 2,000 次免费请求。快速、企业级但价格非企业级的 API，受开发者、企业、政府与教育客户信赖。覆盖 12+ 区域服务器。
+  * [IP Geolocation API](https://www.abstractapi.com/ip-geolocation-api) — Abstract 的 IP 地理定位 API，可免费请求 1,000 次。
+  * [IP Geolocation](https://ipgeolocation.io/) — IP 地理定位 API，开发者永久免费计划每日上限 1,000 次请求。
+  * [ip-api](https://ip-api.com) — IP 地理定位 API，非商业用途免费，无需 API Key，免费计划同一 IP 限制 45 次/分钟。
+  * [IP.City](https://ip.city) — 每天 100 次免费的 IP 地理定位请求。
+  * [IP2Location.io](https://www.ip2location.io/) — Freemium、快速且可靠的 IP 地理定位 API，可获取城市、坐标、ISP、ASN、AS 数据等。免费计划每月 50k 积分。IP2Location.io 还提供每月 500 次免费的 WHOIS 与托管域名查询，可查看域名注册详情并查找托管在特定 IP 上的域名。升级付费计划可获得更多功能。
+  * [ipaddress.sh](https://ipaddress.sh) — 用不同 [格式](https://about.ipaddress.sh/) 获取公网 IP 的简单服务。
+  * [ipapi.is](https://ipapi.is/) - 开发者打造的可靠 IP 地址 API，具备出色的托管检测能力。免费计划无需注册提供 1,000 次查询。
+  * [ipapi](https://ipapi.co/) - Kloudend, Inc 的 IP 地址定位 API，基于 AWS，受 Fortune 500 信赖。免费层无需注册，每月 30k 查询（1k/天）。
+  * [ipbase.com](https://ipbase.com) - IP 地理定位 API，永久免费计划每月 150 次请求。
+  * [IPinfo](https://ipinfo.io/) — 快速、准确且免费（最多 50k/月）的 IP 地址数据 API。提供地理位置、公司、运营商、IP 段、域名、滥用联系等详细信息的 API。所有付费 API 均可免费试用。
+  * [IPLocate](https://www.iplocate.io) — IP 地理定位 API，免费每天最多 1,000 次请求，包含代理/VPN/托管检测、ASN 数据、IP 到公司等功能。IPLocate 还提供可免费下载的 IP 到国家与 IP 到 ASN 数据库，支持 CSV 或 GeoIP 兼容的 MMDB 格式。
+  * [IPTrace](https://iptrace.io) — 极简 API，为业务提供可靠且实用的 IP 地理定位数据，每月 50,000 次免费查询。
   * [JSON IP](https://getjsonip.com) — Returns the Public IP address of the client it is requested from. No registration is required for the free tier. Using CORS, data can be requested using client-side JS directly from the browser. Useful for services monitoring change in client and server IPs. Unlimited Requests.
   * [JSON to Table](https://jsontotable.org) - Convert JSON into an interactive table for quick viewing, editing, and sharing online.
   * [JSON2Video](https://json2video.com) - A video editing API to automate video marketing and social media videos, programmatically or with no code.
