@@ -495,29 +495,29 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Domain
+## 域名
 
-  * [DigitalPlat](https://domain.digitalplat.org) �?Free subdomains.
-  * [isroot.in](https://isroot.in) �?Free isroot.in subdomains.
-  * [pp.ua](https://nic.ua/) �?Free pp.ua subdomains.
-
-**[⬆️ Back to Top](#table-of-contents)**
-
-## IaaS
-
-  * [4EVERLAND](https://www.4everland.org/) �?Compatible with AWS S3 - APIs, interface operations, CLI, and other upload methods, upload and store files from the IPFS and Arweave networks in a safe, convenient, and efficient manner. Registered users can get 6 GB of IPFS storage and 300MB of Arweave storage for free. Any Arweave file uploads smaller than 150 KB are free.
-  * [backblaze.com](https://www.backblaze.com/b2/) �?Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
-  * [C2 Object Storage](https://c2.synology.com/en-us/pricing/object-storage) - S3 compatibility object storage. 15 GB free storage and 15 GB downloads per month.
-  * [filebase.com](https://filebase.com/) - S3 Compatible Object Storage Powered by Blockchain. 5 GB free storage for an unlimited duration.
+  * [DigitalPlat](https://domain.digitalplat.org) — 免费子域名。
+  * [isroot.in](https://isroot.in) — 免费 isroot.in 子域名。
+  * [pp.ua](https://nic.ua/) — 免费 pp.ua 子域名。
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Managed Data Services
+## 基础设施即服务 (IaaS)
 
-  * [8base.com](https://www.8base.com/) - 8base is a full-stack low-code development platform built for JavaScript developers built on top of MySQL and GraphQL and serverless backend-as-a-service. It allows you to start building web applications quickly using a UI app builder and scale quickly, The Free tier includes rows: 2,500, Storage: 500, Serverless computing: 1Gb/h, and client app users: 5.
-  * [airtable.com](https://airtable.com/) �?Looks like a spreadsheet, but it's a relational database unlimited bases, 1,200 rows/base, and 1,000 API requests/month
-  * [Aiven](https://aiven.io/) - Aiven offers free PostgreSQL, MySQL and Valkey (Redis compatible) plans on its open-source data platform. Single node, 1 CPU, 1GB RAM, and for PostgreSQL and MySQL, 1GB storage. Easy migration to more extensive plans or across clouds.
-  * [CockroachDB Cloud](https://www.cockroachlabs.com/pricing/) �?Free tier offers 50 million RUs and 10 GiB of storage (same as 15$ worth) free per month. ([What's the Request Units](https://www.cockroachlabs.com/docs/cockroachcloud/metrics-request-units.html))
+  * [4EVERLAND](https://www.4everland.org/) — 与 AWS S3 兼容 - API、界面操作、CLI 和其他上传方法，以安全、方便和高效的方式从 IPFS 和 Arweave 网络上传和存储文件。注册用户可以免费获得 6 GB 的 IPFS 存储和 300MB 的 Arweave 存储。任何小于 150 KB 的 Arweave 文件上传都是免费的。
+  * [backblaze.com](https://www.backblaze.com/b2/) — Backblaze B2 云存储。无限时间免费 10 GB（类似 Amazon S3）对象存储
+  * [C2 Object Storage](https://c2.synology.com/en-us/pricing/object-storage) - S3 兼容性对象存储。每月 15 GB 免费存储和 15 GB 下载。
+  * [filebase.com](https://filebase.com/) - 由区块链驱动的 S3 兼容对象存储。无限时长 5 GB 免费存储。
+
+**[⬆️ Back to Top](#table-of-contents)**
+
+## 托管数据服务
+
+  * [8base.com](https://www.8base.com/) - 8base 是一个为 JavaScript 开发者构建的全栈低代码开发平台，构建在 MySQL、GraphQL 和无服务器后端即服务之上。它允许您使用 UI 应用程序构建器快速开始构建 Web 应用程序并快速扩展。免费层级包括行：2,500，存储：500，无服务器计算：1Gb/h，客户端应用程序用户：5。
+  * [airtable.com](https://airtable.com/) — 看起来像电子表格，但它是关系数据库，无限基数，每个基数 1,200 行，每月 1,000 个 API 请求
+  * [Aiven](https://aiven.io/) - Aiven 在其开源数据平台上提供免费 PostgreSQL、MySQL 和 Valkey（Redis 兼容）计划。单节点，1 CPU，1GB RAM，对于 PostgreSQL 和 MySQL，1GB 存储。轻松迁移到更广泛的计划或跨云。
+  * [CockroachDB Cloud](https://www.cockroachlabs.com/pricing/) — 免费层级提供每月 5000 万个 RU 和 10 GiB 存储（相当于 15 美元价值）。（[什么是请求单位](https://www.cockroachlabs.com/docs/cockroachcloud/metrics-request-units.html)）
   * [codehooks.io](https://codehooks.io/) �?Easy to use JavaScript serverless API/backend and NoSQL database service with functions, Mongdb-ish queries, key/value lookups, a job system, realtime messages, worker queues, a powerful CLI and a web-based data manager. Free plan has 5GB storage and 60/API calls per minute. 2 developers included. No credit-card required.
   * [Couchbase Capella](https://www.couchbase.com/products/capella/) - deploy a forever free tier fully managed database cluster with 1 node and 8GB storage, built for developers to create the next generation of applications across IoT to AI
   * [CrateDB](https://crate.io/) - Distributed Open Source SQL database for real-time analytics. [Free Tier CRFREE](https://crate.io/lp-crfree): One-node with 2 CPUs, 2 GiB of memory, 8 GiB of storage. One cluster per organization, no payment method needed.
