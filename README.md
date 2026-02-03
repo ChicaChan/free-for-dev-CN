@@ -644,31 +644,31 @@ Update Time, five active automations, webhooks.
   * [gumlet.com](https://www.gumlet.com/) �?Image and video hosting, processing and streaming via CDN. Provides generous free tier of 250 GB / month for videos and 30 GB  / month for images.
   * [icedrive.net](https://www.icedrive.net/) - Simple cloud storage service. 10 GB free storage
   * [image-charts.com](https://www.image-charts.com/) �?Unlimited image chart generation with a watermark
-  * [ImageEngine](https://imageengine.io/) �?ImageEngine is an easy to use global image CDN. Sub 60 sec setup. AVIF and JPEGXL support, WordPress-, Magento-, React-, Vue- plugins and more. Claim your free developer account [here](https://imageengine.io/developer-program/).
-  * [imagekit.io](https://imagekit.io) �?Image CDN with automatic optimization, real-time transformation, and storage that you can integrate with existing setup in minutes. The free plan includes up to 20GB of bandwidth per month.
-  * [ImgBB](https://imgbb.com/) �?ImgBB is an unlimited image hosting servce. Drag and drop your image anywhere on the screen. 32 MB / image limit. Receive Direct image links, BBCode and HTML thumbnails after uploading image. Login to see the upload history.
-  * [Imgbot](https://github.com/marketplace/imgbot) �?Imgbot is a friendly robot that optimizes your images and saves you time. Optimized images mean smaller file sizes without sacrificing quality. It's free for open source.
-  * [imgen](https://www.jitbit.com/imgen/) - Free unlimited social cover image generation API, no watermark
-  * [imgix](https://www.imgix.com/) - Image Caching, management and CDN. Free plan includes 1000 origin images, infinite transformations and 100 GB bandwidth
-  * [internxt.com](https://internxt.com) �?Internxt Drive is a zero-knowledge file storage service based on absolute privacy and uncompromising security. Sign up and get 10 GB for free, forever!
-  * [kraken.io](https://kraken.io/) �?Image optimization for website performance as a service, free plan up to 1 MB file size
-  * [LibreQR](https://libreqr.com) �?Free QR code generator focused on privacy and no tracking. Free to use with no data collection.
-  * [nitropack.io](https://nitropack.io/) - Accelerate your site's speed on autopilot with complete front-end optimization (caching, images and code optimization, CDN). Free for up to 5,000 pageviews/month
-  * [npoint.io](https://www.npoint.io/) �?JSON store with collaborative schema editing
-  * [otixo.com](https://www.otixo.com/) �?Encrypt, share, copy, and move all your cloud storage files from one place. The basic plan provides unlimited file transfer with 250 MB max. file size and allows five encrypted files
-  * [packagecloud.io](https://packagecloud.io/) �?Hosted Package Repositories for YUM, APT, RubyGem and PyPI.  Limited free plans and open-source plans are available via request
-  * [pcloud.com](https://www.pcloud.com/) - Cloud storage service. Up to 10 GB of free storage
-  * [Pinata IPFS](https://pinata.cloud) �?Pinata is the simplest way to upload and manage files on IPFS. Our friendly user interface and IPFS API make Pinata the easiest IPFS pinning service for platforms, creators, and collectors. 1 GB storage free, along with access to API.
-  * [plot.ly](https://plot.ly/) �?Graph and share your data. The free tier includes unlimited public files and ten private files
-  * [podio.com](https://podio.com/) �?You can use Podio with a team of up to five people and try out the features of the Basic Plan, except user management
-  * [Proton Drive](https://proton.me/drive) - Ultra-secure cloud storage for files and key documents. Free plan offers 5gb of storage space.
-  * [QRME.SH](https://qrme.sh) - Fast, beautiful bulk QR code generator �?no login, no watermark, no ads. Up to 100 URLs per bulk export.
-  * [QuickChart](https://quickchart.io) �?Generate embeddable image charts, graphs, and QR codes
-  * [redbooth.com](https://redbooth.com) �?P2P file syncing, free for up to 2 users
-  * [resmush.it](https://resmush.it) �?reSmush.it is a FREE API that provides image optimization. reSmush.it has been implemented on the most common CMS such as WordPress, Drupal, or Magento. reSmush.it is the most used image optimization API with more than seven billion images already treated, and it is still Free of charge.
-  * [sirv.com](https://sirv.com/) �?Smart Image CDN with on-the-fly image optimization and resizing. The free tier includes 500 MB of storage and 2 GB of bandwidth.
-  * [SlingSite](https://slingsite.github.io) - Create all the optimized versions of your images and videos. For Free. In bulk. For each image, you get the following formats: AVIF, WEBP and JPG in the three selected resolutions (desktop, tablet, mobile) For videos, you get: WebM (codec VP9), MP4 (codec HEVC aka H.265) and MP4 (codec AVC aka H.264) plus the cover image with the first frame.
-  * [sync.com](https://www.sync.com/) - End-to-End cloud storage service. 5 GB of free storage
+  * [ImageEngine](https://imageengine.io/) — ImageEngine 是一个易于使用的全球图像 CDN。60 秒内设置。AVIF 和 JPEGXL 支持，WordPress、Magento、React、Vue 插件等。[在此处](https://imageengine.io/developer-program/)领取您的免费开发者账户。
+  * [imagekit.io](https://imagekit.io) — 图像 CDN，具有自动优化、实时转换和存储，您可以在几分钟内将其与现有设置集成。免费计划包括每月最多 20GB 带宽。
+  * [ImgBB](https://imgbb.com/) — ImgBB 是一个无限图像托管服务。将图像拖放到屏幕上的任何位置。每张图像 32 MB 限制。上传图像后接收直接图像链接、BBCode 和 HTML 缩略图。登录以查看上传历史。
+  * [Imgbot](https://github.com/marketplace/imgbot) — Imgbot 是一个友好的机器人，可以优化您的图像并为您节省时间。优化的图像意味着更小的文件尺寸，而不牺牲质量。开源免费。
+  * [imgen](https://www.jitbit.com/imgen/) - 免费无限社交媒体封面图像生成 API，无水印
+  * [imgix](https://www.imgix.com/) - 图像缓存、管理和 CDN。免费计划包括 1000 个原始图像、无限转换和 100 GB 带宽
+  * [internxt.com](https://internxt.com) — Internxt Drive 是一个基于绝对隐私和不可妥协安全性的零知识文件存储服务。注册并永久免费获得 10 GB！
+  * [kraken.io](https://kraken.io/) — 用于网站性能的图像优化即服务，免费计划最多 1 MB 文件大小
+  * [LibreQR](https://libreqr.com) — 专注于隐私和无跟踪的免费二维码生成器。免费使用，不收集数据。
+  * [nitropack.io](https://nitropack.io/) - 通过完整的前端优化（缓存、图像和代码优化、CDN）自动加速您的网站速度。最多 5,000 次页面浏览/月免费
+  * [npoint.io](https://www.npoint.io/) — 带有协作模式编辑的 JSON 存储
+  * [otixo.com](https://www.otixo.com/) — 从一个地方加密、共享、复制和移动所有云存储文件。基本计划提供无限文件传输，最大 250 MB 文件大小，并允许五个加密文件
+  * [packagecloud.io](https://packagecloud.io/) — 用于 YUM、APT、RubyGem 和 PyPI 的托管包存储库。通过请求提供有限的免费计划和开源计划
+  * [pcloud.com](https://www.pcloud.com/) - 云存储服务。最多 10 GB 免费存储
+  * [Pinata IPFS](https://pinata.cloud) — Pinata 是上传和管理 IPFS 上文件的最简单方法。我们友好的用户界面和 IPFS API 使 Pinata 成为平台、创作者和收藏家最简单的 IPFS 固定服务。1 GB 存储免费，以及 API 访问。
+  * [plot.ly](https://plot.ly/) — 图形化和共享您的数据。免费层级包括无限公共文件和十个私有文件
+  * [podio.com](https://podio.com/) — 您可以与最多五人的团队一起使用 Podio，并尝试基本计划的功能，但用户管理除外
+  * [Proton Drive](https://proton.me/drive) - 用于文件和关键文档的超安全云存储。免费计划提供 5GB 存储空间。
+  * [QRME.SH](https://qrme.sh) - 快速、美丽的批量二维码生成器 — 无需登录、无水印、无广告。每次批量导出最多 100 个 URL。
+  * [QuickChart](https://quickchart.io) — 生成可嵌入的图像图表、图形和二维码
+  * [redbooth.com](https://redbooth.com) — P2P 文件同步，最多 2 名用户免费
+  * [resmush.it](https://resmush.it) — reSmush.it 是一个提供图像优化的免费 API。reSmush.it 已在最常见的 CMS（如 WordPress、Drupal 或 Magento）上实现。reSmush.it 是最常用的图像优化 API，已处理超过 70 亿张图像，并且仍然免费。
+  * [sirv.com](https://sirv.com/) — 智能图像 CDN，具有即时图像优化和调整大小。免费层级包括 500 MB 存储和 2 GB 带宽。
+  * [SlingSite](https://slingsite.github.io) - 创建所有优化版本的图像和视频。免费。批量。对于每张图像，您获得以下格式：AVIF、WEBP 和 JPG，在三个选定的分辨率（桌面、平板、移动设备）中。对于视频，您获得：WebM（编解码器 VP9）、MP4（编解码器 HEVC aka H.265）和 MP4（编解码器 AVC aka H.264），以及带有第一帧的封面图像。
+  * [sync.com](https://www.sync.com/) - 端到端云存储服务。5 GB 免费存储
   * [tinypng.com](https://tinypng.com/) �?API to compress and resize PNG and JPEG images, offers 500 compressions for free each month
   * [transloadit.com](https://transloadit.com/) �?Handles file uploads and encoding of video, audio, images, documents. Free for Open source, charities, and students via the GitHub Student Developer Pack. Commercial applications get 2 GB free for test driving
   * [twicpics.com](https://www.twicpics.com) - Responsive images as a service. It provides an image CDN, a media processing API, and a frontend library to automate image optimization. The service is free for up to 3GB of traffic/per month.
