@@ -369,28 +369,28 @@
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## PaaS
+## 平台即服务 (PaaS)
 
-  * [ampt.dev](https://getampt.com/) - Ampt lets teams build, deploy, and scale JavaScript apps on AWS without complicated configs or managing infrastructure. Free Preview plan includes 500 invocations hourly, 2,500 invocations daily and 50,000 invocations monthly. Custom domains are allowed only in the paid plans.
-  * [anvil.works](https://anvil.works) - Web app development with nothing but Python. Free tier with unlimited apps and 30-second timeouts.
-  * [Apply.build](https://apply.build/) �?Build and deploy your GitHub app for free with 0.5 vCPUs / 512 MiB RAM, European servers, automatic firewall, real-time performance metrics. Run Node.js, Python, Go, Java, static sites, microservices, and more.
-  * [appwrite](https://appwrite.io) - Unlimited projects with no project pausing (supports websockets) and authentication service. 1 Database, 3 Buckets, 5 Functions per project in free tier.
-  * [Choreo](https://wso2.com/choreo/) - AI-native internal developer platform as a service. The free tier includes up to 5 components and $100 credits per month.
-  * [codenameone.com](https://www.codenameone.com/) �?Open source, cross-platform, mobile app development toolchain for Java/Kotlin developers. Free for commercial use with an unlimited number of projects
-  * [Daestro](https://daestro.com) - Run compute jobs across Cloud Providers & On-Prem. The free tier includes up to 10 concurrent job runs, 2 compute spawns, self-hosted compute, 1 cloud provider, 1 container registry and 1 cron job.
-  * [Deno Deploy](https://deno.com/deploy) - Distributed system that runs JavaScript, TypeScript, and WebAssembly at the edge worldwide. The free tier includes 100,000 requests per day and 100 GiB data transfers per month.
-  * [domcloud.co](https://domcloud.co) �?Linux hosting service that provides CI/CD with GitHub, SSH, and MariaDB/Postgres database. The free version has 1 GB storage and 1 GB network/month limit and is limited to a free domain.
-  * [encore.dev](https://encore.dev/) �?Backend framework using static analysis to provide automatic infrastructure, boilerplate-free code, and more. Includes free cloud hosting for hobby projects.
-  * [flightcontrol.dev](https://flightcontrol.dev/) - Deploy web services, databases, and more on your own AWS account with a Git push style workflow. Free tier for users with 1 developer on personal GitHub repos. AWS costs are billed through AWS, but you can use credits and the AWS free tier.
-  * [gigalixir.com](https://gigalixir.com/) - Gigalixir provides one free instance that never sleeps and a free-tier PostgreSQL database limited to 2 connections, 10, 000 rows and no backups for Elixir/Phoenix apps.
-  * [Koyeb](https://www.koyeb.com) - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Free Instance lets you deploy a web service in Frankfurt, Germany or Washington, D.C., US. Free Managed Postgres database available in Frankfurt (Germany), Washington, D.C. (US), and Singapore. 512MB memory, 2GB storage, and 0.1 CPU.
-  * [leapcell](https://leapcell.io/) - Leapcell is a reliable distributed applications platform, providing everything you need to seamlessly support your rapid growth. The free plan includes 100k service invocations, 10k async tasks and 100k Redis commands.
-  * [Northflank](https://northflank.com) �?Build and deploy microservices, jobs, and managed databases with a powerful UI, API & CLI. Seamlessly scale containers from version control and external Docker registries. The free tier includes two services, two cron jobs and 1 database.
-  * [pipedream.com](https://pipedream.com) - An integration platform built for developers. Develop any workflow based on any trigger. Workflows are code you can run [for free](https://docs.pipedream.com/pricing/). No server or cloud resources to manage.
-  * [Railway](https://railway.app/) - Deploy anything with git-based deployments, automatic CI/CD, and built-in databases. Free tier includes $5 of credits each month
-  * [pythonanywhere.com](https://www.pythonanywhere.com/) �?Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
-  * [WunderGraph](https://cloud.wundergraph.com) - An open-source platform that allows you to  quickly build, ship and manage modern APIs. Built-in CI/CD, GitHub integration, and automatic HTTPS. Up to 3 projects, 1GB egress, 300 minutes of build time per month on the [free plan](https://wundergraph.com/pricing)
-  * [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools but with all the power of using programming languages. The free tier includes [1.000 yeps](https://yepcode.io/pricing/).
+  * [ampt.dev](https://getampt.com/) - Ampt 让团队在 AWS 上构建、部署和扩展 JavaScript 应用程序，而无需复杂的配置或管理基础设施。免费预览计划包括每小时 500 次调用、每天 2,500 次调用和每月 50,000 次调用。自定义域名仅在付费计划中允许。
+  * [anvil.works](https://anvil.works) - 仅使用 Python 进行 Web 应用程序开发。免费层级提供无限应用程序和 30 秒超时。
+  * [Apply.build](https://apply.build/) — 免费构建和部署您的 GitHub 应用程序，配备 0.5 vCPU / 512 MiB RAM、欧洲服务器、自动防火墙、实时性能指标。运行 Node.js、Python、Go、Java、静态站点、微服务等。
+  * [appwrite](https://appwrite.io) - 无限项目，无需暂停项目（支持 websockets）和身份验证服务。免费层级每个项目包含 1 个数据库、3 个存储桶、5 个函数。
+  * [Choreo](https://wso2.com/choreo/) - AI 原生内部开发者平台即服务。免费层级包括最多 5 个组件和每月 100 美元信用额度。
+  * [codenameone.com](https://www.codenameone.com/) — 开源、跨平台的 Java/Kotlin 开发者移动应用程序开发工具链。商业使用免费，项目数量无限
+  * [Daestro](https://daestro.com) - 跨云提供商和本地运行计算作业。免费层级包括最多 10 个并发作业运行、2 个计算生成、自托管计算、1 个云提供商、1 个容器注册表和 1 个 cron 作业。
+  * [Deno Deploy](https://deno.com/deploy) - 在全球边缘运行 JavaScript、TypeScript 和 WebAssembly 的分布式系统。免费层级包括每天 100,000 个请求和每月 100 GiB 数据传输。
+  * [domcloud.co](https://domcloud.co) — 提供 GitHub CI/CD、SSH 和 MariaDB/Postgres 数据库的 Linux 托管服务。免费版本有 1 GB 存储和每月 1 GB 网络限制，并仅限于免费域名。
+  * [encore.dev](https://encore.dev/) — 使用静态分析提供自动基础设施、无样板代码等的后端框架。包括业余项目的免费云托管。
+  * [flightcontrol.dev](https://flightcontrol.dev/) - 使用 Git 推送风格工作流在您自己的 AWS 账户上部署 Web 服务、数据库等。个人 GitHub 仓库上 1 名开发者的免费层级。AWS 成本通过 AWS 计费，但您可以使用信用额度和 AWS 免费层级。
+  * [gigalixir.com](https://gigalixir.com/) - Gigalixir 提供一个永不休眠的免费实例和一个免费层级 PostgreSQL 数据库，限制为 2 个连接、10,000 行，Elixir/Phoenix 应用程序无备份。
+  * [Koyeb](https://www.koyeb.com) - Koyeb 是一个对开发者友好的无服务器平台，用于在全球范围内部署应用程序。无缝运行 Docker 容器、Web 应用程序和 API，具有基于 git 的部署、原生自动扩展、全球边缘网络以及内置服务网格和发现。免费实例允许您在德国法兰克福或美国华盛顿特区部署 Web 服务。免费托管 Postgres 数据库可在法兰克福（德国）、华盛顿特区（美国）和新加坡使用。512MB 内存、2GB 存储和 0.1 CPU。
+  * [leapcell](https://leapcell.io/) - Leapcell 是一个可靠的分布式应用程序平台，提供无缝支持快速增长所需的一切。免费计划包括 100k 次服务调用、10k 次异步任务和 100k 次 Redis 命令。
+  * [Northflank](https://northflank.com) — 使用强大的 UI、API 和 CLI 构建和部署微服务、作业和托管数据库。从版本控制和外部 Docker 注册表无缝扩展容器。免费层级包括两个服务、两个 cron 作业和 1 个数据库。
+  * [pipedream.com](https://pipedream.com) - 为开发者构建的集成平台。基于任何触发器开发任何工作流。工作流是您可以[免费](https://docs.pipedream.com/pricing/)运行的代码。无需管理服务器或云资源。
+  * [Railway](https://railway.app/) - 使用基于 git 的部署、自动 CI/CD 和内置数据库部署任何东西。免费层级包括每月 5 美元的信用额度
+  * [pythonanywhere.com](https://www.pythonanywhere.com/) — 云 Python 应用程序托管。初学者账户免费，1 个 Python Web 应用程序位于 your-username.pythonanywhere.com 域名，512 MB 私有文件存储，一个 MySQL 数据库
+  * [WunderGraph](https://cloud.wundergraph.com) - 一个开源平台，允许您快速构建、发布和管理现代 API。内置 CI/CD、GitHub 集成和自动 HTTPS。[免费计划](https://wundergraph.com/pricing)最多 3 个项目、1GB 出站流量、每月 300 分钟构建时间
+  * [YepCode](https://yepcode.io) - 在无服务器环境中连接 API 和服务的一体化平台。它带来了 NoCode 工具的所有敏捷性和好处，但具有使用编程语言的所有功能。免费层级包括 [1.000 yeps](https://yepcode.io/pricing/)。
   * [Zeabur](https://zeabur.com) - Deploy your services with one click. Free for three services, with US$ 5 free credits per month.
 
 **[⬆️ Back to Top](#table-of-contents)**
