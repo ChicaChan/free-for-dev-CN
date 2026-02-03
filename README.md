@@ -493,23 +493,7 @@
   * [Glyphs](https://glyphs.fyi/) -- Free, The Mightiest Icons on the Web, Fully editable & truly open source design system.
   * [Gradientos](https://www.gradientos.app) - Makes choosing a gradient fast and easy.
   * [Grapedrop](https://grapedrop.com/) �?基于 GrapesJS 框架的响应式、强大、SEO 优化的网页构建器。前五页免费，无限自定义域名，所有功能，简单使用�?  * [haikei.app](https://www.haikei.app/) - Haikei 是一个用于生成独�?SVG 形状、背景和图案�?Web 应用程序——准备好与您的设计工具和工作流程一起使用�?  * [hypercolor.dev](https://hypercolor.dev/) -- Tailwind CSS 颜色渐变的精选集合，还提供各种生成器来创建您自己的渐变�?  * [HyperUI](https://www.hyperui.dev/) -- 免费开�?Tailwind CSS 组件�?  * [Icon Horse](https://icon.horse) �?从我们的简�?API 获取任何网站的最高分辨率网站图标�?  * [iconify.design](https://icon-sets.iconify.design/) -- 超过 100 个图标包的集合，具有统一界面。允许您跨包搜索图标并将单个图标导出�?SVG 或用于流行的 Web 框架�?  * [Iconoir](https://iconoir.com) �?具有数千个图标的开源图标库，支�?React、React Native、Flutter、Vue、Figma �?Framer�?  * [Icons8](https://icons8.com) �?图标、插图、照片、音乐和设计工具。免费计划提供较低分辨率的有限格式。使用我们的资产时链接到 Icons8�?  * [Image BG Blurer](https://imagebgblurer.com/) -- 为图像生成模糊背景框架，使用该图像源作为背景模糊，适用�?Notion、Trello、Jira 和更多工�?  * [landen.co](https://www.landen.co) �?为您的初创公司生成、编辑和发布精美的网站和着陆页。全部无需代码。免费层级允许您拥有一个网站，完全可定制并在网上发布�?  * [lensdump.com](https://lensdump.com/) - 免费云图像托管�?  * [Logo.dev](https://www.logo.dev) - 公司 Logo API，拥�?44M+ 品牌，就像调�?URL 一样简单。前 10,000 �?API 调用免费�?  * [Lorem Picsum](https://picsum.photos/) - 一个免费工具，易于使用，时尚的占位符。在我们�?URL 之后，添加您所需的图像大小（宽度和高度），您将获得一个随机图像�?  * [LottieFiles](https://lottiefiles.com/) - The world’s largest online platform for the world’s most miniature animation format for designers, developers, and more. Access Lottie animation tools and plugins for Android, iOS, and Web.
-  * [Lucide](https://lucide.dev) - 免费可定制且一致的 SVG 图标工具包。
-  * [Lunacy](https://icons8.com/lunacy) -- 免费图形设计工具，具有离线支持、内置资产（图标、照片、插图）和实时协作。免费层级包括 10 个云文档、30 天历史、低分辨率资产和基本设计工具。
-  * [MagicPattern](https://www.magicpattern.design/tools) — 用于渐变、图案和斑点的 CSS 和 SVG 背景生成器及工具的集合。
-  * [marvelapp.com](https://marvelapp.com/) — 设计、原型制作和协作，免费计划限制为一个用户和项目。
-  * [Mastershot](https://mastershot.app) - 完全免费的基于浏览器的视频编辑器。无水印，最多 1080p 导出选项。
-  * [MDBootstrap](https://mdbootstrap.com/) - 免费供个人和商业使用的 Bootstrap、Angular、React 和 Vue UI 套件，拥有超过 700 个组件、精美模板、1 分钟安装、广泛教程和庞大社区。
-  * [Mindmup.com](https://www.mindmup.com/) — 免费无限思维导图并将其存储在云中。您的思维导图随处可见，即时，从任何设备。
-  * [Mockplus iDoc](https://www.mockplus.com/idoc) - Mockplus iDoc 是一个强大的设计协作和交接工具。免费计划包括三名用户和五个项目，所有功能都可用。
-  * [mockupmark.com](https://mockupmark.com/create/free) — 为社交媒体和电子商务创建现实的 T 恤和服装模型，40 个免费模型。
-  * [Modeldraw.com](https://modeldraw.com) — 完整的图表平台，具有 UML、系统架构、流程图、思维导图和敏捷工作流程。与无限团队成员实时协作，无需信用卡。
-  * [Mossaik](https://mossaik.app) - 免费SVG图像生成器，具有不同的工具，如波浪、博客和图案。
-  * [movingpencils.com](https://movingpencils.com) — 快速、基于浏览器的矢量编辑器。完全免费。
-  * [Nappy](https://nappy.co/) -- 黑人和棕色人的美丽照片，免费。用于商业和个人用途。
-  * [NextUI](https://nextui.org/) -- 免费。美观、快速、现代的 React 和 Next.js UI 库。
-  * [NSPolygon](https://nspolygon.com) — 免费库存照片、图标和插图。
-  * [Octopus.do](https://octopus.do) — 可视化网站地图构建器。实时构建您的网站结构并快速共享以与您的团队或客户协作。
-  * [OKLCH](https://oklch.net/) -- Free OKLCH color picker and converter for web designers and developers.
+  * [Lucide](https://lucide.dev) - 免费可定制且一致的 SVG 图标工具包�?  * [Lunacy](https://icons8.com/lunacy) -- 免费图形设计工具，具有离线支持、内置资产（图标、照片、插图）和实时协作。免费层级包�?10 个云文档�?0 天历史、低分辨率资产和基本设计工具�?  * [MagicPattern](https://www.magicpattern.design/tools) �?用于渐变、图案和斑点�?CSS �?SVG 背景生成器及工具的集合�?  * [marvelapp.com](https://marvelapp.com/) �?设计、原型制作和协作，免费计划限制为一个用户和项目�?  * [Mastershot](https://mastershot.app) - 完全免费的基于浏览器的视频编辑器。无水印，最�?1080p 导出选项�?  * [MDBootstrap](https://mdbootstrap.com/) - 免费供个人和商业使用�?Bootstrap、Angular、React �?Vue UI 套件，拥有超�?700 个组件、精美模板�? 分钟安装、广泛教程和庞大社区�?  * [Mindmup.com](https://www.mindmup.com/) �?免费无限思维导图并将其存储在云中。您的思维导图随处可见，即时，从任何设备�?  * [Mockplus iDoc](https://www.mockplus.com/idoc) - Mockplus iDoc 是一个强大的设计协作和交接工具。免费计划包括三名用户和五个项目，所有功能都可用�?  * [mockupmark.com](https://mockupmark.com/create/free) �?为社交媒体和电子商务创建现实�?T 恤和服装模型�?0 个免费模型�?  * [Modeldraw.com](https://modeldraw.com) �?完整的图表平台，具有 UML、系统架构、流程图、思维导图和敏捷工作流程。与无限团队成员实时协作，无需信用卡�?  * [Mossaik](https://mossaik.app) - 免费SVG图像生成器，具有不同的工具，如波浪、博客和图案�?  * [movingpencils.com](https://movingpencils.com) �?快速、基于浏览器的矢量编辑器。完全免费�?  * [Nappy](https://nappy.co/) -- 黑人和棕色人的美丽照片，免费。用于商业和个人用途�?  * [NextUI](https://nextui.org/) -- 免费。美观、快速、现代的 React �?Next.js UI 库�?  * [NSPolygon](https://nspolygon.com) �?免费库存照片、图标和插图�?  * [Octopus.do](https://octopus.do) �?可视化网站地图构建器。实时构建您的网站结构并快速共享以与您的团队或客户协作�?  * [OKLCH](https://oklch.net/) -- Free OKLCH color picker and converter for web designers and developers.
   * [okso.app](https://okso.app) - Minimalistic online drawing app. Allows to create fast sketches and visual notes. Exports sketches to PNG, JPG, SVG, and WEBP. Also installable as PWA. Free to use for everyone (no registration is needed).
   * [Pencil](https://github.com/evolus/pencil) - Open source design tool using Electron.
   * [Penpot](https://penpot.app) - Web-based, open-source design and prototyping tool. Supports SVG. Completely free.
@@ -743,30 +727,21 @@
 ## Docker Related
 
   * [Container Registry Service](https://container-registry.com/) - Harbor based Container Management Solution. The free tier offers 1 GB of storage for private repositories.
-  * [Docker Hub](https://hub.docker.com) �?One free private repository and unlimited public repositories to build and store Docker images
-  * [Play with Docker](https://labs.play-with-docker.com/) �?A simple, interactive, fun playground to learn Docker.
-  * [quay.io](https://quay.io/) �?Build and store container images with unlimited free public repositories
-  * [ttl.sh](https://ttl.sh/) - Anonymous & ephemeral Docker image registry
-
+  * [Docker Hub](https://hub.docker.com) �?一个免费的私有存储库和无限公共存储库来构建和存�?Docker 镜像
+  * [Play with Docker](https://labs.play-with-docker.com/) �?一个简单、互动、有趣的学习 Docker 的游乐场�?  * [quay.io](https://quay.io/) �?使用无限免费公共存储库构建和存储容器镜像
+  * [ttl.sh](https://ttl.sh/) - 匿名和临�?Docker 镜像注册�?
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Dev Blogging Sites
-
-  * [AyeDot](https://ayedot.com/) �?Share your ideas, knowledge, and stories with the world for Free in the form of Modern multimedia short-format Miniblogs.
-  * [BearBlog](https://bearblog.dev/) - Minimalist, Markdown-powered blog and website builder.
-  * [Dev.to](https://dev.to/) - Where programmers share ideas and help each other grow.
-  * [Hashnode](https://hashnode.com/) �?Hassle-free Blogging Software for Developers!.
-  * [Medium](https://medium.com/) �?Get more thoughtful about what matters to you.
-  * [JustBlogged](https://justblogged.com) �?Free blogging platform with custom domain support, and fast global performance.
-
+## 开发者博客站�?
+  * [AyeDot](https://ayedot.com/) �?以现代多媒体短格式迷你博客的形式与世界分享您的想法、知识和故事，免�?  * [BearBlog](https://bearblog.dev/) - 极简主义、基�?Markdown 的博客和网站构建器�?  * [Dev.to](https://dev.to/) - 程序员分享想法并帮助彼此成长的地方�?  * [Hashnode](https://hashnode.com/) �?开发者的无麻烦博客软件！�?  * [Medium](https://medium.com/) �?对重要的事情更加思考�?  * [JustBlogged](https://justblogged.com) �?支持自定义域名的免费博客平台，快速全球性能�?
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Commenting Platforms
+## 评论平台
 
   * [GraphComment](https://graphcomment.com/) - GraphComment is a comments platform that helps you build an active community from the website’s audience.
-  * [IntenseDebate](https://intensedebate.com/) - A feature-rich comment system for WordPress, Tumblr, Blogger, and many other website platforms.
-  * [Remarkbox](https://www.remarkbox.com/) - Open source hosted comments platform, pay what you can for "One moderator on a few domains with complete control over behavior & appearance"
-  * [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages, and more!
+  * [IntenseDebate](https://intensedebate.com/) - WordPress、Tumblr、Blogger 和许多其他网站平台的功能丰富的评论系统。
+  * [Remarkbox](https://www.remarkbox.com/) - 开源托管评论平台，"在几个域上有一个版主，完全控制行为和外观"随心付费
+  * [Utterances](https://utteranc.es/) - 基于 GitHub issues 的轻量级评论小部件。使用 GitHub issues 进行博客评论、wiki 页面等！
 
 **[⬆️ Back to Top](#table-of-contents)**
 
