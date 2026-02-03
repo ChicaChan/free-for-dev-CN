@@ -833,119 +833,119 @@
 
 ## Email
 
-  * [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
-  * [AhaSend](https://ahasend.com) - Transactional email service, free for 1000 emails per month, with unlimited domains, team members, webhooks and message routes in the free plan.
-  * [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding, create unlimited email aliases for free
-  * [Antideo](https://www.antideo.com) — 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No Credit Cards are required.
-  * [Brevo](https://www.brevo.com/) — 9,000 emails/month, 300 emails/day free
-  * [Bump](https://bump.email/) - Free 10 Bump email addresses, one custom domain
-  * [Burnermail](https://burnermail.io/) – Free 5 Burner Email Addresses, 1 Mailbox, 7-day Mailbox History
-  * [Buttondown](https://buttondown.email/) — Newsletter service. Up to 100 subscribers free
-  * [Contact.do](https://contact.do/) — Contact form in a link (bitly for contact forms)
-  * [debugmail.io](https://debugmail.io/) — Easy to use testing mail server for developers
-  * [dkimvalidator.com](https://dkimvalidator.com/) - Test if the email's DNS/SPF/DKIM/DMARC settings are correct, free service by roundsphere.com
-  * [DNSExit](https://dnsexit.com/) - Up to 2 Email addresses under your domain for free with 100MB of storage space. IMAP, POP3, SMTP, SPF/DKIM support.
-  * [EmailJS](https://www.emailjs.com/) – This is not an entire email server; this is just an email client that you can use to send emails right from the client without exposing your credentials, the free tier has 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.
-  * [EmailLabs.io](https://emaillabs.io/en) — Send up to 9,000 Emails for free every month, up to 300 emails daily.
-  * [EmailOctopus](https://emailoctopus.com) - Up to 2,500 subscribers and 10,000 emails per month free
-  * [Emailvalidation.io](https://emailvalidation.io) - 100 free email verifications per month
-  * [EtherealMail](https://ethereal.email) - Ethereal is a fake SMTP service, mainly aimed at Nodemailer and EmailEngine users (but not limited to). It's an entirely free anti-transactional email service where messages never get delivered.
-  * [forwardemail.net](https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .lat, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam)
-  * [Imitate Email](https://imitate.email) - Sandbox Email Server for testing email functionality across build/qa and ci/cd. Free accounts get 15 emails a day forever.
-  * [ImprovMX](https://improvmx.com) – Free email forwarding.
-  * [Inboxes App](https://inboxesapp.com) — Create up to 3 temporary emails a day, then delete them when you're done from within a handy Chrome extension. Perfect for testing signup flows.
-  * [inboxkitten.com](https://inboxkitten.com/) - Free temporary/disposable email inbox, with up to 3-day email auto-deletes. Open source and can be self-hosted.
-  * [mail-tester.com](https://www.mail-tester.com) — Test if the email's DNS/SPF/DKIM/DMARC settings are correct, 20 free/month.
-  * [Maileroo](https://maileroo.com) - SMTP relay and email API for developers. 5,000 emails per month, unlimited domains, free email verification, blacklist monitoring, mail tester and more.
-  * [mailcatcher.me](https://mailcatcher.me/) — Catches mail and serves it through a web interface.
-  * [mailchannels.com](https://www.mailchannels.com) - Email API with REST API and SMTP integrations, free for upto 3,000 emails/month.
-  * [Mailcheck.ai](https://www.mailcheck.ai/) - Prevent users to sign up with temporary email addresses, 120 requests/hour (~86,400 per month)
-  * [Maildroppa](https://maildroppa.com) - Up to 100 subscribers and unlimited emails as well as automations for free.
-  * [MailerLite.com](https://www.mailerlite.com) — 1,000 subscribers/month, 12,000 emails/month free
-  * [MailerSend.com](https://www.mailersend.com) — Email API, SMTP, 3,000 emails/month free for transactional emails
-  * [mailinator.com](https://www.mailinator.com/) — Free, public email system where you can use any inbox you want
-  * [Mailjet](https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit)
-  * [mailsac.com](https://mailsac.com) - Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit)
-  * [Mailtrap.io](https://mailtrap.io/) — Email API, SMTP, 3,500 emails/month free for transactional and marketing emails. Email Sandbox - fake SMTP server for development, free plan with one inbox, 100 messages, no team member, two emails/second, no forward rules.
-  * [Mutant Mail](https://www.mutantmail.com/) – Free 10 Email IDs, 1 Domain, 1 Mailbox. Single Mailbox for All Email IDs.
-  * [OneSignal](https://onesignal.com/) — 10,000 emails/month,No Credit Cards are required.
-  * [Parsio.io](https://parsio.io) — Free email parser (Forward email, extract the data, send it to your server)
-  * [Plunk](https://useplunk.com) - 3K emails/month for free
-  * [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests.
-  * [Proton Mail](https://proton.me/mail) -  Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.
-  * [Resend](https://resend.com) - Transactional emails API for developers. 3,000 emails/month, 100 emails/day free, one custom domain.
-  * [Sender](https://www.sender.net) Up to 15,000 emails/month, up to 2,500 subscribers
-  * [Sendpulse](https://sendpulse.com) — 500 subscribers/month, 15,000 emails/month free
-  * [SimpleLogin](https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 10 Aliases, unlimited bandwidth, unlimited reply/send. Free for educational staff (student, researcher, etc.).
-  * [Substack](https://substack.com) — Unlimited free newsletter service. Start paying when you charge for it.
-  * [Sweego](https://www.sweego.io/) - European transactional emails API for developers. 100 emails/day free.
-  * [temp-mail.io](https://temp-mail.io) — Free disposable temporary email service with multiple emails at once and forwarding
-  * [Temp-Mail.org](https://temp-mail.org/en/) - Temporary / Disposable Mail Gen Utilizing a range variety of domain. Email Address refreshes everytime, the page is reloaded. It is entirely free and does not include any pricing for their services.
-  * [TempMailDetector.com](https://tempmaildetector.com/) - Verify up to 200 emails a month for free and see if an email is temporary or not.
-  * [trashmail.com](https://www.trashmail.com) - Free disposable email addresses with forwarding and automatic address expiration
-  * [Tuta](https://tuta.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source](https://github.com/tutao/tutanota), so you can self-host.
-  * [Verifalia](https://verifalia.com/email-verification-api) — Real-time email verification API with mailbox confirmation and disposable email address detector; 25 free email verifications/day.
-  * [verimail.io](https://verimail.io/) — Bulk and API email verification service. 100 free verifications/month
-  * [Wraps](https://wraps.dev) - email automation workflows, 5k tracked events and unlimited contacts free.
+  * [10minutemail](https://10minutemail.com) - 免费临时电子邮件，用于测试。
+  * [AhaSend](https://ahasend.com) - 事务性电子邮件服务，每月 1,000 封电子邮件免费，免费计划中具有无限域名、团队成员、webhook 和消息路由。
+  * [AnonAddy](https://anonaddy.com) - 开源匿名电子邮件转发，免费创建无限电子邮件别名
+  * [Antideo](https://www.antideo.com) — 免费层级中每小时 10 个 API 请求，用于电子邮件验证、IP 和电话号码验证。无需信用卡。
+  * [Brevo](https://www.brevo.com/) — 每月 9,000 封电子邮件，每天 300 封电子邮件免费
+  * [Bump](https://bump.email/) - 免费 10 个 Bump 电子邮件地址，一个自定义域名
+  * [Burnermail](https://burnermail.io/) – 免费 5 个 Burner 电子邮件地址，1 个邮箱，7 天邮箱历史
+  * [Buttondown](https://buttondown.email/) — 新闻通讯服务。最多 100 名订阅者免费
+  * [Contact.do](https://contact.do/) — 链接中的联系表单（联系表单的 bitly）
+  * [debugmail.io](https://debugmail.io/) — 开发者易于使用的测试邮件服务器
+  * [dkimvalidator.com](https://dkimvalidator.com/) - 测试电子邮件的 DNS/SPF/DKIM/DMARC 设置是否正确，由 roundsphere.com 提供的免费服务
+  * [DNSExit](https://dnsexit.com/) — 您的域名下最多 2 个电子邮件地址免费，具有 100MB 存储空间。支持 IMAP、POP3、SMTP、SPF/DKIM。
+  * [EmailJS](https://www.emailjs.com/) – 这不是一个完整的电子邮件服务器；这只是一个电子邮件客户端，您可以直接从客户端发送电子邮件，而无需公开您的凭据，免费层级具有 200 次每月请求、2 个电子邮件模板、最大 50Kb 的请求、有限的联系人历史记录。
+  * [EmailLabs.io](https://emaillabs.io/en) — 每月免费发送最多 9,000 封电子邮件，每天最多 300 封。
+  * [EmailOctopus](https://emailoctopus.com) - 最多 2,500 名订阅者和每月 10,000 封电子邮件免费
+  * [Emailvalidation.io](https://emailvalidation.io) - 每月 100 次免费电子邮件验证
+  * [EtherealMail](https://ethereal.email) - Ethereal 是一个假的 SMTP 服务，主要针对 Nodemailer 和 EmailEngine 用户（但不限于此）。这是一个完全免费的抗事务性电子邮件服务，其中消息永远不会被发送。
+  * [forwardemail.net](https://forwardemail.net) — 自定义域名的免费电子邮件转发。使用您的域名创建和转发无限数量的电子邮件地址（**注意**：如果您使用 .casa、.cf、.click、.email、.fit、.ga、.gdn、.gq、.lat、.loan、.london、.men、.ml、.pl、.rest、.ru、.tk、.top、.work TLD，则必须付费，因为垃圾邮件）
+  * [Imitate Email](https://imitate.email) - 沙箱电子邮件服务器，用于跨 build/qa 和 ci/cd 测试电子邮件功能。免费帐户每天永久获得 15 封电子邮件。
+  * [ImprovMX](https://improvmx.com) – 免费电子邮件转发。
+  * [Inboxes App](https://inboxesapp.com) — 每天创建最多 3 个临时电子邮件，然后通过方便的 Chrome 扩展程序在完成后删除它们。非常适合测试注册流程。
+  * [inboxkitten.com](https://inboxkitten.com/) - 免费临时/一次性电子邮件收件箱，具有最多 3 天的电子邮件自动删除。开源且可以自托管。
+  * [mail-tester.com](https://www.mail-tester.com) — 测试电子邮件的 DNS/SPF/DKIM/DMARC 设置是否正确，每月 20 次免费。
+  * [Maileroo](https://maileroo.com) - 面向开发者的 SMTP 中继和电子邮件 API。每月 5,000 封电子邮件，无限域名，免费电子邮件验证、黑名单监控、邮件测试器等。
+  * [mailcatcher.me](https://mailcatcher.me/) — 捕获邮件并通过 Web 接口提供。
+  * [mailchannels.com](https://www.mailchannels.com) - 具有 REST API 和 SMTP 集成的电子邮件 API，每月最多 3,000 封电子邮件免费。
+  * [Mailcheck.ai](https://www.mailcheck.ai/) - 防止用户使用临时电子邮件地址注册，每小时 120 个请求（约每月 86,400 个）
+  * [Maildroppa](https://maildroppa.com) - 最多 100 名订阅者和无限电子邮件以及自动化功能免费。
+  * [MailerLite.com](https://www.mailerlite.com) — 每月 1,000 名订阅者、12,000 封电子邮件免费
+  * [MailerSend.com](https://www.mailersend.com) — 电子邮件 API、SMTP，事务性电子邮件每月 3,000 封免费
+  * [mailinator.com](https://www.mailinator.com/) — 免费、公共电子邮件系统，您可以使用任何想要的收件箱
+  * [Mailjet](https://www.mailjet.com/) — 每月 6,000 封电子邮件免费（每天 200 封电子邮件发送限制）
+  * [mailsac.com](https://mailsac.com) - 用于临时电子邮件测试的免费 API、免费公共电子邮件托管、出站捕获、电子邮件到 slack/websocket/webhook（每月 1,500 次 API 限制）
+  * [Mailtrap.io](https://mailtrap.io/) — 电子邮件 API、SMTP，事务性和营销电子邮件每月 3,500 封免费。电子邮件沙盒 - 开发的假 SMTP 服务器，免费计划包括一个收件箱、100 条消息、没有团队成员、每秒 2 封电子邮件、没有转发规则。
+  * [Mutant Mail](https://www.mutantmail.com/) – 免费 10 个电子邮件 ID，1 个域名，1 个邮箱。所有电子邮件 ID 的单个邮箱。
+  * [OneSignal](https://onesignal.com/) — 每月 10,000 封电子邮件，无需信用卡。
+  * [Parsio.io](https://parsio.io) — 免费电子邮件解析器（转发电子邮件，提取数据，发送到您的服务器）
+  * [Plunk](https://useplunk.com) - 每月免费 3K 封电子邮件
+  * [Postmark](https://postmarkapp.com/) - 每月 100 封电子邮件免费，无限 DMARC 每周摘要。
+  * [Proton Mail](https://proton.me/mail) - 具有内置端到端加密的免费安全电子邮件帐户服务提供商。免费 1GB 存储。
+  * [Resend](https://resend.com) - 面向开发者的事务性电子邮件 API。每月 3,000 封电子邮件，每天 100 封电子邮件免费，一个自定义域名。
+  * [Sender](https://www.sender.net) 每月最多 15,000 封电子邮件，最多 2,500 名订阅者
+  * [Sendpulse](https://sendpulse.com) — 每月 500 名订阅者，每月 15,000 封电子邮件免费
+  * [SimpleLogin](https://simplelogin.io/) – 开源、可自托管的电子邮件别名/转发解决方案。10个别名免费，无限带宽，无限回复/发送。教育人员（学生、研究员等）免费。
+  * [Substack](https://substack.com) — 无限免费新闻通讯服务。当您开始收费时开始付费。
+  * [Sweego](https://www.sweego.io/) - 面向开发者的欧洲事务性电子邮件 API。每天 100 封电子邮件免费。
+  * [temp-mail.io](https://temp-mail.io) — 具有一次多个电子邮件和转发的免费一次性临时电子邮件服务
+  * [Temp-Mail.org](https://temp-mail.org/en/) - 利用各种域的临时/一次性邮件生成器。每次页面重新加载时，电子邮件地址都会刷新。它完全免费，其服务不包含任何定价。
+  * [TempMailDetector.com](https://tempmaildetector.com/) - 每月免费验证最多 200 封电子邮件，查看电子邮件是否为临时或永久。
+  * [trashmail.com](https://www.trashmail.com) - 具有转发和自动地址过期的免费一次性电子邮件地址
+  * [Tuta](https://tuta.com/) - 具有内置端到端加密、无广告、无跟踪的免费安全电子邮件帐户服务提供商。免费 1GB 存储，一个日历（Tuta 也有[付费计划](https://tuta.com/pricing)）。Tuta 也部分[开源](https://github.com/tutao/tutanota)，因此您可以自托管。
+  * [Verifalia](https://verifalia.com/email-verification-api) — 实时电子邮件验证 API，具有邮箱确认和一次性电子邮件地址检测器；每天 25 次免费电子邮件验证。
+  * [verimail.io](https://verimail.io/) — 批量和 API 电子邮件验证服务。每月 100 次免费验证
+  * [Wraps](https://wraps.dev) - 电子邮件自动化工作流程，5k 跟踪事件和无限联系人免费。
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Feature Toggles Management Platforms
 
-  * [Abby](https://www.tryabby.com) - Open-Source feature flags & A/B testing. Configuration as Code & Fully Typed Typescript SDKs. Strong integration with Frameworks such as Next.js & React. Generous free tier and cheap scaling options.
-  * [ConfigCat](https://configcat.com) - ConfigCat is a developer-centric feature flag service with unlimited team size, excellent support, and a reasonable price tag. Free plan up to 10 flags, two environments, 1 product, and 5 Million requests per month.
-  * [Flagsmith](https://flagsmith.com) - Release features with confidence; manage feature flags across web, mobile, and server-side applications. Use our hosted API, deploy to your own private cloud, or run on-premise.
-  * [GrowthBook](https://growthbook.io) - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.
-  * [Hypertune](https://www.hypertune.com) - Type-safe feature flags, A/B testing, analytics and app configuration, with Git-style version control and synchronous, in-memory, local flag evaluation. Free for up to 5 team members with unlimited feature flags and A/B tests.
-  * [Statsig](https://www.statsig.com) - A robust platform for feature management, A/B testing, analytics, and more. Its generous free plan offers unlimited seats, flags, experiments, and dynamic configurations, supporting up to 1 million events per month.
-  * [Toggled.dev](https://www.toggled.dev) - Enterprise-ready, scalable multi-regional feature toggles management platform. Free plan up to 10 flags, two environments, unlimited requests. SDK, analytics dashboard, release calendar, Slack notifications, and all other features are included in the endless free plan.
+  * [Abby](https://www.tryabby.com) - 开源功能标志和 A/B 测试。配置即代码和完全类型化的 TypeScript SDK。与 Next.js 和 React 等框架强大的集成。慷慨的免费层级和便宜的扩展选项。
+  * [ConfigCat](https://configcat.com) - ConfigCat 是一个以开发者为中心的功能标志服务，具有无限的团队规模、出色的支持和合理的价格标签。免费计划最多 10 个标志、2 个环境、1 个产品和每月 500 万次请求。
+  * [Flagsmith](https://flagsmith.com) - 自信地发布功能；在 Web、移动和服务器端应用程序中管理功能标志。使用我们托管的 API，部署到您自己的私有云，或在本地运行。
+  * [GrowthBook](https://growthbook.io) - 具有内置贝叶斯统计分析引擎的开源功能标志和 A/B 测试提供商。最多 3 个用户免费，无限功能标志和实验。
+  * [Hypertune](https://www.hypertune.com) - 类型安全的功能标志、A/B 测试、分析和应用程序配置，具有 Git 风格的版本控制和同步的内存中本地标志评估。最多 5 名团队成员免费，具有无限功能标志和 A/B 测试。
+  * [Statsig](https://www.statsig.com) - 一个强大的功能管理、A/B 测试、分析等平台。其慷慨的免费计划提供无限的席位、标志、实验和动态配置，支持每月最多 100 万个事件。
+  * [Toggled.dev](https://www.toggled.dev) - 企业就绪、可扩展的多区域功能开关管理平台。免费计划最多 10 个标志、2 个环境、无限请求。SDK、分析仪表板、发布日历、Slack 通知和所有其他功能都包含在无限免费计划中。
 
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Font
 
-  * [Befonts](https://befonts.com/) - Provides several unique fonts for personal or commercial use.
-  * [Bunny](https://fonts.bunny.net) Privacy oriented Google Fonts
-  * [dafont](https://www.dafont.com/) - The fonts presented on this website are their authors' property and are either freeware, shareware, demo versions, or public domain.
-  * [Everything Fonts](https://everythingfonts.com/) - Offers multiple tools; @font-face, Units Converter, Font Hinter and Font Submitter.
-  * [Font of web](https://fontofweb.com/) - Identify all the fonts used on a website and how they are used.
-  * [Font Squirrel](https://www.fontsquirrel.com/) - Freeware fonts licensed for commercial work. Hand-selected these typefaces and presented them in an easy-to-use format.
-  * [FontGet](https://www.fontget.com/) - Has a variety of fonts available to download and sorted neatly with tags.
-  * [fonts.xz.style](https://fonts.xz.style/) free and open source service for delivering font families to websites using CSS.
-  * [Fontsensei](https://fontsensei.com/) Opensourced Google fonts tagged by users. With CJK (Chinese,Japanese,Korean) font tags.
-  * [Fontshare](https://www.fontshare.com/) - is a free fonts service. It’s a growing collection of professional-grade fonts, 100% free for personal and commercial use.
-  * [Google Fonts](https://fonts.google.com/) - Many free fonts are easy and quick to install on a website via a download or a link to Google's CDN.
+  * [Befonts](https://befonts.com/) - 提供几种独特的字体供个人或商业使用。
+  * [Bunny](https://fonts.bunny.net) 隐私导向的 Google Fonts
+  * [dafont](https://www.dafont.com/) - 本网站上展示的字体是其作者财产，并且是免费软件、共享软件、演示版本或公共领域。
+  * [Everything Fonts](https://everythingfonts.com/) - 提供多种工具；@font-face、单位转换器、字体提示器和字体提交器。
+  * [Font of web](https://fontofweb.com/) - 识别网站上使用的所有字体及其使用方式。
+  * [Font Squirrel](https://www.fontsquirrel.com/) - 许可用于商业工作的免费字体。精心挑选这些字体并以易于使用的格式呈现。
+  * [FontGet](https://www.fontget.com/) - 有各种字体可供下载，并用标签整齐分类。
+  * [fonts.xz.style](https://fonts.xz.style/) 使用 CSS 向网站提供字体系列的免费开源服务。
+  * [Fontsensei](https://fontsensei.com/) 由用户标记的开源 Google 字体。具有 CJK（中文、日文、韩文）字体标签。
+  * [Fontshare](https://www.fontshare.com/) - 是一个免费字体服务。 It’s 是一个不断增长的专业级字体集合，100% 免费供个人和商业使用。
+  * [Google Fonts](https://fonts.google.com/) - 许多免费字体，可以通过下载或链接到 Google CDN 在网站上轻松快速地安装。
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Forms
 
-  * [FabForm](https://fabform.io/) - Form backend platform for intelligent developers. The free plan allows 250 form submissions per month. Friendly modern GUI. Integrates with Google Sheets, Airtable, Slack, Email, and others.
-  * [Feathery](https://feathery.io) - Powerful, developer-friendly form builder. Build signup & login, user onboarding, payment flows, complex financial applications, and more. The free plan allows up to 250 submissions/month and five active forms.
-  * [feedback.fish](https://feedback.fish/) - Free plan allows collecting 25 total feedback submissions. Easy to integrate with React and Vue components provided.
-  * [Form.taxi](https://form.taxi/) — Endpoint for HTML forms submissions. With notifications, spam blockers, and GDPR-compliant data processing. Free plan for basic usage.
-  * [Formcarry.com](https://formcarry.com) - HTTP POST Form endpoint, Free plan allows 100 monthly submissions.
-  * [Formester.com](https://formester.com) - Share and embed unique-looking forms on your website—no limits on the number of forms created or features restricted by the plan. Get up to 100 submissions every month for free.
-  * [FormKeep.com](https://www.formkeep.com/) - Unlimited forms with 50 monthly submissions, spam protection, email notification, and a drag-and-drop designer that can export HTML. Additional features include custom field rules, teams, and integrations to Google Sheets, Slack, ActiveCampaign, and Zapier.
-  * [formlets.com](https://formlets.com/) — Online forms, unlimited single page forms/month, 100 submissions/month, email notifications.
-  * [forms.app](https://forms.app/) — Create online forms with powerful features like conditional logic, automatic score calculator, and AI. Collect up to 100 responses with a free plan, embed your forms on a website, or use them with a link.
-  * [formspark.io](https://formspark.io/) -  Form to Email service, free plan allows unlimited forms, 250 submissions per month, support by Customer assistance team.
-  * [Formspree.io](https://formspree.io/) — Send email using an HTTP POST request. The free tier limits to 50 submissions per form per month.
-  * [Formsubmit.co](https://formsubmit.co/) — Easy form endpoints for your HTML forms. Free Forever. No registration is required.
-  * [HeroTofu.com](https://herotofu.com/) - Forms backend with bot detection and encrypted archive. Forward submissions via UI to email, Slack, or Zapier. Use your own front end. No server code is required. The free plan gives unlimited forms and 100 submissions per month.
-  * [HeyForm.net](https://heyform.net/) - Drag and drop online form builder. The free tier lets you create unlimited forms and collect unlimited submissions. Comes with pre-built templates, anti-spam, and 100MB file storage.
-  * [Kwes.io](https://kwes.io/) - Feature rich form endpoint. Works great with static sites. The free plan includes up to 1 website with up to 50 monthly submissions.
-  * [Pageclip](https://pageclip.co/) - The free plan allows one site, one form, and 1,000 monthly submissions.
-  * [SimplePDF.eu](https://simplepdf.eu/embed) - Embed a PDF editor on your website and turn any PDF into a fillable form. The free plan allows unlimited PDFs with three submissions per PDF.
-  * [smartforms.dev](https://smartforms.dev/) - Powerful and easy form backend for your website, forever free plan allows 50 submissions per month, 250MB file storage, Zapier integration, CSV/JSON export, custom redirect, custom response page, Telegram & Slack bot, single email notifications.
-  * [staticforms.xyz](https://www.staticforms.xyz/) - Integrate HTML forms easily without any server-side code for free. After the user submits the form, an email with the form content will be sent to your registered address.
-  * [Survicate](https://survicate.com/) — Pull feedback from all sources and send follow-up surveys with one tool. Automatically analyze feedback and extract insights with AI. Free email, website, in-product or mobile surveys, AI survey creator, and 25 monthly responses.
-  * [Tally.so](https://tally.so/) - 99% of all the features are free. The free tier lets you have: unlimited forms, unlimited submissions, email notifications, form logic, collect payments, file upload, custom thank you page, and many more.
-  * [Typeform.com](https://www.typeform.com/) — Include beautifully designed forms on websites.  The free plan allows only ten fields per form and 100 monthly responses.
-  * [Vidhook](https://vidhook.io/) - Collect feedback using delightful surveys with high response rates. Free plan includes 1 active survey, 25 responses per survey and customizable templates.
-  * [WaiverStevie.com](https://waiverstevie.com) - Electronic Signature platform with a REST API. You can receive notifications with webhooks. Free plan watermarks signed documents but allow unlimited envelopes + signatures.
-  * [Web3Forms](https://web3forms.com) - Contact forms for Static & JAMStack Websites without writing backend code. The free plan allows Unlimited Forms, Unlimited Domains & 250 Submissions per month.
+  * [FabForm](https://fabform.io/) - 为智能开发者提供的表单后端平台。免费计划每月允许 250 次表单提交。友好的现代 GUI。与 Google Sheets、Airtable、Slack、Email 等集成。
+  * [Feathery](https://feathery.io) - 功能强大、对开发者友好的表单构建器。构建注册和登录、用户引导、支付流程、复杂的金融应用程序等。免费计划每月最多允许 250 次提交和 5 个活动表单。
+  * [feedback.fish](https://feedback.fish/) - 免费计划允许总共收集 25 条反馈提交。与提供的 React 和 Vue 组件易于集成。
+  * [Form.taxi](https://form.taxi/) — HTML 表单提交的端点。具有通知、垃圾邮件拦截器和符合 GDPR 的数据处理。基本使用免费计划。
+  * [Formcarry.com](https://formcarry.com) - HTTP POST 表单端点，免费计划每月允许 100 次提交。
+  * [Formester.com](https://formester.com) - 在您的网站上共享和嵌入外观独特的表单——对创建的表单数量或计划限制的功能没有限制。每月免费获得最多 100 次提交。
+  * [FormKeep.com](https://www.formkeep.com/) - 无限表单，每月 50 次提交、垃圾邮件保护、电子邮件通知，以及可以导出 HTML 的拖放设计器。其他功能包括自定义字段规则、团队以及与 Google Sheets、Slack、ActiveCampaign 和 Zapier 的集成。
+  * [formlets.com](https://formlets.com/) — 在线表单，无限单页表单/月，每月 100 次提交，电子邮件通知。
+  * [forms.app](https://forms.app/) — 创建具有条件逻辑、自动分数计算器和 AI 等强大功能的在线表单。免费计划最多收集 100 个响应，将表单嵌入网站，或使用链接访问。
+  * [formspark.io](https://formspark.io/) -  表单到电子邮件服务，免费计划允许无限表单，每月 250 次提交，由客户协助团队支持。
+  * [Formspree.io](https://formspree.io/) — 使用 HTTP POST 请求发送电子邮件。免费层级限制每个表单每月 50 次提交。
+  * [Formsubmit.co](https://formsubmit.co/) — 为您的 HTML 表单提供简单的表单端点。永久免费。无需注册。
+  * [HeroTofu.com](https://herotofu.com/) - 具有机器人检测和加密存档的表单后端。通过 UI 将提交转发到电子邮件、Slack 或 Zapier。使用您自己的前端。无需服务器代码。免费计划提供无限表单和每月 100 次提交。
+  * [HeyForm.net](https://heyform.net/) - 拖放式在线表单构建器。免费层级允许您创建无限表单并收集无限提交。附带预构建模板、反垃圾邮件和 100MB 文件存储。
+  * [Kwes.io](https://kwes.io/) - 功能丰富的表单端点。非常适合静态网站。免费计划包括最多 1 个网站和每月最多 50 次提交。
+  * [Pageclip](https://pageclip.co/) - 免费计划允许一个站点、一个表单和每月 1,000 次提交。
+  * [SimplePDF.eu](https://simplepdf.eu/embed) - 在您的网站上嵌入 PDF 编辑器，并将任何 PDF 转换为可填写表单。免费计划允许无限 PDF，每个 PDF 三次提交。
+  * [smartforms.dev](https://smartforms.dev/) - 为您的网站提供强大且易于使用的表单后端，永久免费计划每月允许 50 次提交、250MB 文件存储、Zapier 集成、CSV/JSON 导出、自定义重定向、自定义响应页面、Telegram 和 Slack 机器人、单一电子邮件通知。
+  * [staticforms.xyz](https://www.staticforms.xyz/) - 无需任何服务器端代码即可轻松集成 HTML 表单。用户提交表单后，包含表单内容的电子邮件将发送到您的注册地址。
+  * [Survicate](https://survicate.com/) — 从所有来源收集反馈并使用一种工具发送后续调查。使用 AI 自动分析反馈并提取见解。免费电子邮件、网站、产品内或移动调查、AI 调查创建器和每月 25 个响应。
+  * [Tally.so](https://tally.so/) - 99% 的所有功能都是免费的。免费层级允许您拥有：无限表单、无限提交、电子邮件通知、表单逻辑、收集付款、文件上传、自定义感谢页面等等。
+  * [Typeform.com](https://www.typeform.com/) — 在网站上包含精美设计的表单。免费计划每个表单只允许 10 个字段和每月 100 个响应。
+  * [Vidhook](https://vidhook.io/) - 使用响应率高的令人愉悦的调查收集反馈。免费计划包括 1 个活动调查、每个调查 25 个响应和可自定义模板。
+  * [WaiverStevie.com](https://waiverstevie.com) - 具有 REST API 的电子签名平台。您可以通过 webhook 接收通知。免费计划对签署的文档添加水印，但允许无限信封 + 签名。
+  * [Web3Forms](https://web3forms.com) - 用于静态和 JAMStack 网站的联系表单，无需编写后端代码。免费计划允许无限表单、无限域名和每月 250 次提交。
   * [Wufoo](https://www.wufoo.com/) - Quick forms to use on websites. The free plan has a limit of 100 submissions each month.
 
 **[⬆️ Back to Top](#table-of-contents)**
