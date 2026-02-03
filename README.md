@@ -425,35 +425,35 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Low-code Platform
+## 低代码平台
 
-  * [appsmith](https://www.appsmith.com/) �?Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
-  * [BudiBase](https://budibase.com/) �?Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s
-  * [Clappia](https://www.clappia.com) �?A low-code platform designed for building business process applications with customizable mobile and web apps. Offers a drag-and-drop interface, features like Offline Support, real-time location tracking and integration with various third-party services
-  * [lil'bots](https://www.lilbots.io/) - write and run scripts online utilizing free built-in APIs like OpenAI, Anthropic, Firecrawl and others. Great for building AI agents / internal tooling and sharing with team. Free-tier includes full access to APIs, AI coding assistant and 10,000 execution credits / month.
-  * [manubes](https://www.manubes.com) - Powerful no-code cloud platform with a focus on industrial production management. Free for one user with 1 million workflow activities a month ([also available in german](https://www.manubes.de)).
-  * [Mendix](https://www.mendix.com/) �?Rapid Application Development for Enterprises, unlimited accessible sandbox environments supporting total users, 0.5 GB storage and 1 GB RAM per app. Also, Studio and Studio Pro IDEs are allowed in the free tier.
-  * [outsystems.com](https://www.outsystems.com/) �?Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1 GB database
-  * [ReTool](https://retool.com/) �?Low-code platform for building internal applications. Retool is highly hackable. If you can write it with JavaScript and an API, you can make it in Retool. The free tier allows up to five users per month, unlimited apps and API connections.
-  * [ToolJet](https://www.tooljet.com/) �?Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc., and build apps using drag-and-drop application builder.
-  * [UI Bakery](https://uibakery.io) �?Low-code platform that enables faster building of custom web applications. Supports building UI using drag and drop with a high level of customization through JavaScript, Python, and SQL. Available as both cloud and self-hosted solutions. Free for up to 5 users.
+  * [appsmith](https://www.appsmith.com/) — 构建管理面板、内部工具和仪表板的低代码项目。与 15+ 个数据库和任何 API 集成。
+  * [BudiBase](https://budibase.com/) — Budibase 是一个开源低代码平台，可在几分钟内创建内部应用程序。支持 PostgreSQL、MySQL、MSSQL、MongoDB、Rest API、Docker、K8s
+  * [Clappia](https://www.clappia.com) — 一个专为构建具有可定制移动和 Web 应用程序的业务流程应用程序而设计的低代码平台。提供拖放界面，具有离线支持、实时位置跟踪以及与各种第三方服务集成等功能
+  * [lil'bots](https://www.lilbots.io/) - 在线编写和运行脚本，利用免费内置 API，如 OpenAI、Anthropic、Firecrawl 等。非常适合构建 AI 代理/内部工具并与团队共享。免费层级包括完全访问 API、AI 编码助手和每月 10,000 次执行信用额度。
+  * [manubes](https://www.manubes.com) - 专注于工业生产的强大无代码云平台。一名用户免费，每月 100 万次工作流活动（[德语版本也可用](https://www.manubes.de)）。
+  * [Mendix](https://www.mendix.com/) — 企业快速应用程序开发，支持总用户的无限可访问沙盒环境，每个应用程序 0.5 GB 存储和 1 GB RAM。此外，免费层级允许使用 Studio 和 Studio Pro IDE。
+  * [outsystems.com](https://www.outsystems.com/) — 用于本地或云的企业 Web 开发 PaaS，免费"个人环境"提供允许无限代码和最多 1 GB 数据库
+  * [ReTool](https://retool.com/) — 用于构建内部应用程序的低代码平台。Retool 高度可定制。如果您可以使用 JavaScript 和 API 编写它，您就可以在 Retool 中制作它。免费层级允许每月最多 5 名用户、无限应用程序和 API 连接。
+  * [ToolJet](https://www.tooljet.com/) — 用于构建业务应用程序的可扩展低代码框架。连接到数据库、云存储、GraphQL、API 端点、Airtable 等，并使用拖放应用程序构建器构建应用程序。
+  * [UI Bakery](https://uibakery.io) — 低代码平台，可更快地构建自定义 Web 应用程序。支持通过拖放构建 UI，并通过 JavaScript、Python 和 SQL 进行高度定制。提供云和自托管解决方案。最多 5 名用户免费。
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Web Hosting
+## Web 托管
 
-  * [Alwaysdata](https://www.alwaysdata.com/) �?1 GB free web hosting with support for MySQL, PostgreSQL, RabbitMQ, .NET, Deno, Elixir, Go, Java, Lua, Node.js, PHP, Python, Ruby, Rust. Custom web servers, access via FTP, WebDAV and SSH. Mailbox, mailing list and app installer included. No custom domain on free plan.
-  * [Awardspace.com](https://www.awardspace.com) �?Free web hosting + a free short domain, PHP, MySQL, App Installer, Email Sending & No Ads.
-  * [Bubble](https://bubble.io/) �?Visual programming to build web and mobile apps without code, free with Bubble branding.
-  * [dAppling Network](https://www.dappling.network/) - Decentralized web hosting platform for Web3 frontends focusing on increasing uptime and security and providing an additional access point for users.
-  * [DigitalOcean](https://www.digitalocean.com/pricing) - Build and deploy three static sites for free on the App Platform Starter tier.
-  * [FreeFlarum](https://freeflarum.com/) - Community-powered free Flarum hosting for up to 250 users (donate to remove the watermark from the footer).
-  * [Kinsta Static Site Hosting](https://kinsta.com/static-site-hosting/) �?Deploy up to 100 static sites for free, custom domains with SSL, 100 GB monthly bandwidth, 260+ Cloudflare CDN locations.
-  * [MDB GO](https://mdbgo.com/) - Free hosting for one project with two weeks Container TTL, 500 MB RAM per project, SFTP - 1G disk space.
-  * [Neocities](https://neocities.org) �?Static, 1 GB free storage with 200 GB Bandwidth.
-  * [Netlify](https://www.netlify.com/) �?Builds, deploys and hosts static site/app free for 300 credits/month (equals 30 GB bandwidth).
-  * [Oaysus](https://oaysus.com) - Visual page builder for developer-built React, Vue, or Svelte components. Free tier includes 1 site with unlimited pages, form submissions, and global CDN hosting.
-  * [PandaStack](https://www.pandastack.io/) �?An eco-system for developers includes web hosting in different formats (static web hosting, container based web hosting, wordpress and so many other managed apps available in couple of clicks ). One free web hosting (static or containered) and one free database with 100GB Bandwidth and 300 Build mins/month.
+  * [Alwaysdata](https://www.alwaysdata.com/) — 1 GB 免费网络托管，支持 MySQL、PostgreSQL、RabbitMQ、.NET、Deno、Elixir、Go、Java、Lua、Node.js、PHP、Python、Ruby、Rust。自定义 Web 服务器，通过 FTP、WebDAV 和 SSH 访问。包括邮箱、邮件列表和应用程序安装程序。免费计划不支持自定义域名。
+  * [Awardspace.com](https://www.awardspace.com) — 免费网络托管 + 免费短域名、PHP、MySQL、应用程序安装程序、电子邮件发送和无广告。
+  * [Bubble](https://bubble.io/) — 可视化编程，无需代码即可构建 Web 和移动应用程序，免费，带有 Bubble 品牌标识。
+  * [dAppling Network](https://www.dappling.network/) - 用于 Web3 前端的去中心化网络托管平台，专注于提高正常运行时间和安全性，并为用户提供额外的访问点。
+  * [DigitalOcean](https://www.digitalocean.com/pricing) - 在应用平台入门层级上免费构建和部署三个静态站点。
+  * [FreeFlarum](https://freeflarum.com/) - 社区驱动的免费 Flarum 托管，最多 250 名用户（捐赠以从页脚中删除水印）。
+  * [Kinsta Static Site Hosting](https://kinsta.com/static-site-hosting/) — 免费部署最多 100 个静态站点，带有 SSL 的自定义域名，每月 100 GB 带宽，260+ Cloudflare CDN 位置。
+  * [MDB GO](https://mdbgo.com/) - 一个项目的免费托管，两周容器 TTL，每个项目 500 MB RAM，SFTP - 1G 磁盘空间。
+  * [Neocities](https://neocities.org) — 静态，1 GB 免费存储，200 GB 带宽。
+  * [Netlify](https://www.netlify.com/) — 免费构建、部署和托管静态站点/应用程序，每月 300 个信用额度（等于 30 GB 带宽）。
+  * [Oaysus](https://oaysus.com) - 面向开发者构建的 React、Vue 或 Svelte 组件的可视化页面构建器。免费层级包括 1 个站点，具有无限页面、表单提交和全球 CDN 托管。
+  * [PandaStack](https://www.pandastack.io/) — 开发者的生态系统包括不同格式的网络托管（静态网络托管、基于容器的网络托管、wordpress 和许多其他可用几次点击的管理应用程序）。一个免费网络托管（静态或容器化）和一个免费数据库，具有 100GB 带宽和每月 300 构建分钟。
   * [pantheon.io](https://pantheon.io/) �?Drupal and WordPress hosting, automated DevOps, and scalable infrastructure. Free for developers and agencies. No custom domain.
   * [Qoddi](https://qoddi.com) - PaaS service similar to Heroku with a developer-centric approach and all-inclusive features. Free tier for static assets, staging, and developer apps.
   * [readthedocs.org](https://readthedocs.org/) �?Free documentation hosting with versioning, PDF generation, and more
