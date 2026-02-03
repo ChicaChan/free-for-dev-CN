@@ -615,31 +615,31 @@ Update Time, five active automations, webhooks.
   * [teleretro.com](https://www.teleretro.com/) �?Simple and fun retrospective tool with icebreakers, gifs and emojis. The free plan includes three retros and unlimited members.
   * [Tenzu](https://tenzu.net/) �?Lightweight project management tool for agile teams. The SaaS relies on free contributions; users can always choose to give 0 and there is no features paywall {[more details](https://tenzu.net/pricing/)}
   * [titanapps.io](https://titanapps.io/) �?productivity tools for Jira and monday.com offering structured checklists, templates, and approvals inside issues/tasks. Free plan available for small teams.
-  * [todoist.com](https://todoist.com/) �?Collaborative and individual task management. The free plan has: 5 active projects, five users in the project, file uploading up to 5MB, three filters, and one week of activity history.
-  * [Toggl](https://toggl.com/) �?Provides two free productivity tools. [Toggl Track](https://toggl.com/track/) for time management and tracking app with a free plan provides seamless time tracking and reporting designed with freelancers in mind. It has unlimited tracking records, projects, clients, tags, reporting, and more. And [Toggl Plan](https://toggl.com/plan/) for task planning with a free plan for solo developers with unlimited tasks, milestones, and timelines.
-  * [trello.com](https://trello.com/) �?Board-based project management. Unlimited Personal Boards, 10 Team Boards.
-  * [Tweek](https://tweek.so/) �?Simple Weekly To-Do Calendar & Task Management.
-  * [Wikifactory](https://wikifactory.com/) �?Product designing Service with Projects, VCS & Issues. The free plan offers unlimited projects & collaborators and 3GB storage.
-  * [Yodiz](https://www.yodiz.com/) �?Agile development and issue tracking. Free up to 3 users, unlimited projects.
-  * [YouTrack](https://www.jetbrains.com/youtrack/buy/#edition=incloud) �?Free hosted YouTrack (InCloud) for FOSS projects and private projects (free for three users). Includes time tracking and agile boards
-  * [zenhub.com](https://www.zenhub.com) �?The only project management solution inside GitHub. Free for public repos, OSS, and nonprofit organizations
-  * [zenkit.com](https://zenkit.com) �?Project management and collaboration tool. Free for up to 5 members, 5 GB attachments.
-  * [Zube](https://zube.io) �?Project management with free plan for 4 Projects & 4 users. GitHub integration is available.
+  * [todoist.com](https://todoist.com/) — 协作和个人任务管理。免费计划包括：5 个活动项目，项目中的五名用户，文件上传最多 5MB，三个过滤器，以及一周的活动历史。
+  * [Toggl](https://toggl.com/) — 提供两个免费生产力工具。[Toggl Track](https://toggl.com/track/) 用于时间管理和跟踪应用程序，免费计划提供无缝时间跟踪和报告，专为自由职业者设计。它具有无限跟踪记录、项目、客户、标签、报告等。[Toggl Plan](https://toggl.com/plan/) 用于任务规划，为独立开发者提供免费计划，具有无限任务、里程碑和时间线。
+  * [trello.com](https://trello.com/) — 基于看板的项目管理。无限个人看板，10 个团队看板。
+  * [Tweek](https://tweek.so/) — 简单的每周待办事项日历和任务管理。
+  * [Wikifactory](https://wikifactory.com/) — 产品设计服务，具有项目、VCS 和问题。免费计划提供无限项目和协作者以及 3GB 存储。
+  * [Yodiz](https://www.yodiz.com/) — 敏捷开发和问题跟踪。最多 3 名用户免费，无限项目。
+  * [YouTrack](https://www.jetbrains.com/youtrack/buy/#edition=incloud) — 为 FOSS 项目和私人项目提供免费托管 YouTrack（InCloud）（三名用户免费）。包括时间跟踪和敏捷看板
+  * [zenhub.com](https://www.zenhub.com) — GitHub 内唯一的项目管理解决方案。公共仓库、OSS 和非营利组织免费
+  * [zenkit.com](https://zenkit.com) — 项目管理和协作工具。最多 5 名成员、5GB 附件免费。
+  * [Zube](https://zube.io) — 项目管理，免费计划提供 4 个项目和 4 名用户。提供 GitHub 集成。
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Storage and Media Processing
+## 存储和媒体处理
 
-  * [AndroidFileHost](https://androidfilehost.com/) - Free file-sharing platform with unlimited speed, bandwidth, file count, download count, etc. It is mainly aimed for Android dev-related files like APK build, custom ROM & modifications, etc. But seems to accept any other files as well.
-  * [borgbase.com](https://www.borgbase.com/) �?Simple and secure offsite backup hosting for Borg Backup. 10 GB free backup space and two repositories.
-  * [cloudinary.com](https://cloudinary.com/) �?Image upload, powerful manipulations, storage, and delivery for sites and apps, with Ruby, Python, Java, PHP, Objective-C, and more libraries. The free tier includes 25 monthly credits. One credit equals 1,000 image transformations, 1 GB of storage, or 1 GB of CDN usage.
-  * [degoo.com](https://degoo.com/) �?AI based cloud storage with free up to 20 GB, three devices, 5 GB referral bonus (90 days account inactivity).
-  * [Dropshare](https://dropsha.re) - Zero-knowledge file sharing. End-to-end encrypted file sharing with AES-256-GCM encryption, client-side processing, and zero server-side data access. Free uploads for files up to 1GB with no data collection.
-  * [embed.ly](https://embed.ly/) �?Provides APIs for embedding media in a webpage, responsive image scaling, and extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
-  * [Ente](https://ente.io/) - Ente is an end-to-end encrypted cloud for photos, videos and 2FA secrets. Can also be self-hosted along with a generous forever free-tier of 10GB. For free tier users, only single replica of data is kept.
-  * [file.io](https://www.file.io) - 2 GB storage of files. A file is auto-deleted after one download. REST API to interact with the storage. Rate limit one request/minute.
-  * [freetools.site](https://freetools.site/) �?Free online tools. Convert or edit documents, images, audio, video, and more.
-  * [getpantry.cloud](https://getpantry.cloud/) �?A simple JSON data storage API perfect for personal projects, hackathons, and mobile apps!
+  * [AndroidFileHost](https://androidfilehost.com/) - 具有无限速度、带宽、文件数量、下载次数等的免费文件共享平台。主要针对 Android 开发相关文件，如 APK 构建、自定义 ROM 和修改等。但似乎也接受任何其他文件。
+  * [borgbase.com](https://www.borgbase.com/) — Borg Backup 的简单安全的异地备份托管。10 GB 免费备份空间和两个存储库。
+  * [cloudinary.com](https://cloudinary.com/) — 图像上传、强大的操作、存储和交付，用于站点和应用程序，具有 Ruby、Python、Java、PHP、Objective-C 等库。免费层级包括每月 25 个信用额度。一个信用额度等于 1,000 次图像转换、1 GB 存储或 1 GB CDN 使用。
+  * [degoo.com](https://degoo.com/) — 基于 AI 的云存储，免费最多 20 GB，三台设备，5 GB 推荐奖金（90 天账户不活动）。
+  * [Dropshare](https://dropsha.re) - 零知识文件共享。使用 AES-256-GCM 加密、客户端处理和零服务器端数据访问的端到端加密文件共享。最多 1GB 文件免费上传，不收集数据。
+  * [embed.ly](https://embed.ly/) — 提供用于在网页中嵌入媒体、响应式图像缩放和从网页中提取元素的 API。每月最多 5,000 个 URL 免费，每秒 15 个请求
+  * [Ente](https://ente.io/) - Ente 是一个端到端加密的云，用于照片、视频和 2FA 密钥。也可以自托管，具有慷慨的永久免费 10GB 层级。对于免费层级用户，仅保留数据的单个副本。
+  * [file.io](https://www.file.io) - 2 GB 文件存储。文件在下载一次后自动删除。用于与存储交互的 REST API。速率限制每分钟一个请求。
+  * [freetools.site](https://freetools.site/) — 免费在线工具。转换或编辑文档、图像、音频、视频等。
+  * [getpantry.cloud](https://getpantry.cloud/) — 一个简单的 JSON 数据存储 API，非常适合个人项目、黑客马拉松和移动应用程序！
   * [GoFile.io](https://gofile.io/) - Free file sharing and storage platform can be used via web-based UI & also API. unlimited file size, bandwidth, download count, etc. But it will be deleted when a file becomes inactive (no download for more than ten days).
   * [gumlet.com](https://www.gumlet.com/) �?Image and video hosting, processing and streaming via CDN. Provides generous free tier of 250 GB / month for videos and 30 GB  / month for images.
   * [icedrive.net](https://www.icedrive.net/) - Simple cloud storage service. 10 GB free storage
