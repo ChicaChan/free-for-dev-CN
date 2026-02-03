@@ -520,31 +520,31 @@ Update Time, five active automations, webhooks.
   * [CockroachDB Cloud](https://www.cockroachlabs.com/pricing/) — 免费层级提供每月 5000 万个 RU 和 10 GiB 存储（相当于 15 美元价值）。（[什么是请求单位](https://www.cockroachlabs.com/docs/cockroachcloud/metrics-request-units.html)）
   * [codehooks.io](https://codehooks.io/) �?Easy to use JavaScript serverless API/backend and NoSQL database service with functions, Mongdb-ish queries, key/value lookups, a job system, realtime messages, worker queues, a powerful CLI and a web-based data manager. Free plan has 5GB storage and 60/API calls per minute. 2 developers included. No credit-card required.
   * [Couchbase Capella](https://www.couchbase.com/products/capella/) - deploy a forever free tier fully managed database cluster with 1 node and 8GB storage, built for developers to create the next generation of applications across IoT to AI
-  * [CrateDB](https://crate.io/) - Distributed Open Source SQL database for real-time analytics. [Free Tier CRFREE](https://crate.io/lp-crfree): One-node with 2 CPUs, 2 GiB of memory, 8 GiB of storage. One cluster per organization, no payment method needed.
-  * [filess.io](https://filess.io) - filess.io is a platform where you can create two databases with up to 10 MB per database of the following DBMS for free: MySQL, MariaDB, MongoDB, and PostgreSQL.
-  * [InfluxDB](https://www.influxdata.com/) �?Timeseries database, free up to 3MB/5 minutes writes, 30MB/5 minutes reads and 10,000 cardinalities series
-  * [MemCachier](https://www.memcachier.com/) �?Managed Memcache service. Free for up to 25MB, 1 Proxy Server, and basic analytics
-  * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) �?free tier gives 512 MB
-  * [Neo4j Aura](https://neo4j.com/cloud/aura/) �?Managed native Graph DBMS / analytics platform with a Cypher query language and a REST API. Limits on graph size (50k nodes, 175k relationships).
-  * [Neon](https://neon.tech/) �?Managed PostgreSQL, 0.5 GB of storage (total), 1 Project ,10 branches, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total) for non-primary branch compute.
-  * [Nile](https://www.thenile.dev/) �?A Postgres platform for B2B apps. Unlimited databases, Always available with no shutdown, 1GB of storage (total), 50 million query tokens, autoscaling, unlimited vector embeddings
-  * [Prisma Postgres](https://prisma.io/postgres) - Super fast hosted Postgres built on unikernels and running on bare metal, 1GB storage, 10 databases, integrated with Prisma ORM.
-  * [restdb.io](https://restdb.io/) - a fast and straightforward NoSQL cloud database service. With restdb.io you get schema, relations, automatic REST API (with MongoDB-like queries), and an efficient multi-user admin UI for working with data. The free plan allows 3 users, 2500 records, and 1 API request per second.
-  * [scalingo.com](https://scalingo.com/) �?Primarily a PaaS but offers a 128MB to 192MB free tier of MySQL, PostgreSQL, or MongoDB
-  * [SeaTable](https://seatable.io/) �?Flexible, Spreadsheet-like Database built by the Seafile team. unlimited tables, 2,000 lines, 1-month versioning, up to 25 team members.
-  * [skyvia.com](https://skyvia.com/) �?Cloud Data Platform offers a free tier and all plans are completely free while in beta
-  * [StackBy](https://stackby.com/) �?One tool that combines spreadsheets' flexibility, databases' power, and built-in integrations with your favorite business apps. The free plan includes unlimited users, ten stacks, and a 2GB attachment per stack.
-  * [Tinybird](https://tinybird.co) - A serverless managed ClickHouse with connection-less data ingest over HTTP and lets you publish SQL queries as managed HTTP APIs. There is no time limit on free-tier, 10GB storage + 1000 API requests per day.
-  * [Turso by ChiselStrike](https://chiselstrike.com/) - Turso is SQLite Developer Experience in an Edge Database. Turso provides a Free Forever starter plan, 9 GB of total storage, Up to 500 databases, Up to 3 locations, 1 billion row reads per month, and Local development support with SQLite.
-  * [Upstash](https://upstash.com/) �?Serverless Redis with free tier up to 500K monthly commands, 256MB max database size, and 20 concurrent connections
-  * [Xata Lite](https://lite.xata.io/) - Xata Lite is a serverless database with built-in powerful search and analytics. One API, multiple type-safe client libraries, and optimized for your development workflow. The free plan provides 10 branches and 15 GB of storage without pausing or cold starts.
+  * [CrateDB](https://crate.io/) - 用于实时分析的分布式开源 SQL 数据库。[免费层级 CRFREE](https://crate.io/lp-crfree)：单节点，2 个 CPU，2 GiB 内存，8 GiB 存储。每个组织一个集群，无需付款方式。
+  * [filess.io](https://filess.io) - filess.io 是一个平台，您可以在其中免费创建两个数据库，每个数据库最多 10 MB，支持以下 DBMS：MySQL、MariaDB、MongoDB 和 PostgreSQL。
+  * [InfluxDB](https://www.influxdata.com/) — 时间序列数据库，免费最多 3MB/5 分钟写入，30MB/5 分钟读取和 10,000 个基数系列
+  * [MemCachier](https://www.memcachier.com/) — 托管 Memcache 服务。最多 25MB、1 个代理服务器和基本分析免费
+  * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) — 免费层级提供 512 MB
+  * [Neo4j Aura](https://neo4j.com/cloud/aura/) — 托管原生图数据库管理系统/分析平台，具有 Cypher 查询语言和 REST API。图大小限制（50k 个节点，175k 个关系）。
+  * [Neon](https://neon.tech/) — 托管 PostgreSQL，0.5 GB 存储（总计），1 个项目，10 个分支，无限数据库，始终可用的主分支（5 分钟后自动暂停），非主分支计算每月 20 小时活动时间（总计）。
+  * [Nile](https://www.thenile.dev/) — 用于 B2B 应用程序的 Postgres 平台。无限数据库，始终可用，无关闭，1GB 存储（总计），5000 万个查询令牌，自动扩展，无限向量嵌入
+  * [Prisma Postgres](https://prisma.io/postgres) - 极快的托管 Postgres，构建在 unikernels 上并运行在裸机上，1GB 存储，10 个数据库，与 Prisma ORM 集成。
+  * [restdb.io](https://restdb.io/) - 快速简单的 NoSQL 云数据库服务。使用 restdb.io，您可以获得模式、关系、自动 REST API（具有类似 MongoDB 的查询）和高效的多用户管理 UI，用于处理数据。免费计划允许 3 个用户、2500 条记录和每秒 1 个 API 请求。
+  * [scalingo.com](https://scalingo.com/) — 主要是 PaaS，但提供 128MB 到 192MB 的 MySQL、PostgreSQL 或 MongoDB 免费层级
+  * [SeaTable](https://seatable.io/) — 由 Seafile 团队构建的灵活、类似电子表格的数据库。无限表格，2,000 行，1 个月版本控制，最多 25 名团队成员。
+  * [skyvia.com](https://skyvia.com/) — 云数据平台提供免费层级，所有计划在测试版期间完全免费
+  * [StackBy](https://stackby.com/) — 一种结合了电子表格的灵活性、数据库的强大功能以及与您喜欢的业务应用程序的内置集成的工具。免费计划包括无限用户、十个堆栈和每个堆栈 2GB 附件。
+  * [Tinybird](https://tinybird.co) - 无服务器托管 ClickHouse，通过 HTTP 进行无连接数据摄取，并允许您将 SQL 查询作为托管 HTTP API 发布。免费层级没有时间限制，10GB 存储 + 每天 1000 次 API 请求。
+  * [Turso by ChiselStrike](https://chiselstrike.com/) - Turso 是边缘数据库中的 SQLite 开发者体验。Turso 提供永久免费的入门计划，总共 9 GB 存储，最多 500 个数据库，最多 3 个位置，每月 10 亿行读取，以及 SQLite 本地开发支持。
+  * [Upstash](https://upstash.com/) — 无服务器 Redis，免费层级最多 500K 每月命令，最大数据库大小 256MB，20 个并发连接
+  * [Xata Lite](https://lite.xata.io/) - Xata Lite 是一个内置强大搜索和分析的无服务器数据库。一个 API，多个类型安全的客户端库，并为您的开发工作流程进行了优化。免费计划提供 10 个分支和 15 GB 存储，无需暂停或冷启动。
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Tunneling, WebRTC, Web Socket Servers and Other Routers
+## 隧道、WebRTC、WebSocket 服务器和其他路由器
 
-  * [btunnel](https://www.btunnel.in/) �?Expose localhost and local tcp server to the internet. Free plan includes file server, custom http request and response headers, basic auth protection and 1 hour tunnel timeout.
-  * [cname.dev](https://cname.dev/) �?Free and secure dynamic reverse proxy service.
+  * [btunnel](https://www.btunnel.in/) — 将 localhost 和本地 tcp 服务器暴露到互联网。免费计划包括文件服务器、自定义 http 请求和响应头、基本身份验证保护和 1 小时隧道超时。
+  * [cname.dev](https://cname.dev/) — 免费安全的动态反向代理服务。
   * [conveyor.cloud](https://conveyor.cloud/) �?Visual Studio extension to expose IIS Express to the local network or over a tunnel to a public URL.
   * [Expose](https://expose.dev/) - Expose local sites via secure tunnels. The free plan includes an EU Server, Random subdomains, and Single users.
   * [Hamachi](https://www.vpn.net/) �?LogMeIn Hamachi is a hosted VPN service that lets you securely extend LAN-like networks to distributed teams with a free plan that allows unlimited networks with up to 5 people
