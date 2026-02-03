@@ -395,31 +395,31 @@
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## BaaS
+## 后端即服务 (BaaS)
 
-  * [Activepieces](https://www.activepieces.com) - Build automation flows to connect several apps together in your app's backend. For example, send a Slack message or add a Google Sheet row when an event fires in your app. Free up to 5,000 tasks per month.
-  * [back4app.com](https://www.back4app.com) - Back4App is an easy-to-use, flexible and scalable backend based on Parse Platform.
-  * [backendless.com](https://backendless.com/) �?Mobile and Web Baas, with 1 GB file storage free, push notifications of 50,000/month, and 1000 data objects in the table.
-  * [bismuth.cloud](https://www.bismuth.cloud/) �?Our AI will boostrap your Python API on our function runtime and hosted storage, build and host for free in our online editor or locally with your favorite tools.
-  * [Claw.cloud](https://run.claw.cloud) - A PaaS platform offering $5/month in free credits for users with a GitHub account older than 180 days. Perfect for hosting apps, databases, and more. ([Signup Link with free credit](https://ap-southeast-1.run.claw.cloud/signin)).
-  * [connectycube.com](https://connectycube.com) - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 1000 users.
-  * [convex.dev](https://convex.dev/) - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions), serverless functions, and WebSockets to stream updates to various clients. Free for small projects - up to 1M records, 5M monthly function calls.
-  * [ETLR](https://etlr.io) - Define, version, and deploy automation scripts using YAML. A developer-first alternative to drag-and-drop tools. Can be used for scheduled tasks, AI agents, and infrastructure monitoring. Free tier includes 100 credits/month.
-  * [Flutter Flow](https://flutterflow.io) �?Build your Flutter App UI without writing a single line of code. Also has a Firebase integration. The free plan includes full access to UI Builder and Free templates.
-  * [getstream.io](https://getstream.io/) �?Build scalable In-App Chat, Messaging, Video and audio, and Feeds in a few hours instead of weeks
-  * [IFTTT](https://ifttt.com) �?Automate your favorite apps and devices. Free 2 Applets
-  * [Integrately](https://integrately.com) �?Automate tedious tasks with a single click. Free 100 Tasks, 15 Minute
-  * [LeanCloud](https://leancloud.app/) �?Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, and 10K pushes/day are free. (API is very similar to Parse Platform)
-  * [nhost.io](https://nhost.io) - Serverless backend for web and mobile apps. The free plan includes PostgreSQL, GraphQL (Hasura), Authentication, Storage, and Serverless Functions.
-  * [onesignal.com](https://onesignal.com/) �?Unlimited free push notifications. 10,000 email sends per month, with unlimited contacts and access to Auto Warm Up.
-  * [paraio.com](https://paraio.com) �?Backend service API with flexible authentication, full-text search and caching. Free for one app, 1GB of app data.
-  * [pubnub.com](https://www.pubnub.com/) �?Free push notifications for up to 1 million messages/month and 100 active daily devices
-  * [pushbots.com](https://pushbots.com/) �?Push notification service. Free for up to 1.5 million pushes/month
-  * [pusher.com](https://pusher.com/beams) �?Free, unlimited push notifications for 2000 monthly active users. A single API for iOS and Android devices.
-  * [simperium.com](https://simperium.com/) �?Move data everywhere instantly and automatically, multi-platform, unlimited sending and storage of structured data, max. 2,500 users/month
-  * [Supabase](https://supabase.com) �?The Open Source Firebase Alternative to build backends. Free Plan offers Authentication, Realtime Database & Object Storage.
-  * [tyk.io](https://tyk.io/) �?API management with authentication, quotas, monitoring and analytics. Free cloud offering
-  * [zapier.com](https://zapier.com/) �?Connect the apps you use to automate tasks. Five zaps every 15 minutes and 100 tasks/month
+  * [Activepieces](https://www.activepieces.com) - 构建自动化流程，在您的应用程序后端连接多个应用程序。例如，当您的应用程序中触发事件时，发送 Slack 消息或添加 Google Sheet 行。每月最多 5,000 个任务免费。
+  * [back4app.com](https://www.back4app.com) - Back4App 是一个易于使用、灵活且可扩展的基于 Parse Platform 的后端。
+  * [backendless.com](https://backendless.com/) — 移动和 Web BaaS，1 GB 文件存储免费，每月 50,000 次推送通知，表中 1000 个数据对象。
+  * [bismuth.cloud](https://www.bismuth.cloud/) — 我们的 AI 将在我们的函数运行时和托管存储上引导您的 Python API，在我们的在线编辑器或使用您喜欢的工具在本地免费构建和托管。
+  * [Claw.cloud](https://run.claw.cloud) - 一个 PaaS 平台，为 GitHub 账户超过 180 天的用户提供每月 5 美元的免费信用额度。非常适合托管应用程序、数据库等。([免费信用注册链接](https://ap-southeast-1.run.claw.cloud/signin))。
+  * [connectycube.com](https://connectycube.com) - 无限聊天消息、p2p 语音和视频通话、文件附件和推送通知。最多 1000 名用户的应用程序免费。
+  * [convex.dev](https://convex.dev/) - 响应式后端即服务，托管您的数据（具有关系和可序列化 ACID 事务的文档）、无服务器函数和用于向各种客户端流式传输更新的 WebSockets。小型项目免费 - 最多 1M 条记录、5M 次每月函数调用。
+  * [ETLR](https://etlr.io) - 使用 YAML 定义、版本化和部署自动化脚本。拖放工具的开发者优先替代方案。可用于计划任务、AI 代理和基础设施监控。免费层级包括每月 100 个信用额度。
+  * [Flutter Flow](https://flutterflow.io) — 无需编写一行代码即可构建您的 Flutter 应用程序 UI。还具有 Firebase 集成。免费计划包括完全访问 UI 构建器和免费模板。
+  * [getstream.io](https://getstream.io/) — 在几小时内而不是几周内构建可扩展的应用内聊天、消息传递、视频和音频以及信息流
+  * [IFTTT](https://ifttt.com) — 自动化您最喜欢的应用程序和设备。免费 2 个小程序
+  * [Integrately](https://integrately.com) — 单击自动化繁琐的任务。免费 100 个任务，15 分钟
+  * [LeanCloud](https://leancloud.app/) — 移动后端。1GB 数据存储、256MB 实例、每天 3K API 请求和每天 10K 推送免费。（API 与 Parse Platform 非常相似）
+  * [nhost.io](https://nhost.io) - Web 和移动应用程序的无服务器后端。免费计划包括 PostgreSQL、GraphQL (Hasura)、身份验证、存储和无服务器函数。
+  * [onesignal.com](https://onesignal.com/) — 无限免费推送通知。每月发送 10,000 封电子邮件，具有无限联系人并可以访问自动预热。
+  * [paraio.com](https://paraio.com) — 具有灵活身份验证、全文搜索和缓存的后端服务 API。一个应用程序免费，1GB 应用程序数据。
+  * [pubnub.com](https://www.pubnub.com/) — 每月最多 100 万条消息和 100 个每日活动设备的免费推送通知
+  * [pushbots.com](https://pushbots.com/) — 推送通知服务。每月最多 150 万次推送免费
+  * [pusher.com](https://pusher.com/beams) — 为 2000 名每月活跃用户提供免费、无限的推送通知。适用于 iOS 和 Android 设备的单个 API。
+  * [simperium.com](https://simperium.com/) — 即时自动地将数据移动到任何地方，多平台，结构化数据的无限发送和存储，最多 2,500 个用户/月
+  * [Supabase](https://supabase.com) — 用于构建后端的开源 Firebase 替代品。免费计划提供身份验证、实时数据库和对象存储。
+  * [tyk.io](https://tyk.io/) — 具有身份验证、配额、监控和分析的 API 管理。免费云服务
+  * [zapier.com](https://zapier.com/) — 连接您使用的应用程序以自动化任务。每 15 分钟五个 Zaps，每月 100 个任务
 Update Time, five active automations, webhooks.
 
 
