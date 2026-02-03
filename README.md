@@ -801,31 +801,31 @@
   * [Exif Editor](https://exifeditor.io/) �?View, Edit, Scrub, Analyze image/photo metadata in-browser instantly - including GPS location and metadata.
   * [Format Express](https://www.format-express.dev) - Instant online format for JSON / XML / SQL.
   * [FOSSA](https://fossa.com/) - Scalable, end-to-end management for third-party code, license compliance and vulnerabilities.
-  * [Hook Relay](https://www.hookrelay.dev/) - Add webhook support to your app without the hassles: done-for-you queueing, retries with backoff, and logging. The free plan has 100 deliveries per day, 14-day retention, and 3 hook endpoints.
-  * [Hosting Checker](https://hostingchecker.co) - Check hosting information such as ASN, ISP, location and more for any domain, website or IP address. Also includes multiple hosting and DNS-related tools.
-  * [newreleases.io](https://newreleases.io/) - Receive notifications on email, Slack, Telegram, Discord, and custom webhooks for new releases from GitHub, GitLab, Bitbucket, Python PyPI, Java Maven, Node.js NPM, Node.js Yarn, Ruby Gems, PHP Packagist, .NET NuGet, Rust Cargo and Docker Hub.
-  * [OnlineExifViewer](https://onlineexifviewer.com/) �?View EXIF data online instantly for a photo including GPS location and metadata.
-  * [PDFMonkey](https://www.pdfmonkey.io/) �?Manage PDF templates in a dashboard, call the API with dynamic data, and download your PDF. Offers 300 free documents per month.
-  * [Pika Code Screenshots](https://pika.style/templates/code-image) �?Create beautiful, customizable screenshots from code snippets and VSCode using the extension.
-  * [QuickType.io](https://quicktype.io/) - Quickly auto-generate models/class/type/interface and serializers from JSON, schema, and GraphQL for working with data quickly & safely in any programming language. Convert JSON into gorgeous, typesafe code in any language.
-  * [RandomKeygen](https://randomkeygen.com/) - A free mobile-friendly tool that offers a variety of randomly generated keys and passwords you can use to secure any application, service, or device.
-  * [ray.so](https://ray.so/) - Create beautiful images of your code snippets.
-  * [readme.com](https://readme.com/) �?Beautiful documentation made easy, free for Open Source.
-  * [redirect.pizza](https://redirect.pizza/) - Easily manage redirects with HTTPS support. The free plan includes 10 sources and 100,000 hits per month.
-  * [redirection.io](https://redirection.io/) �?SaaS tool for managing HTTP redirections for businesses, marketing and SEO.
-  * [Renamer.ai](https://renamer.ai) �?AI-powered file renaming tool with OCR, metadata extraction, and automation for 20+ languages. Free tier: 15 files/month, including desktop app, batch rename, auto-rename, and normal support.
-  * [ReqBin](https://reqbin.com/) �?Post HTTP Requests Online. Popular Request Methods include GET, POST, PUT, DELETE, and HEAD. Supports Headers and Token Authentication. Includes a basic login system for saving your requests.
-  * [Smartcar API](https://smartcar.com) - An API for cars to locate, get fuel tank, battery levels, odometer, unlock/lock doors, etc.
-  * [snappify](https://snappify.com) - Enables developers to create stunning visuals. From beautiful code snippets to fully fletched technical presentations. The free plan includes up to 3 snaps at once with unlimited downloads and 5 AI-powered code explanations per month.
-  * [Sunrise and Sunset](https://sunrisesunset.io/api/) - Get sunrise and sunset times for a given longitude and latitude.
-  * [superfeedr.com](https://superfeedr.com/) �?Real-time PubSubHubbub compliant feeds, export, analytics. Free with less customization
-  * [SurveyMonkey.com](https://www.surveymonkey.com) �?Create online surveys. Analyze the results online. The free plan allows only 10 questions and 100 responses per survey.
-  * [UUID Generator](https://newuuid.com/) - Generate UUID v1, UUID v4, UUID v7, GUID, Nil UUIDs, CUID v1/v2, NanoID, and ULID instantly with enterprise-grade
-  * [Versionfeeds](https://versionfeeds.com) �?Custom RSS feeds for releases of your favorite software. Have the latest versions of your programming languages, libraries, or loved tools in one feed. (The first 3 feeds are free)
-  * [videoinu](https://videoinu.com) �?Create and edit screen recordings and other videos online.
-  * [Volume Shader BM](https://volumeshaderbm.org) �?Free browser-based GPU benchmark (WebGL). Helps developers test and compare shader performance reproducibly across browsers and devices.
-  * [Webacus](https://webacus.dev) �?Access a wide range of free developer tools for encoding, decoding, and data manipulation.
-  * [XKit](https://xkit.io) �?A collection of free online tools designed to make life easier for developers, students, and everyday users. Include a wide range of Developer tools, Diff/Compare tools, Calculators, Converters and Generators.
+  * [Hook Relay](https://www.hookrelay.dev/) - 为您的应用程序添加 webhook 支持，无需麻烦：为您完成的队列、带退避的重试和日志记录。免费计划每天 100 次投递，14 天保留期，3 个 webhook 端点。
+  * [Hosting Checker](https://hostingchecker.co) - 检查任何域、网站或 IP 地址的托管信息，例如 ASN、ISP、位置等。还包括多个托管和 DNS 相关工具。
+  * [newreleases.io](https://newreleases.io/) - 通过电子邮件、Slack、Telegram、Discord 和自定义 webhooks 接收来自 GitHub、GitLab、Bitbucket、Python PyPI、Java Maven、Node.js NPM、Node.js Yarn、Ruby Gems、PHP Packagist、.NET NuGet、Rust Cargo 和 Docker Hub 的新版本通知。
+  * [OnlineExifViewer](https://onlineexifviewer.com/) — 在线即时查看照片的 EXIF 数据，包括 GPS 位置和元数据。
+  * [PDFMonkey](https://www.pdfmonkey.io/) — 在仪表板中管理 PDF 模板，使用动态数据调用 API，并下载您的 PDF。每月提供 300 个免费文档。
+  * [Pika Code Screenshots](https://pika.style/templates/code-image) — 使用扩展从代码片段和 VSCode 创建美丽的、可定制的截图。
+  * [QuickType.io](https://quicktype.io/) - 从 JSON、schema 和 GraphQL 快速自动生成模型/类/类型/接口和序列化器，以便在任何编程语言中快速安全地处理数据。将 JSON 转换为任何语言的精美、类型安全代码。
+  * [RandomKeygen](https://randomkeygen.com/) - 一个免费的移动友好工具，提供各种随机生成的密钥和密码，您可以使用它们来保护任何应用程序、服务或设备。
+  * [ray.so](https://ray.so/) - 为您的代码片段创建美丽的图像。
+  * [readme.com](https://readme.com/) — 美丽的文档变得简单，开源免费。
+  * [redirect.pizza](https://redirect.pizza/) - 轻松管理支持 HTTPS 的重定向。免费计划包括 10 个源和每月 100,000 次点击。
+  * [redirection.io](https://redirection.io/) — 用于为企业、营销和 SEO 管理 HTTP 重定向的 SaaS 工具。
+  * [Renamer.ai](https://renamer.ai) — AI 驱动的文件重命名工具，支持 OCR、元数据提取和自动化，适用于 20 多种语言。免费层级：每月 15 个文件，包括桌面应用程序、批量重命名、自动重命名和正常支持。
+  * [ReqBin](https://reqbin.com/) — 在线发送 HTTP 请求。流行的请求方法包括 GET、POST、PUT、DELETE 和 HEAD。支持标头和令牌身份验证。包括用于保存请求的基本登录系统。
+  * [Smartcar API](https://smartcar.com) - 汽车定位、获取油箱、电池电量表、里程表、解锁/锁定车门等的 API。
+  * [snappify](https://snappify.com) - 使开发者能够创建令人惊叹的视觉效果。从美丽的代码片段到完整的技术演示文稿。免费计划包括最多 3 个快照，无限下载和每月 5 次 AI 驱动的代码解释。
+  * [Sunrise and Sunset](https://sunrisesunset.io/api/) - 获取给定经度和纬度的日出和日落时间。
+  * [superfeedr.com](https://superfeedr.com/) — 实时 PubSubHubbub 兼容订阅源、导出、分析。免费但自定义较少
+  * [SurveyMonkey.com](https://www.surveymonkey.com) — 创建在线调查。在线分析结果。免费计划每个调查仅允许 10 个问题和 100 个回复。
+  * [UUID Generator](https://newuuid.com/) - 使用企业级技术即时生成 UUID v1、UUID v4、UUID v7、GUID、Nil UUIDs、CUID v1/v2、NanoID 和 ULID
+  * [Versionfeeds](https://versionfeeds.com) — 为您喜爱的软件版本创建自定义 RSS 订阅源。在一个订阅源中获取您编程语言、库或喜爱工具的最新版本。（前 3 个订阅源免费）
+  * [videoinu](https://videoinu.com) — 在线创建和编辑屏幕录制和其他视频。
+  * [Volume Shader BM](https://volumeshaderbm.org) — 免费基于浏览器的 GPU 基准测试（WebGL）。帮助开发者在浏览器和设备之间可重现地测试和比较着色器性能。
+  * [Webacus](https://webacus.dev) — 访问各种免费的开发者工具，用于编码、解码和数据操作。
+  * [XKit](https://xkit.io) — 一系列免费在线工具，旨在为开发者、学生和日常用户简化生活。包括各种开发者工具、Diff/Compare 工具、计算器、转换器和生成器。
   performance and security
 
 **[⬆️ Back to Top](#table-of-contents)**
