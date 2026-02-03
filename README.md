@@ -458,36 +458,36 @@ Update Time, five active automations, webhooks.
   * [Qoddi](https://qoddi.com) - PaaS service similar to Heroku with a developer-centric approach and all-inclusive features. Free tier for static assets, staging, and developer apps.
   * [readthedocs.org](https://readthedocs.org/) �?Free documentation hosting with versioning, PDF generation, and more
   * [render.com](https://render.com) �?Unified cloud to build and run apps and sites with free SSL, a global CDN, private networks, auto-deploys from Git, and completely free plans for web services, databases, and static web pages.
-  * [Serv00.com](https://serv00.com/) �?3 GB of free web hosting with daily backups (7 days). Support: Crontab jobs, SSH access, repositories (GIT, SVN, and Mercurial), support: MySQL, PostgreSQL, MongoDB, PHP, Node.js, Python, Ruby, Java, Perl, TCL/TK, Lua, Erlang, Rust, Pascal, C, C++, D, R, and many more.
-  * [SourceForge](https://sourceforge.net/) �?Find, Create, and Publish Open Source software for free
-  * [surge.sh](https://surge.sh/) �?Static web publishing for Front-End developers. Unlimited sites with custom domain support
-  * [tilda.cc](https://tilda.cc/) �?One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon, and no custom domain
-  * [Vercel](https://vercel.com/) �?Build, deploy, and host web apps with free SSL, global CDN, and unique Preview URLs each time you `git push`. Perfect for Next.js and other Static Site Generators.
-  * [Versoly](https://versoly.com/) �?SaaS-focused website builder - unlimited websites, 70+ blocks, five templates, custom CSS, favicon, SEO and forms. No custom domain.
+  * [Serv00.com](https://serv00.com/) — 3 GB 免费网络托管，每日备份（7 天）。支持：Crontab 作业、SSH 访问、存储库（GIT、SVN 和 Mercurial），支持：MySQL、PostgreSQL、MongoDB、PHP、Node.js、Python、Ruby、Java、Perl、TCL/TK、Lua、Erlang、Rust、Pascal、C、C++、D、R 等等。
+  * [SourceForge](https://sourceforge.net/) — 免费查找、创建和发布开源软件
+  * [surge.sh](https://surge.sh/) — 面向前端开发人员的静态网络发布。无限站点，支持自定义域名
+  * [tilda.cc](https://tilda.cc/) — 一个站点，50 页，50 MB 存储，仅 170+ 个可用块中的主要预定义块，无字体，无网站图标，无自定义域名
+  * [Vercel](https://vercel.com/) — 使用免费 SSL、全球 CDN 构建和部署 Web 应用程序，每次您 `git push` 时都有唯一的预览 URL。非常适合 Next.js 和其他静态站点生成器。
+  * [Versoly](https://versoly.com/) — 专注于 SaaS 的网站构建器 - 无限网站，70+ 个块，五个模板，自定义 CSS、网站图标、SEO 和表单。无自定义域名。
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## DNS
+## 域名系统 (DNS)
 
-  * [1.1.1.1](https://developers.cloudflare.com/1.1.1.1/) - Free public DNS Resolver, which is fast and secure (encrypt your DNS query), provided by Cloudflare. Useful to bypass your internet provider's DNS blocking, prevent DNS query spying, and [to block adult & malware content](https://developers.cloudflare.com/1.1.1.1/1.1.1.1-for-families). It can also be used [via API](https://developers.cloudflare.com/1.1.1.1/encrypted-dns/dns-over-https/make-api-requests). Note: Just a DNS resolver, not a DNS hoster.
-  * [1984.is](https://www.1984.is/product/freedns/) �?Free DNS service with API and lots of other free DNS features included.
-  * [cloudns.net](https://www.cloudns.net/) �?Free DNS hosting up to 1 domain with 50 records
-  * [deSEC](https://desec.io) - Free DNS hosting with API support, designed with security in mind. Runs on open-source software and is supported by [SSE](https://www.securesystems.de/).
-  * [dns.he.net](https://dns.he.net/) �?Free DNS hosting service with Dynamic DNS Support
-  * [dnspod.com](https://www.dnspod.com/) �?Free DNS hosting.
-  * [duckdns.org](https://www.duckdns.org/) �?Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.
-  * [Dynv6.com](https://dynv6.com/) �?Free DDNS service with [API support](https://dynv6.com/docs/apis) and management of a lot of dns record types (like CNAME, MX, SPF, SRV, TXT and others).
-  * [freedns.afraid.org](https://freedns.afraid.org/) �?Free DNS hosting. Also, provide free subdomains based on numerous public user [contributed domains](https://freedns.afraid.org/domain/registry/). Get free subdomains from the "Subdomains" menu after signing up.
-  * [Glauca](https://docs.glauca.digital/hexdns/) �?Free DNS hosting for up to 3 domains and DNSSEC support
-  * [Hetzner](https://www.hetzner.com/dns-console) �?Free DNS hosting from Hetzner with API support.
-  * [huaweicloud.com](https://www.huaweicloud.com/intl/en-us/product/dns.html) �?Free DNS hosting by Huawei
-  * [LocalCert](https://localcert.net) - Free `.localcert.net` subdomains compatible with public CAs for use with-in private networks
-  * [luadns.com](https://www.luadns.com/) �?Free DNS hosting, three domains, all features with reasonable limits
-  * [namecheap.com](https://www.namecheap.com/domains/freedns/) �?Free DNS. No limit on the number of domains
-  * [nextdns.io](https://nextdns.io) - DNS-based firewall, 300K free queries monthly
-  * [noip.at](https://noip.at/) �?Free DDNS service without registration, tracking, logging or advertising. No limit to domains.
-  * [noip](https://www.noip.com/) �?a dynamic DNS service that allows up to 3 hostnames free with confirmation every 30 days
-  * [sslip.io](https://sslip.io/) �?Free DNS service that when queried with a hostname with an embedded IP address returns that IP address.
+  * [1.1.1.1](https://developers.cloudflare.com/1.1.1.1/) - 免费公共 DNS 解析器，快速且安全（加密您的 DNS 查询），由 Cloudflare 提供。用于绕过您的互联网提供商的 DNS 阻止，防止 DNS 查询监视，以及[阻止成人内容和恶意软件内容](https://developers.cloudflare.com/1.1.1.1/1.1.1.1-for-families)。它也可以[通过 API 使用](https://developers.cloudflare.com/1.1.1.1/encrypted-dns/dns-over-https/make-api-requests)。注意：只是一个 DNS 解析器，而不是 DNS 托管服务。
+  * [1984.is](https://www.1984.is/product/freedns/) — 带有 API 和许多其他免费 DNS 功能的免费 DNS 服务。
+  * [cloudns.net](https://www.cloudns.net/) — 免费 DNS 托管，最多 1 个域名，50 条记录
+  * [deSEC](https://desec.io) - 带有 API 支持的免费 DNS 托管，注重安全性设计。在开源软件上运行，由 [SSE](https://www.securesystems.de/) 支持。
+  * [dns.he.net](https://dns.he.net/) — 具有动态 DNS 支持的免费 DNS 托管服务
+  * [dnspod.com](https://www.dnspod.com/) — 免费 DNS 托管。
+  * [duckdns.org](https://www.duckdns.org/) — 免费 DDNS，免费层级最多 5 个域名。提供各种设置的配置指南。
+  * [Dynv6.com](https://dynv6.com/) — 带有 [API 支持](https://dynv6.com/docs/apis)和许多 DNS 记录类型（如 CNAME、MX、SPF、SRV、TXT 等）管理的免费 DDNS 服务。
+  * [freedns.afraid.org](https://freedns.afraid.org/) — 免费 DNS 托管。此外，还提供基于众多公共用户[贡献域名](https://freedns.afraid.org/domain/registry/)的免费子域名。注册后从"子域名"菜单获取免费子域名。
+  * [Glauca](https://docs.glauca.digital/hexdns/) — 最多 3 个域名的免费 DNS 托管和 DNSSEC 支持
+  * [Hetzner](https://www.hetzner.com/dns-console) — 来自 Hetzner 的免费 DNS 托管，带有 API 支持。
+  * [huaweicloud.com](https://www.huaweicloud.com/intl/en-us/product/dns.html) — 华为提供的免费 DNS 托管
+  * [LocalCert](https://localcert.net) - 与公共 CA 兼容的免费 `.localcert.net` 子域名，用于私有网络
+  * [luadns.com](https://www.luadns.com/) — 免费 DNS 托管，三个域名，所有功能都有合理限制
+  * [namecheap.com](https://www.namecheap.com/domains/freedns/) — 免费 DNS。域名数量无限制
+  * [nextdns.io](https://nextdns.io) - 基于 DNS 的防火墙，每月 300K 次免费查询
+  * [noip.at](https://noip.at/) — 无需注册、跟踪、记录或广告的免费 DDNS 服务。域名数量无限制。
+  * [noip](https://www.noip.com/) — 动态 DNS 服务，最多允许 3 个主机名免费，每 30 天确认一次
+  * [sslip.io](https://sslip.io/) — 免费 DNS 服务，当查询带有嵌入 IP 地址的主机名时，返回该 IP 地址。
   * [VolaryDDNS](https://volaryddns.net) - Free high-performant DDNS with no subscriptions or advertisements
   * [zilore.com](https://zilore.com/en/dns) �?Free DNS hosting for 5 domains.
   * [zoneedit.com](https://www.zoneedit.com/free-dns/) �?Free DNS hosting with Dynamic DNS Support.
