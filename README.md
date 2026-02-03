@@ -773,30 +773,30 @@
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Privacy Management
+## 隐私管理
 
-  * [Bearer](https://www.bearer.sh/) - Helps implement privacy by design via audits and continuous workflows so that organizations comply with GDPR and other regulations. The free tier is limited to smaller teams and the SaaS version only.
-  * [Concord](https://www.concord.tech/) - Full data privacy platform, including consent management, privacy request handling (DSARs), and data mapping. Free tier includes core consent management features and they also provide a more advanced plan for free to verified open source projects.
-  * [Cookiefirst](https://cookiefirst.com/) - Cookie banners, auditing, and multi-language consent management solution. The free tier offers a one-time scan and a single banner.
-  * [Iubenda](https://www.iubenda.com/) - Privacy and cookie policies and consent management. The free tier offers limited privacy and cookie policy as well as cookie banners.
-  * [Ketch](https://www.ketch.com/) - Consent management and privacy framework tool. The free tier offers most features with a limited visitor count.
+  * [Bearer](https://www.bearer.sh/) - 通过审计和持续工作流程帮助实现设计隐私，以便组织符合 GDPR 和其他法规。免费层级仅限于较小的团队和 SaaS 版本。
+  * [Concord](https://www.concord.tech/) - 完整的数据隐私平台，包括同意管理、隐私请求处理（DSARs）和数据映射。免费层级包括核心同意管理功能，它们还为经过验证的开源项目提供更高级的计划。
+  * [Cookiefirst](https://cookiefirst.com/) - Cookie 横幅、审计和多语言同意管理解决方案。免费层级提供一次性扫描和单个横幅。
+  * [Iubenda](https://www.iubenda.com/) - 隐私和 Cookie 政策以及同意管理。免费层级提供有限的隐私和 Cookie 政策以及 Cookie 横幅。
+  * [Ketch](https://www.ketch.com/) - 同意管理和隐私框架工具。免费层级提供大多数功能，但访客数量有限。
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Miscellaneous
+## 杂项
 
-  * [BackgroundStyler.com](https://backgroundstyler.com) - Create aesthetic screenshots of your code, text or images to share on social media.
-  * [Base64 decoder/encoder](https://devpal.co/base64-decode/) �?Online free tool for decoding & encoding data.
-  * [BinShare.net](https://binshare.net) - Create & share code or binaries. Available to share as a beautiful image e.g. for Twitter / Facebook post or as a link e.g. for chats or forums.
-  * [Blynk](https://blynk.io) �?A SaaS with API to control, build & evaluate IoT devices. Free Developer Plan with 5 devices, Free Cloud & data storage. Mobile Apps are also available.
-  * [Bricks Note Calculator](https://free.getbricks.app/) - a note-taking app (PWA) with a powerful built-in multiline calculator.
-  * [Carbon.now.sh](https://carbon.now.sh) - create and share code snippets in an aesthetic screenshot-like image format. Usually used to aesthetically share/show off code snippets on Twitter or blog posts.
-  * [Code Time](https://www.software.com/code-time) - an extension for time-tracking and coding metrics in VS Code, Atom, IntelliJ, Sublime Text, and more.
-  * [Codepng](https://www.codepng.app) - Create excellent snapshots from your source code to share on social media.
-  * [CodeToImage](https://codetoimage.com/) - Create screenshots of code or text to share on social media.
-  * [cron-job.org](https://cron-job.org) - Online cronjobs service. Unlimited jobs are free of charge.
-  * [Cronhooks](https://cronhooks.io/) - Schedule on-time or recurring webhooks. The free plan allows 5 ad-hoc schedules.
-  * [datelist.io](https://datelist.io) - Online booking / appointment scheduling system. Free up to 5 bookings per month, includes 1 calendar
+  * [BackgroundStyler.com](https://backgroundstyler.com) - 创建您的代码、文本或图像的美学截图，以便在社交媒体上分享。
+  * [Base64 decoder/encoder](https://devpal.co/base64-decode/) — 在线免费工具，用于解码和编码数据。
+  * [BinShare.net](https://binshare.net) - 创建和共享代码或二进制文件。可以以美丽的图像共享，例如用于 Twitter/Facebook 帖子，或作为链接，例如用于聊天或论坛。
+  * [Blynk](https://blynk.io) — 用于控制、构建和评估 IoT 设备的 SaaS，带 API。免费开发者计划，包括 5 个设备、免费云和数据存储。还提供移动应用程序。
+  * [Bricks Note Calculator](https://free.getbricks.app/) - 一个笔记应用程序（PWA），内置强大的多行计算器。
+  * [Carbon.now.sh](https://carbon.now.sh) - 以美学截图般的图像格式创建和共享代码片段。通常用于在 Twitter 或博客文章上美学地共享/展示代码片段。
+  * [Code Time](https://www.software.com/code-time) - VS Code、Atom、IntelliJ、Sublime Text 等的时间跟踪和编码指标的扩展。
+  * [Codepng](https://www.codepng.app) - 从您的源代码创建出色的快照，以便在社交媒体上分享。
+  * [CodeToImage](https://codetoimage.com/) - 创建代码或文本的截图，以便在社交媒体上分享。
+  * [cron-job.org](https://cron-job.org) - 在线 cronjobs 服务。无限作业免费。
+  * [Cronhooks](https://cronhooks.io/) - 安排定时或重复的 webhooks。免费计划允许 5 个临时计划。
+  * [datelist.io](https://datelist.io) - 在线预订/约会安排系统。每月最多 5 次预订免费，包括 1 个日历
   * [Domain Forward](https://domain-forward.com/) - A straightforward tool to forward any URL or Domain. Free up to 5 domains and 200k requests per month.
   * [Exif Editor](https://exifeditor.io/) �?View, Edit, Scrub, Analyze image/photo metadata in-browser instantly - including GPS location and metadata.
   * [Format Express](https://www.format-express.dev) - Instant online format for JSON / XML / SQL.
