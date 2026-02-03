@@ -677,33 +677,33 @@ Update Time, five active automations, webhooks.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Design and UI
+## 设计和 UI
 
-  * [AllTheFreeStock](https://allthefreestock.com) - a curated list of free stock images, audio and videos.
-  * [Ant Design Landing Page](https://landing.ant.design/) - Ant Design Landing Page provides a template built by Ant Motion's motion components. It has a rich homepage template, downloads the template code package, and can be used quickly. You can also use the editor to quickly build your own dedicated page.
-  * [Backlight](https://backlight.dev/) �?With collaboration between developers and designers at heart, Backlight is a complete coding platform where teams build, document, publish, scale, and maintain Design Systems. The free plan allows up to 3 editors to work on one design system with unlimited viewers.
-  * [BoxySVG](https://boxy-svg.com/app) �?A free installable Web app for drawing SVGs and exporting in SVG, PNG, jpeg, and other formats.
-  * [Branition](https://branition.com/colors) - Hand-curated color pallets best fitted for brands.
-  * [Calendar Icons Generator](https://calendariconsgenerator.app/) -- Generate an entire year's worth of unique icons in a single click, absolutely FREE
-  * [Canva](https://canva.com) - Free online design tool to create visual content.
-  * [Carousel Hero](https://carouselhero.com/) - Free online tool to create social media carousels.
-  * [Circum Icons](https://circumicons.com) - Consistent open-source icons such as SVG for React, Vue, and Svelte.
-  * [clevebrush.com](https://www.cleverbrush.com/) �?Free Graphics Design / Photo Collage App. Also, they offer paid integration of it as a component.
-  * [cloudconvert.com](https://cloudconvert.com/) �?Convert anything to anything. Two hundred eight supported formats including videos and gifs.
-  * [CMYK Pantone](https://www.cmyktopantone.com/) - Easily convert CMYK values to the closest Pantone colors and other color models in seconds for free.
-  * [CodedThemes](https://codedthemes.com/) - Offers a well-crafted admin dashboard & and UI kits designed to simplify and speed up modern web development.
-  * [CodeMyUI](https://codemyui.com) - Handpicked collection of Web Design & UI Inspiration with Code Snippets.
-  * [ColorKit](https://colorkit.co/) - Create color palettes online or get inspiration from top palettes.
-  * [colorr.me](https://colorr.me/) - Color & Gradient Generator
-  * [coolors](https://coolors.co/) - Color palette generator. Free.
-  * [css-gradient.com](https://www.css-gradient.com/) - Free tool to quickly generate custom cross-browser CSS gradients. In RGB and HEX format.
-  * [css.glass](https://css.glass/) -- Free web app for creating glassmorphic designs using CSS.
-  * [DaisyUI](https://daisyui.com/) -- Free. "Use Tailwind CSS but write fewer class names" offers components like buttons.
-  * [easyvectors.com](https://easyvectors.com/) �?EasyVectors.com is a free SVG vector art stock. Download the best vector graphics absolutely for free.
-  * [Excalidraw](https://excalidraw.com/) -- A free online drawing document web page with free save to local and export support.
-  * [figma.com](https://www.figma.com) �?Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and three projects.
-  * [Float UI](https://floatui.com/) - free web development tool for quickly creating modern, responsive websites with sleek design, even for non-designers.
-  * [Flows](https://flows.sh/) -- A fully customizable product adoption platform for building onboarding and user engagement experiences. Free for up to 250 monthly tracked users.
+  * [AllTheFreeStock](https://allthefreestock.com) - 免费库存图像、音频和视频的精选列表。
+  * [Ant Design Landing Page](https://landing.ant.design/) - Ant Design Landing Page 提供由 Ant Motion 动画组件构建的模板。它具有丰富的主页模板，下载模板代码包，并可以快速使用。您还可以使用编辑器快速构建自己的专用页面。
+  * [Backlight](https://backlight.dev/) — 以开发者和设计师之间的协作为核心，Backlight 是一个完整的编码平台，团队可以在其中构建、记录、发布、扩展和维护设计系统。免费计划允许最多 3 名编辑者在一个设计系统上工作，具有无限查看者。
+  * [BoxySVG](https://boxy-svg.com/app) — 一个免费的安装式 Web 应用程序，用于绘制 SVG 并以 SVG、PNG、jpeg 和其他格式导出。
+  * [Branition](https://branition.com/colors) - 手工精选的颜色调色板，最适合品牌使用。
+  * [Calendar Icons Generator](https://calendariconsgenerator.app/) -- 单击生成整年的独特图标，完全免费
+  * [Canva](https://canva.com) - 用于创建视觉内容的免费在线设计工具。
+  * [Carousel Hero](https://carouselhero.com/) - 用于创建社交媒体轮播的免费在线工具。
+  * [Circum Icons](https://circumicons.com) - 一致的开源图标，如 React、Vue 和 Svelte 的 SVG。
+  * [clevebrush.com](https://www.cleverbrush.com/) — 免费图形设计/照片拼贴应用程序。此外，他们提供将其作为组件的付费集成。
+  * [cloudconvert.com](https://cloudconvert.com/) — 将任何东西转换为任何东西。支持 208 种格式，包括视频和 gif。
+  * [CMYK Pantone](https://www.cmyktopantone.com/) - 在几秒钟内轻松地将 CMYK 值转换为最接近的 Pantone 颜色和其他颜色模型，免费。
+  * [CodedThemes](https://codedthemes.com/) - 提供精心制作的管理仪表板和 UI 套件，旨在简化和加速现代 Web 开发。
+  * [CodeMyUI](https://codemyui.com) - 手工精选的 Web 设计和 UI 灵感集合，带有代码片段。
+  * [ColorKit](https://colorkit.co/) - 在线创建颜色调色板或从顶级调色板中获取灵感。
+  * [colorr.me](https://colorr.me/) - 颜色和渐变生成器
+  * [coolors](https://coolors.co/) - 颜色调色板生成器。免费。
+  * [css-gradient.com](https://www.css-gradient.com/) - 免费工具，用于快速生成自定义跨浏览器 CSS 渐变。RGB 和 HEX 格式。
+  * [css.glass](https://css.glass/) -- 免费 Web 应用程序，用于使用 CSS 创建玻璃态设计。
+  * [DaisyUI](https://daisyui.com/) -- 免费。"使用 Tailwind CSS 但编写更少的类名"提供按钮等组件。
+  * [easyvectors.com](https://easyvectors.com/) — EasyVectors.com 是一个免费的 SVG 矢量艺术库存。完全免费下载最佳矢量图形。
+  * [Excalidraw](https://excalidraw.com/) -- 免费在线绘图文档网页，支持免费保存到本地和导出。
+  * [figma.com](https://www.figma.com) — 团队的在线协作设计工具；免费层级包括无限文件和查看者，最多 2 名编辑者和三个项目。
+  * [Float UI](https://floatui.com/) - 免费 Web 开发工具，用于快速创建现代、响应式网站，具有时尚设计，即使对于非设计师也是如此。
+  * [Flows](https://flows.sh/) -- 一个完全可定制的产品采用平台，用于构建引导和用户参与体验。每月最多 250 名跟踪用户免费。
   * [Flyon UI](https://flyonui.com/)- The Easiest Components Library For Tailwind CSS.
   * [framer.com](https://www.framer.com/) - Framer helps you iterate and animate interface ideas for your next app, website, or product—starting with powerful layouts. For anyone validating Framer as a professional prototyping tool: unlimited viewers, up to 2 editors, and up to 3 projects.
   * [freeforcommercialuse.net](https://freeforcommercialuse.net/) �?FFCU Worry-free model/property release stock photos
