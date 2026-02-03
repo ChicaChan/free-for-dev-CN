@@ -551,31 +551,31 @@ Update Time, five active automations, webhooks.
   * [Hookdeck](https://hookdeck.com/pricing) �?Develop, test, and monitor your webhooks from anywhere. 100K requests and 100K attempts per month with three days retention.
   * [localhost.run](https://localhost.run/) �?Expose locally running servers over a tunnel to a public URL.
   * [localtunnel](https://theboroer.github.io/localtunnel-www/) �?Expose locally running servers over a tunnel to a public URL. Free hosted version, and [open source](https://github.com/localtunnel/localtunnel).
-  * [LocalXpose](https://localxpose.io) �?Reverse proxy that enables you to expose your localhost servers to the internet. The free plan has 15 minutes tunnel lifetime.
-  * [ngrok.com](https://ngrok.com/) �?Expose locally running servers over a tunnel to a public URL.
-  * [Pinggy](https://pinggy.io) �?Public URLs for localhost with a single command, no downloads required. HTTPS / TCP / TLS tunnels. The free plan has 60 minutes tunnel lifetime.
-  * [Radmin VPN](https://www.radmin-vpn.com/) �?Connect multiple computers together via a VPN-enabling LAN-like network. Unlimited peers. (Hamachi alternative)
-  * [serveo](https://serveo.net/) �?Expose local servers to the internet. No installation, no signup. Free subdomain, no limits.
+  * [LocalXpose](https://localxpose.io) — 反向代理，使您能够将本地主机服务器暴露到互联网。免费计划有 15 分钟隧道生命周期。
+  * [ngrok.com](https://ngrok.com/) — 通过隧道将本地运行的服务器暴露到公共 URL。
+  * [Pinggy](https://pinggy.io) — 使用单个命令为 localhost 提供公共 URL，无需下载。HTTPS / TCP / TLS 隧道。免费计划有 60 分钟隧道生命周期。
+  * [Radmin VPN](https://www.radmin-vpn.com/) — 通过支持类似 LAN 网络的 VPN 连接多台计算机。无限对等点。（Hamachi 替代品）
+  * [serveo](https://serveo.net/) — 将本地服务器暴露到互联网。无需安装，无需注册。免费子域名，无限制。
   * [stun:global.stun.twilio.com:3478?transport=udp](stun:global.stun.twilio.com:3478?transport=udp) Twilio STUN
   * [stun:stun.l.google.com:19302](stun:stun.l.google.com:19302) - Google STUN
-  * [Tailscale](https://tailscale.com/) �?Zero config VPN, using the open-source WireGuard protocol. Installs on MacOS, iOS, Windows, Linux, and Android devices. Free plan for personal use with 100 devices and three users.
-  * [webhookrelay.com](https://webhookrelay.com) �?Manage, debug, fan-out, and proxy all your webhooks to public or internal (i.e. localhost) destinations. Also, expose servers running in a private network over a tunnel by getting a public HTTP endpoint (`https://yoursubdomain.webrelay.io <----> http://localhost:8080`).
-  * [Xirsys](https://www.xirsys.com/pricing/) �?Unlimited STUN usage + 500 MB monthly TURN bandwidth, capped bandwidth, single geographic region.
-  * [ZeroTier](https://www.zerotier.com) �?FOSS managed virtual Ethernet as a service. Unlimited end-to-end encrypted networks of 25 clients on the free plan. Clients for desktop/mobile/NA; web interface for configuration of custom routing rules and approval of new client nodes on private networks
+  * [Tailscale](https://tailscale.com/) — 零配置 VPN，使用开源 WireGuard 协议。在 MacOS、iOS、Windows、Linux 和 Android 设备上安装。个人使用免费计划，100 台设备和 3 名用户。
+  * [webhookrelay.com](https://webhookrelay.com) — 管理、调试、扇出和代理所有 webhook 到公共或内部（即本地主机）目标。此外，通过获取公共 HTTP 端点（`https://yoursubdomain.webrelay.io <----> http://localhost:8080`），通过隧道暴露在专用网络中运行的服务器。
+  * [Xirsys](https://www.xirsys.com/pricing/) — 无限 STUN 使用 + 每月 500 MB TURN 带宽，限制带宽，单一地理区域。
+  * [ZeroTier](https://www.zerotier.com) — FOSS 托管虚拟以太网即服务。免费计划上无限端到端加密网络，最多 25 个客户端。桌面/移动端客户端；用于自定义路由规则配置和专用网络上新客户端节点批准的 Web 界面
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Issue Tracking and Project Management
+## 问题跟踪和项目管理
 
-  * [acunote.com](https://www.acunote.com/) �?Free project management and SCRUM software for up to 5 team members
-  * [asana.com](https://asana.com/) �?Free for private project with collaborators
-  * [Backlog](https://backlog.com) �?Everything your team needs to release great projects in one platform. The free plan offers 1 Project with ten users & 100MB of storage.
-  * [Basecamp](https://basecamp.com/personal) - To-do lists, milestone management, forum-like messaging, file sharing, and time tracking. Up to 3 projects, 20 users, and 1GB of storage space.
-  * [bitrix24.com](https://www.bitrix24.com/) �?Intranet and project management tool. The free plan has 5GB for unlimited users.
-  * [cacoo.com](https://cacoo.com/) �?Online real-time diagrams: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets
-  * [clickup.com](https://clickup.com/) �?Project management. Free, premium version with cloud storage. Mobile applications and Git integrations are available.
-  * [Clockify](https://clockify.me) - Time tracker and timesheet app that lets you track work hours across projects. Unlimited users, free forever.
-  * [Cloudcraft](https://cloudcraft.co/) �?Design a professional architecture diagram in minutes with the Cloudcraft visual designer, optimized for AWS with intelligent components that show live data too. Free plan has unlimited private diagrams for single user.
+  * [acunote.com](https://www.acunote.com/) — 最多 5 名团队成员的免费项目管理和 SCRUM 软件
+  * [asana.com](https://asana.com/) — 与协作者的私人项目免费
+  * [Backlog](https://backlog.com) — 您的团队在一个平台上发布优秀项目所需的一切。免费计划提供 1 个项目，十个用户和 100MB 存储。
+  * [Basecamp](https://basecamp.com/personal) - 待办事项列表、里程碑管理、类似论坛的消息传递、文件共享和时间跟踪。最多 3 个项目、20 名用户和 1GB 存储空间。
+  * [bitrix24.com](https://www.bitrix24.com/) — 内网和项目管理工具。免费计划有 5GB，无限用户。
+  * [cacoo.com](https://cacoo.com/) — 在线实时图表：流程图、UML、网络。免费最多每个图表 15 个用户，25 张工作表
+  * [clickup.com](https://clickup.com/) — 项目管理。免费，带有云存储的高级版本。提供移动应用程序和 Git 集成。
+  * [Clockify](https://clockify.me) - 时间跟踪和工时表应用程序，让您跨项目跟踪工作时间。无限用户，永久免费。
+  * [Cloudcraft](https://cloudcraft.co/) — 使用 Cloudcraft 可视化设计器在几分钟内设计专业架构图，为 AWS 优化，具有也显示实时数据的智能组件。免费计划为单个用户提供无限私有图表。
   * [Confluence](https://www.atlassian.com/software/confluence) - Atlassian's content collaboration tool is used to help teams collaborate and share knowledge efficiently. Free plan for up to 10 users.
   * [Crosswork](https://crosswork.app/) - Versatile project management platform. Free for up to 3 projects, unlimited users, 1 GB storage.
   * [diagrams.net](https://app.diagrams.net/) �?Online diagrams stored locally in Google Drive, OneDrive, or Dropbox. Free for all features and storage levels
